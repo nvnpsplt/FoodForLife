@@ -951,7 +951,84 @@ class FoodForLife_Demo_Importer
 		// Update options
 		$this->update_options($demo);
 
+		// Replace old demo URLs with current site URL
+		$this->replace_demo_urls();
+
 		wp_send_json_success(esc_html__('Finish setting up front page and blog page.', 'foodforlife'));
+	}
+
+	/**
+	 * Replace demo source URLs with current site URL.
+	 *
+	 * Demo content XML files contain hardcoded URLs from the original
+	 * export environment. This method replaces them in posts, Elementor
+	 * data (postmeta), and theme options after import.
+	 */
+	private function replace_demo_urls()
+	{
+		global $wpdb;
+
+		$site_url = untrailingslashit(home_url());
+
+		// Old demo source URLs to replace (order matters — most specific first).
+		$old_urls = array(
+			'https://wpglozin.com/fashion',
+			'https://wpglozin.com',
+			'http://localhost/glozin',
+		);
+
+		foreach ($old_urls as $old_url) {
+			// 1. Replace in post_content (Gutenberg/classic editor content).
+			$wpdb->query(
+				$wpdb->prepare(
+					"UPDATE {$wpdb->posts} SET post_content = REPLACE(post_content, %s, %s) WHERE post_content LIKE %s",
+					$old_url,
+					$site_url,
+					'%' . $wpdb->esc_like($old_url) . '%'
+				)
+			);
+
+			// 2. Replace in postmeta (Elementor JSON data stored in _elementor_data).
+			$wpdb->query(
+				$wpdb->prepare(
+					"UPDATE {$wpdb->postmeta} SET meta_value = REPLACE(meta_value, %s, %s) WHERE meta_value LIKE %s",
+					$old_url,
+					$site_url,
+					'%' . $wpdb->esc_like($old_url) . '%'
+				)
+			);
+
+			// 3. Replace escaped URLs in Elementor JSON (URLs stored as http:\/\/domain).
+			$old_escaped = str_replace('/', '\\/', $old_url);
+			$new_escaped = str_replace('/', '\\/', $site_url);
+
+			$wpdb->query(
+				$wpdb->prepare(
+					"UPDATE {$wpdb->postmeta} SET meta_value = REPLACE(meta_value, %s, %s) WHERE meta_value LIKE %s",
+					$old_escaped,
+					$new_escaped,
+					'%' . $wpdb->esc_like($old_escaped) . '%'
+				)
+			);
+
+			// 4. Replace in options (customizer, theme mods, etc.).
+			$wpdb->query(
+				$wpdb->prepare(
+					"UPDATE {$wpdb->options} SET option_value = REPLACE(option_value, %s, %s) WHERE option_value LIKE %s",
+					$old_url,
+					$site_url,
+					'%' . $wpdb->esc_like($old_url) . '%'
+				)
+			);
+		}
+
+		// 5. Clear Elementor CSS cache so it regenerates with correct URLs.
+		delete_post_meta_by_key('_elementor_css');
+		delete_option('_elementor_global_css');
+		delete_option('elementor-custom-breakpoints-files');
+
+		// 6. Flush object cache.
+		wp_cache_flush();
 	}
 
 
