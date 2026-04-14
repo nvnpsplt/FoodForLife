@@ -76,7 +76,7 @@ class Plugin_Install {
 			array(
 				'name'               => esc_html__( 'FoodForLife Addons', 'foodforlife' ),
 				'slug'               => 'foodforlife-addons',
-				'source'             => esc_url( 'https://github.com/resilbytewp/foodforlife/raw/refs/heads/main/plugins/foodforlife-addons.zip' ),
+				'source'             => esc_url( 'https://github.com/nvnpsplt/FoodForLife/releases/latest/download/foodforlife-addons.zip' ),
 				'required'           => true,
 				'force_activation'   => false,
 				'force_deactivation' => false,
@@ -120,7 +120,7 @@ class Plugin_Install {
 			array(
 				'name'               => esc_html__( 'FoodForLife Demo Importer', 'foodforlife' ),
 				'slug'               => 'foodforlife-demo-importer',
-				'source'             => esc_url( 'https://github.com/resilbytewp/foodforlife/raw/refs/heads/main/plugins/foodforlife-demo-importer.zip' ),
+				'source'             => esc_url( 'https://github.com/nvnpsplt/FoodForLife/releases/latest/download/foodforlife-demo-importer.zip' ),
 				'required'           => false,
 				'force_activation'   => false,
 				'force_deactivation' => false,
