@@ -111,7 +111,7 @@
 	</wp:tag>
 			<wp:term>
 		<wp:term_id>22</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[404_page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[404_page]]></wp:term_name>
@@ -141,7 +141,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>19</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[archive]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[archive]]></wp:term_name>
@@ -232,7 +232,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>20</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[cart_page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[cart_page]]></wp:term_name>
@@ -262,7 +262,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>21</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[checkout_page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[checkout_page]]></wp:term_name>
@@ -288,21 +288,21 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>81</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_product_tab_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_product_tab_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[custom]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[custom]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>82</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_product_tab_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_product_tab_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[default]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[default]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>16</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[enable]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[enable]]></wp:term_name>
@@ -337,7 +337,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>17</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[footer]]></wp:term_name>
@@ -382,7 +382,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>79</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_product_tab_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_product_tab_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[global]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[global]]></wp:term_name>
@@ -637,7 +637,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>164</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[navigation_bar]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[navigation_bar]]></wp:term_name>
@@ -731,14 +731,14 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>18</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[product]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[product]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>80</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_product_tab_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_product_tab_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[product]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[product]]></wp:term_name>
@@ -4710,10 +4710,10 @@
 					
 					<item>
 		<title><![CDATA[Footer v1]]></title>
-		<link>https://wpglozin.com/activewear/?glozin_builder=footer-v1</link>
+		<link>https://wpglozin.com/activewear/?foodforlife_builder=footer-v1</link>
 		<pubDate>Wed, 19 Mar 2025 03:37:03 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?glozin_builder=footer-v1</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?foodforlife_builder=footer-v1</guid>
 		<description/>
 		<content:encoded><![CDATA[<h2>
 					Help Customers				</h2>
@@ -4790,11 +4790,11 @@ shopping easier. <a href="#">Show on google maps.</a>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_builder]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_builder]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_builder_type" nicename="enable"><![CDATA[enable]]></category>
-		<category domain="glozin_builder_type" nicename="footer"><![CDATA[footer]]></category>
+										<category domain="foodforlife_builder_type" nicename="enable"><![CDATA[enable]]></category>
+		<category domain="foodforlife_builder_type" nicename="footer"><![CDATA[footer]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
@@ -4813,7 +4813,7 @@ shopping easier. <a href="#">Show on google maps.</a>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"7ead77c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":50,"column":"50","row":"50","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"80","right":"0","bottom":"55","left":"0","isLinked":false},"flex_gap_tablet":{"column":"0","row":"35","isLinked":false,"unit":"px","size":0},"flex_gap_mobile":{"column":"0","row":"22","isLinked":false,"unit":"px","size":0},"flex_wrap_tablet":"wrap","padding_mobile":{"unit":"px","top":"65","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2fa76cf","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"24","left":"0","isLinked":false}},"elements":[{"id":"48c223c2","elType":"widget","settings":{"title":"Help Customers","_padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"18","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"glozin-heading"},{"id":"59f94afe","elType":"widget","settings":{"editor":"Find a location nearest you to reduce shipping costs and make\nshopping easier. &lt;a class=\"fw-semibold\" href=\"https://www.google.com/maps?ll=33.580077,-84.547829&amp;z=12&amp;t=m&amp;hl=vi-VN&amp;gl=US&amp;mapclient=embed&amp;q=Main+St+Union+City,+GA+30291+Hoa+K%E1%BB%B3\"&gt;Show on google maps.&lt;/a&gt;","text_color":"#444444","typography_typography":"custom","typography_font_weight":"400","_padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"563fd34b","elType":"widget","settings":{"button_text":"+1 (973) 435-3638","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400"},"elements":[],"widgetType":"glozin-button"},{"id":"3d29c742","elType":"widget","settings":{"button_text":"info@glozinstore.com","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400","button_link":{"url":"mailto:info@glozinstore.com","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"glozin-button"},{"id":"97aeb39","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":{"id":3267,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/facebook.svg"},"library":"svg"},"_id":"45f9e5f","link":{"url":"https://www.facebook.com/WordPress/","is_external":"true","nofollow":"","custom_attributes":""},"name":"Facebook"},{"social_icon":{"value":{"id":3268,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/instagram.svg"},"library":"svg"},"_id":"17d8940","link":{"url":"https://www.instagram.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Instagram"},{"social_icon":{"value":{"id":3269,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/tiktok.svg"},"library":"svg"},"link":{"url":"https://www.tiktok.com/@wordpress","is_external":"true","nofollow":"","custom_attributes":""},"_id":"b92ca6d","name":"TikTok"},{"social_icon":{"value":{"id":3270,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/youtube.svg"},"library":"svg"},"_id":"e8f79d7","link":{"url":"https://www.youtube.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"YouTube"},{"_id":"46b9a1f","social_icon":{"value":{"id":3271,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/snapchat.svg"},"library":"svg"},"link":{"url":"https://www.snapchat.com/explore/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Snapchat"}],"align":"left","icon_border_color":"#444444","_padding":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false},"icon_size":{"unit":"px","size":12,"sizes":[]},"_padding_mobile":{"unit":"px","top":"23","right":"0","bottom":"0","left":"0","isLinked":false},"icon_color":"#444444","icon_color_hover":"#111111"},"elements":[],"widgetType":"glozin-social-icons"}],"isInner":true},{"id":"5b49b6e4","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7532847d","elType":"widget","settings":{"title":"Our Company","menu_items":[{"title_menu":"Menu item 1","_id":"d23853d"},{"title_menu":"Menu item 2","_id":"608fbb4"},{"title_menu":"Menu item 3","_id":"80885c6"}],"list_menu":"our-company","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"7ddac173","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6984e30a","elType":"widget","settings":{"title":"Shop Categories","menu_items":[{"title_menu":"Hot Deals","_id":"d23853d","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Best Seller","_id":"608fbb4","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Sale &amp; Special Offers","_id":"80885c6","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"3ea237e","title_menu":"Leggings","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"ea3a909","title_menu":"Popular Trends","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"90ea128","title_menu":"Loungewear","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}}],"list_menu":"shop-categories","toggle_menu":"yes","menu_type":"custom","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"1ead8f5f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":41},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4c8140b8","elType":"widget","settings":{"form":"721","title":"Sign Up to Newsletter","description":"Sign up for 10% off your first purchase and free shipping. Updates information on Sales and Offers.","after_description":"***By entering the e-mail you accept the &lt;a href=\"https://wpglozin.com/activewear/terms-of-use/\"&gt;terms and conditions&lt;/a&gt; and the &lt;a href=\"https://wpglozin.com/activewear/privacy-policy/\"&gt;privacy policy.&lt;/a&gt;","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-subscribe-group"}],"isInner":true}],"isInner":false},{"id":"838c42c","elType":"container","settings":{"margin_mobile":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"1aa7bbb","elType":"widget","settings":{"text":"Divider","color":"#EBEBEB"},"elements":[],"widgetType":"divider"}],"isInner":false},{"id":"21a97ac0","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"flex_justify_content":"space-between","border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"17","right":"0","bottom":"32","left":"0","isLinked":false},"flex_justify_content_tablet":"space-between","flex_align_items_tablet":"center","flex_gap_mobile":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"15","right":"0","bottom":"30","left":"0","isLinked":false},"flex_direction_tablet":"column","flex_gap_tablet":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17}},"elements":[{"id":"68227182","elType":"container","settings":{"flex_direction":"row","content_width":"full","width":{"unit":"%","size":70},"flex_gap":{"column":"32","row":"10","isLinked":false,"unit":"px","size":32},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content_tablet":"center","flex_gap_tablet":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"flex_wrap_tablet":"wrap"},"elements":[{"id":"3b333ae","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-languages"},{"id":"75789a50","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-currencies"},{"id":"3189b83","elType":"widget","settings":{"title":"© [glozin_year] Glozin store. All rights reserved.","title_size":"span"},"elements":[],"widgetType":"glozin-heading"}],"isInner":true},{"id":"17d76495","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":25},"width_tablet":{"unit":"%","size":45,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"7b719a80","elType":"widget","settings":{"image":{"id":853,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/payment.png","alt":"","source":"library","size":""},"image_size":"full","image_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"7ead77c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":50,"column":"50","row":"50","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"80","right":"0","bottom":"55","left":"0","isLinked":false},"flex_gap_tablet":{"column":"0","row":"35","isLinked":false,"unit":"px","size":0},"flex_gap_mobile":{"column":"0","row":"22","isLinked":false,"unit":"px","size":0},"flex_wrap_tablet":"wrap","padding_mobile":{"unit":"px","top":"65","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2fa76cf","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"24","left":"0","isLinked":false}},"elements":[{"id":"48c223c2","elType":"widget","settings":{"title":"Help Customers","_padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"18","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"glozin-heading"},{"id":"59f94afe","elType":"widget","settings":{"editor":"Find a location nearest you to reduce shipping costs and make\nshopping easier. &lt;a class=\"fw-semibold\" href=\"https://www.google.com/maps?ll=33.580077,-84.547829&amp;z=12&amp;t=m&amp;hl=vi-VN&amp;gl=US&amp;mapclient=embed&amp;q=Main+St+Union+City,+GA+30291+Hoa+K%E1%BB%B3\"&gt;Show on google maps.&lt;/a&gt;","text_color":"#444444","typography_typography":"custom","typography_font_weight":"400","_padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"563fd34b","elType":"widget","settings":{"button_text":"+1 (973) 435-3638","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400"},"elements":[],"widgetType":"glozin-button"},{"id":"3d29c742","elType":"widget","settings":{"button_text":"info@glozinstore.com","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400","button_link":{"url":"mailto:info@glozinstore.com","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"glozin-button"},{"id":"97aeb39","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":{"id":3267,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/facebook.svg"},"library":"svg"},"_id":"45f9e5f","link":{"url":"https://www.facebook.com/WordPress/","is_external":"true","nofollow":"","custom_attributes":""},"name":"Facebook"},{"social_icon":{"value":{"id":3268,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/instagram.svg"},"library":"svg"},"_id":"17d8940","link":{"url":"https://www.instagram.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Instagram"},{"social_icon":{"value":{"id":3269,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/tiktok.svg"},"library":"svg"},"link":{"url":"https://www.tiktok.com/@wordpress","is_external":"true","nofollow":"","custom_attributes":""},"_id":"b92ca6d","name":"TikTok"},{"social_icon":{"value":{"id":3270,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/youtube.svg"},"library":"svg"},"_id":"e8f79d7","link":{"url":"https://www.youtube.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"YouTube"},{"_id":"46b9a1f","social_icon":{"value":{"id":3271,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/snapchat.svg"},"library":"svg"},"link":{"url":"https://www.snapchat.com/explore/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Snapchat"}],"align":"left","icon_border_color":"#444444","_padding":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false},"icon_size":{"unit":"px","size":12,"sizes":[]},"_padding_mobile":{"unit":"px","top":"23","right":"0","bottom":"0","left":"0","isLinked":false},"icon_color":"#444444","icon_color_hover":"#111111"},"elements":[],"widgetType":"glozin-social-icons"}],"isInner":true},{"id":"5b49b6e4","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7532847d","elType":"widget","settings":{"title":"Our Company","menu_items":[{"title_menu":"Menu item 1","_id":"d23853d"},{"title_menu":"Menu item 2","_id":"608fbb4"},{"title_menu":"Menu item 3","_id":"80885c6"}],"list_menu":"our-company","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"7ddac173","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6984e30a","elType":"widget","settings":{"title":"Shop Categories","menu_items":[{"title_menu":"Hot Deals","_id":"d23853d","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Best Seller","_id":"608fbb4","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Sale &amp; Special Offers","_id":"80885c6","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"3ea237e","title_menu":"Leggings","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"ea3a909","title_menu":"Popular Trends","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"90ea128","title_menu":"Loungewear","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}}],"list_menu":"shop-categories","toggle_menu":"yes","menu_type":"custom","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"1ead8f5f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":41},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4c8140b8","elType":"widget","settings":{"form":"721","title":"Sign Up to Newsletter","description":"Sign up for 10% off your first purchase and free shipping. Updates information on Sales and Offers.","after_description":"***By entering the e-mail you accept the &lt;a href=\"https://wpglozin.com/activewear/terms-of-use/\"&gt;terms and conditions&lt;/a&gt; and the &lt;a href=\"https://wpglozin.com/activewear/privacy-policy/\"&gt;privacy policy.&lt;/a&gt;","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-subscribe-group"}],"isInner":true}],"isInner":false},{"id":"838c42c","elType":"container","settings":{"margin_mobile":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"1aa7bbb","elType":"widget","settings":{"text":"Divider","color":"#EBEBEB"},"elements":[],"widgetType":"divider"}],"isInner":false},{"id":"21a97ac0","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"flex_justify_content":"space-between","border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"17","right":"0","bottom":"32","left":"0","isLinked":false},"flex_justify_content_tablet":"space-between","flex_align_items_tablet":"center","flex_gap_mobile":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"15","right":"0","bottom":"30","left":"0","isLinked":false},"flex_direction_tablet":"column","flex_gap_tablet":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17}},"elements":[{"id":"68227182","elType":"container","settings":{"flex_direction":"row","content_width":"full","width":{"unit":"%","size":70},"flex_gap":{"column":"32","row":"10","isLinked":false,"unit":"px","size":32},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content_tablet":"center","flex_gap_tablet":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"flex_wrap_tablet":"wrap"},"elements":[{"id":"3b333ae","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-languages"},{"id":"75789a50","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-currencies"},{"id":"3189b83","elType":"widget","settings":{"title":"© [foodforlife_year] Glozin store. All rights reserved.","title_size":"span"},"elements":[],"widgetType":"glozin-heading"}],"isInner":true},{"id":"17d76495","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":25},"width_tablet":{"unit":"%","size":45,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"7b719a80","elType":"widget","settings":{"image":{"id":853,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/payment.png","alt":"","source":"library","size":""},"image_size":"full","image_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -4861,7 +4861,7 @@ shopping easier. <a href="#">Show on google maps.</a>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"7ead77c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":50,"column":"50","row":"50","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"80","right":"0","bottom":"55","left":"0","isLinked":false},"flex_gap_tablet":{"column":"0","row":"35","isLinked":false,"unit":"px","size":0},"flex_gap_mobile":{"column":"0","row":"22","isLinked":false,"unit":"px","size":0},"flex_wrap_tablet":"wrap","padding_mobile":{"unit":"px","top":"65","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2fa76cf","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"24","left":"0","isLinked":false}},"elements":[{"id":"48c223c2","elType":"widget","settings":{"title":"Help Customers","_padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"18","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"glozin-heading"},{"id":"59f94afe","elType":"widget","settings":{"editor":"Find a location nearest you to reduce shipping costs and make\nshopping easier. &lt;a class=\"fw-semibold\" href=\"https://www.google.com/maps?ll=33.580077,-84.547829&amp;z=12&amp;t=m&amp;hl=vi-VN&amp;gl=US&amp;mapclient=embed&amp;q=Main+St+Union+City,+GA+30291+Hoa+K%E1%BB%B3\"&gt;Show on google maps.&lt;/a&gt;","text_color":"#444444","typography_typography":"custom","typography_font_weight":"400","_padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"563fd34b","elType":"widget","settings":{"button_text":"+1 (973) 435-3638","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400"},"elements":[],"widgetType":"glozin-button"},{"id":"3d29c742","elType":"widget","settings":{"button_text":"info@glozinstore.com","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400","button_link":{"url":"mailto:info@glozinstore.com","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"glozin-button"},{"id":"97aeb39","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":{"id":3267,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/facebook.svg"},"library":"svg"},"_id":"45f9e5f","link":{"url":"https://www.facebook.com/WordPress/","is_external":"true","nofollow":"","custom_attributes":""},"name":"Facebook"},{"social_icon":{"value":{"id":3268,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/instagram.svg"},"library":"svg"},"_id":"17d8940","link":{"url":"https://www.instagram.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Instagram"},{"social_icon":{"value":{"id":3269,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/tiktok.svg"},"library":"svg"},"link":{"url":"https://www.tiktok.com/@wordpress","is_external":"true","nofollow":"","custom_attributes":""},"_id":"b92ca6d","name":"TikTok"},{"social_icon":{"value":{"id":3270,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/youtube.svg"},"library":"svg"},"_id":"e8f79d7","link":{"url":"https://www.youtube.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"YouTube"},{"_id":"46b9a1f","social_icon":{"value":{"id":3271,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/snapchat.svg"},"library":"svg"},"link":{"url":"https://www.snapchat.com/explore/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Snapchat"}],"align":"left","icon_border_color":"#444444","_padding":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false},"icon_size":{"unit":"px","size":12,"sizes":[]},"_padding_mobile":{"unit":"px","top":"23","right":"0","bottom":"0","left":"0","isLinked":false},"icon_color":"#444444","icon_color_hover":"#111111"},"elements":[],"widgetType":"glozin-social-icons"}],"isInner":true},{"id":"5b49b6e4","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7532847d","elType":"widget","settings":{"title":"Our Company","menu_items":[{"title_menu":"Menu item 1","_id":"d23853d"},{"title_menu":"Menu item 2","_id":"608fbb4"},{"title_menu":"Menu item 3","_id":"80885c6"}],"list_menu":"our-company","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"7ddac173","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6984e30a","elType":"widget","settings":{"title":"Shop Categories","menu_items":[{"title_menu":"Hot Deals","_id":"d23853d","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Best Seller","_id":"608fbb4","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Sale &amp; Special Offers","_id":"80885c6","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"3ea237e","title_menu":"Leggings","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"ea3a909","title_menu":"Popular Trends","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"90ea128","title_menu":"Loungewear","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}}],"list_menu":"shop-categories","toggle_menu":"yes","menu_type":"custom","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"1ead8f5f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":41},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4c8140b8","elType":"widget","settings":{"form":"721","title":"Sign Up to Newsletter","description":"Sign up for 10% off your first purchase and free shipping. Updates information on Sales and Offers.","after_description":"***By entering the e-mail you accept the &lt;a href=\"https://wpglozin.com/activewear/terms-of-use/\"&gt;terms and conditions&lt;/a&gt; and the &lt;a href=\"https://wpglozin.com/activewear/privacy-policy/\"&gt;privacy policy.&lt;/a&gt;","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-subscribe-group"}],"isInner":true}],"isInner":false},{"id":"838c42c","elType":"container","settings":{"margin_mobile":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"1aa7bbb","elType":"widget","settings":{"text":"Divider","color":"#EBEBEB"},"elements":[],"widgetType":"divider"}],"isInner":false},{"id":"21a97ac0","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"flex_justify_content":"space-between","border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"17","right":"0","bottom":"32","left":"0","isLinked":false},"flex_justify_content_tablet":"space-between","flex_align_items_tablet":"center","flex_gap_mobile":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"15","right":"0","bottom":"30","left":"0","isLinked":false},"flex_direction_tablet":"column","flex_gap_tablet":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17}},"elements":[{"id":"68227182","elType":"container","settings":{"flex_direction":"row","content_width":"full","width":{"unit":"%","size":70},"flex_gap":{"column":"32","row":"10","isLinked":false,"unit":"px","size":32},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content_tablet":"center","flex_gap_tablet":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"flex_wrap_tablet":"wrap"},"elements":[{"id":"3b333ae","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-languages"},{"id":"75789a50","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-currencies"},{"id":"3189b83","elType":"widget","settings":{"title":"© [glozin_year] Glozin store. All rights reserved.","title_size":"span"},"elements":[],"widgetType":"glozin-heading"}],"isInner":true},{"id":"17d76495","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":25},"width_tablet":{"unit":"%","size":45,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"7b719a80","elType":"widget","settings":{"image":{"id":853,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/payment.png","alt":"","source":"library","size":""},"image_size":"full","image_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"7ead77c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":50,"column":"50","row":"50","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"80","right":"0","bottom":"55","left":"0","isLinked":false},"flex_gap_tablet":{"column":"0","row":"35","isLinked":false,"unit":"px","size":0},"flex_gap_mobile":{"column":"0","row":"22","isLinked":false,"unit":"px","size":0},"flex_wrap_tablet":"wrap","padding_mobile":{"unit":"px","top":"65","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2fa76cf","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"24","left":"0","isLinked":false}},"elements":[{"id":"48c223c2","elType":"widget","settings":{"title":"Help Customers","_padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"18","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"glozin-heading"},{"id":"59f94afe","elType":"widget","settings":{"editor":"Find a location nearest you to reduce shipping costs and make\nshopping easier. &lt;a class=\"fw-semibold\" href=\"https://www.google.com/maps?ll=33.580077,-84.547829&amp;z=12&amp;t=m&amp;hl=vi-VN&amp;gl=US&amp;mapclient=embed&amp;q=Main+St+Union+City,+GA+30291+Hoa+K%E1%BB%B3\"&gt;Show on google maps.&lt;/a&gt;","text_color":"#444444","typography_typography":"custom","typography_font_weight":"400","_padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"563fd34b","elType":"widget","settings":{"button_text":"+1 (973) 435-3638","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400"},"elements":[],"widgetType":"glozin-button"},{"id":"3d29c742","elType":"widget","settings":{"button_text":"info@glozinstore.com","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400","button_link":{"url":"mailto:info@glozinstore.com","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"glozin-button"},{"id":"97aeb39","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":{"id":3267,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/facebook.svg"},"library":"svg"},"_id":"45f9e5f","link":{"url":"https://www.facebook.com/WordPress/","is_external":"true","nofollow":"","custom_attributes":""},"name":"Facebook"},{"social_icon":{"value":{"id":3268,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/instagram.svg"},"library":"svg"},"_id":"17d8940","link":{"url":"https://www.instagram.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Instagram"},{"social_icon":{"value":{"id":3269,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/tiktok.svg"},"library":"svg"},"link":{"url":"https://www.tiktok.com/@wordpress","is_external":"true","nofollow":"","custom_attributes":""},"_id":"b92ca6d","name":"TikTok"},{"social_icon":{"value":{"id":3270,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/youtube.svg"},"library":"svg"},"_id":"e8f79d7","link":{"url":"https://www.youtube.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"YouTube"},{"_id":"46b9a1f","social_icon":{"value":{"id":3271,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/snapchat.svg"},"library":"svg"},"link":{"url":"https://www.snapchat.com/explore/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Snapchat"}],"align":"left","icon_border_color":"#444444","_padding":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false},"icon_size":{"unit":"px","size":12,"sizes":[]},"_padding_mobile":{"unit":"px","top":"23","right":"0","bottom":"0","left":"0","isLinked":false},"icon_color":"#444444","icon_color_hover":"#111111"},"elements":[],"widgetType":"glozin-social-icons"}],"isInner":true},{"id":"5b49b6e4","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7532847d","elType":"widget","settings":{"title":"Our Company","menu_items":[{"title_menu":"Menu item 1","_id":"d23853d"},{"title_menu":"Menu item 2","_id":"608fbb4"},{"title_menu":"Menu item 3","_id":"80885c6"}],"list_menu":"our-company","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"7ddac173","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6984e30a","elType":"widget","settings":{"title":"Shop Categories","menu_items":[{"title_menu":"Hot Deals","_id":"d23853d","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Best Seller","_id":"608fbb4","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Sale &amp; Special Offers","_id":"80885c6","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"3ea237e","title_menu":"Leggings","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"ea3a909","title_menu":"Popular Trends","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"90ea128","title_menu":"Loungewear","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}}],"list_menu":"shop-categories","toggle_menu":"yes","menu_type":"custom","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"1ead8f5f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":41},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4c8140b8","elType":"widget","settings":{"form":"721","title":"Sign Up to Newsletter","description":"Sign up for 10% off your first purchase and free shipping. Updates information on Sales and Offers.","after_description":"***By entering the e-mail you accept the &lt;a href=\"https://wpglozin.com/activewear/terms-of-use/\"&gt;terms and conditions&lt;/a&gt; and the &lt;a href=\"https://wpglozin.com/activewear/privacy-policy/\"&gt;privacy policy.&lt;/a&gt;","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-subscribe-group"}],"isInner":true}],"isInner":false},{"id":"838c42c","elType":"container","settings":{"margin_mobile":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"1aa7bbb","elType":"widget","settings":{"text":"Divider","color":"#EBEBEB"},"elements":[],"widgetType":"divider"}],"isInner":false},{"id":"21a97ac0","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"flex_justify_content":"space-between","border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"17","right":"0","bottom":"32","left":"0","isLinked":false},"flex_justify_content_tablet":"space-between","flex_align_items_tablet":"center","flex_gap_mobile":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"15","right":"0","bottom":"30","left":"0","isLinked":false},"flex_direction_tablet":"column","flex_gap_tablet":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17}},"elements":[{"id":"68227182","elType":"container","settings":{"flex_direction":"row","content_width":"full","width":{"unit":"%","size":70},"flex_gap":{"column":"32","row":"10","isLinked":false,"unit":"px","size":32},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content_tablet":"center","flex_gap_tablet":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"flex_wrap_tablet":"wrap"},"elements":[{"id":"3b333ae","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-languages"},{"id":"75789a50","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-currencies"},{"id":"3189b83","elType":"widget","settings":{"title":"© [foodforlife_year] Glozin store. All rights reserved.","title_size":"span"},"elements":[],"widgetType":"glozin-heading"}],"isInner":true},{"id":"17d76495","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":25},"width_tablet":{"unit":"%","size":45,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"7b719a80","elType":"widget","settings":{"image":{"id":853,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/payment.png","alt":"","source":"library","size":""},"image_size":"full","image_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -4898,10 +4898,10 @@ shopping easier. <a href="#">Show on google maps.</a>
 							</item>
 					<item>
 		<title><![CDATA[Newsletter]]></title>
-		<link>https://wpglozin.com/activewear/?glozin_popup=newsletter</link>
+		<link>https://wpglozin.com/activewear/?foodforlife_popup=newsletter</link>
 		<pubDate>Tue, 15 Apr 2025 06:36:45 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?post_type=glozin_popup&amp;p=1367</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?post_type=foodforlife_popup&amp;p=1367</guid>
 		<description/>
 		<content:encoded><![CDATA[<img width="250" height="410" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-newsletter.webp" alt="" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-newsletter.webp 250w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-newsletter-183x300.webp 183w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-newsletter-130x213.webp 130w" sizes="(max-width: 250px) 100vw, 250px" />															
 				<h2>
@@ -4926,7 +4926,7 @@ shopping easier. <a href="#">Show on google maps.</a>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_popup]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_popup]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -5012,10 +5012,10 @@ shopping easier. <a href="#">Show on google maps.</a>
 							</item>
 					<item>
 		<title><![CDATA[Promotion]]></title>
-		<link>https://wpglozin.com/activewear/?glozin_popup=promotion</link>
+		<link>https://wpglozin.com/activewear/?foodforlife_popup=promotion</link>
 		<pubDate>Tue, 15 Apr 2025 06:38:50 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?post_type=glozin_popup&amp;p=1374</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?post_type=foodforlife_popup&amp;p=1374</guid>
 		<description/>
 		<content:encoded><![CDATA[<img width="250" height="387" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/banner-promotion.webp" alt="" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/banner-promotion.webp 250w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/banner-promotion-194x300.jpg 194w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/banner-promotion-130x201.webp 130w" sizes="(max-width: 250px) 100vw, 250px" />															
 				<h2>
@@ -5041,7 +5041,7 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_popup]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_popup]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -5127,10 +5127,10 @@ Big Promotion				</h2>
 							</item>
 					<item>
 		<title><![CDATA[Leave Popup]]></title>
-		<link>https://wpglozin.com/activewear/?glozin_popup=leave-popup</link>
+		<link>https://wpglozin.com/activewear/?foodforlife_popup=leave-popup</link>
 		<pubDate>Tue, 15 Apr 2025 07:15:12 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?post_type=glozin_popup&amp;p=1385</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?post_type=foodforlife_popup&amp;p=1385</guid>
 		<description/>
 		<content:encoded><![CDATA[<h2>
 					Big Save!<br />
@@ -5187,7 +5187,7 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_popup]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_popup]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -5270,10 +5270,10 @@ Big Promotion				</h2>
 					
 					<item>
 		<title><![CDATA[Description]]></title>
-		<link>https://wpglozin.com/activewear/?glozin_product_tab=description</link>
+		<link>https://wpglozin.com/activewear/?foodforlife_product_tab=description</link>
 		<pubDate>Fri, 18 Apr 2025 07:06:55 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/activewear/?glozin_product_tab=description</guid>
+		<guid isPermaLink="false">https://wpglozin.com/activewear/?foodforlife_product_tab=description</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5288,17 +5288,17 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="default"><![CDATA[default]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="default"><![CDATA[default]]></category>
 						</item>
 					<item>
 		<title><![CDATA[Additional Information]]></title>
-		<link>https://wpglozin.com/activewear/?glozin_product_tab=additional_information</link>
+		<link>https://wpglozin.com/activewear/?foodforlife_product_tab=additional_information</link>
 		<pubDate>Fri, 18 Apr 2025 07:06:55 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/activewear/?glozin_product_tab=additional_information</guid>
+		<guid isPermaLink="false">https://wpglozin.com/activewear/?foodforlife_product_tab=additional_information</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5313,17 +5313,17 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="default"><![CDATA[default]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="default"><![CDATA[default]]></category>
 						</item>
 					<item>
 		<title><![CDATA[Reviews]]></title>
-		<link>https://wpglozin.com/activewear/?glozin_product_tab=reviews</link>
+		<link>https://wpglozin.com/activewear/?foodforlife_product_tab=reviews</link>
 		<pubDate>Fri, 18 Apr 2025 07:06:55 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/activewear/?glozin_product_tab=reviews</guid>
+		<guid isPermaLink="false">https://wpglozin.com/activewear/?foodforlife_product_tab=reviews</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5338,10 +5338,10 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="default"><![CDATA[default]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="default"><![CDATA[default]]></category>
 						</item>
 					<item>
 		<title><![CDATA[Crossover Long Sleeve]]></title>
@@ -5375,7 +5375,7 @@ Big Promotion				</h2>
 		<wp:meta_value><![CDATA[a:3:{i:0;s:4:"2919";i:1;s:4:"3145";i:2;s:4:"3141";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_linked_variant_items]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_linked_variant_items]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:4:{s:10:"attributes";a:1:{i:0;s:4:"id:1";}s:6:"images";a:1:{i:0;s:4:"id:1";}s:4:"size";a:2:{s:4:"id:1";a:2:{s:5:"width";s:2:"53";s:6:"height";s:2:"70";}s:4:"id:5";a:2:{s:5:"width";s:0:"";s:6:"height";s:0:"";}}s:5:"shape";a:2:{s:4:"id:1";s:7:"rounded";s:4:"id:5";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -5386,10 +5386,10 @@ Big Promotion				</h2>
 					
 					<item>
 		<title><![CDATA[Navigation Bar v1]]></title>
-		<link>https://wpglozin.com/activewear/?glozin_builder=navigation-bar-v1</link>
+		<link>https://wpglozin.com/activewear/?foodforlife_builder=navigation-bar-v1</link>
 		<pubDate>Wed, 14 May 2025 03:47:45 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/activewear/?glozin_builder=navigation-bar-v1</guid>
+		<guid isPermaLink="false">https://wpglozin.com/activewear/?foodforlife_builder=navigation-bar-v1</guid>
 		<description/>
 		<content:encoded><![CDATA[<a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" style="fill: none;"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10 15.001v-2.5M8.392 2.353 2.617 6.977c-.65.517-1.066 1.609-.924 2.425L2.8 16.035c.2 1.183 1.333 2.141 2.533 2.141h9.332c1.192 0 2.333-.966 2.533-2.141l1.108-6.633c.134-.816-.283-1.908-.924-2.425l-5.775-4.616c-.891-.716-2.333-.716-3.216-.008Z"></path></svg>Home</a>				
 					<a data-toggle="off-canvas" data-target="account-panel" href="#"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none"><g fill="currentColor"><path d="M18.887 17.699a10.285 10.285 0 0 0-3.768-3.704 10.353 10.353 0 0 0-10.24 0 10.285 10.285 0 0 0-3.768 3.704.87.87 0 0 0 .075.962c.073.09.164.165.268.217a.881.881 0 0 0 .44.114.829.829 0 0 0 .754-.42 8.515 8.515 0 0 1 3.12-3.068 8.572 8.572 0 0 1 8.48 0 8.514 8.514 0 0 1 3.12 3.068.878.878 0 0 0 1.195.315.808.808 0 0 0 .404-.516.869.869 0 0 0-.08-.672ZM10 11.803c1.416 0 2.775-.56 3.784-1.56 1.01-1.001 1.59-2.362 1.617-3.79a5.476 5.476 0 0 0-1.582-3.854 5.375 5.375 0 0 0-3.818-1.596 5.375 5.375 0 0 0-3.819 1.596 5.476 5.476 0 0 0-1.581 3.854 5.474 5.474 0 0 0 1.616 3.79A5.374 5.374 0 0 0 10 11.802Zm-3.6-5.35c0-.964.38-1.888 1.055-2.57a3.583 3.583 0 0 1 2.546-1.063c.955 0 1.87.382 2.545 1.064a3.65 3.65 0 0 1 1.055 2.569 3.65 3.65 0 0 1-1.055 2.569 3.583 3.583 0 0 1-2.545 1.064c-.955 0-1.87-.383-2.546-1.064a3.65 3.65 0 0 1-1.054-2.57Z"></path></g></svg>Account</a>				
@@ -5408,11 +5408,11 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_builder]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_builder]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_builder_type" nicename="enable"><![CDATA[enable]]></category>
-		<category domain="glozin_builder_type" nicename="navigation_bar"><![CDATA[navigation_bar]]></category>
+										<category domain="foodforlife_builder_type" nicename="enable"><![CDATA[enable]]></category>
+		<category domain="foodforlife_builder_type" nicename="navigation_bar"><![CDATA[navigation_bar]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
@@ -6842,10 +6842,10 @@ Big Promotion				</h2>
 							</item>
 					<item>
 		<title><![CDATA[Shipping and Returns]]></title>
-		<link>https://wpglozin.com/activewear/?glozin_product_tab=shipping-and-returns</link>
+		<link>https://wpglozin.com/activewear/?foodforlife_product_tab=shipping-and-returns</link>
 		<pubDate>Mon, 21 Apr 2025 10:11:49 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/activewear/?post_type=glozin_product_tab&amp;p=2195</guid>
+		<guid isPermaLink="false">https://wpglozin.com/activewear/?post_type=foodforlife_product_tab&amp;p=2195</guid>
 		<description/>
 		<content:encoded><![CDATA[We offer fast and reliable shipping for all our clothing items. Orders are processed within <strong style="color:#111111">1-2 business days </strong> and shipped via standard delivery, which typically takes 3-5 business days.
 
@@ -6862,10 +6862,10 @@ Express shipping options are also available at checkout for an additional fee, e
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="global"><![CDATA[global]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="global"><![CDATA[global]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_tab_disable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[no]]></wp:meta_value>
@@ -6877,10 +6877,10 @@ Express shipping options are also available at checkout for an additional fee, e
 							</item>
 					<item>
 		<title><![CDATA[Return Policies]]></title>
-		<link>https://wpglozin.com/activewear/?glozin_product_tab=return-policies</link>
+		<link>https://wpglozin.com/activewear/?foodforlife_product_tab=return-policies</link>
 		<pubDate>Mon, 21 Apr 2025 10:12:14 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/activewear/?post_type=glozin_product_tab&amp;p=2196</guid>
+		<guid isPermaLink="false">https://wpglozin.com/activewear/?post_type=foodforlife_product_tab&amp;p=2196</guid>
 		<description/>
 		<content:encoded><![CDATA[Provided the conditions in our refund policy have been met, refunds will be processed using the original form of payment. You can return an item purchased online by posting it to us. Please contact customer service for return address. Please note that delivery costs will be excluded from the refund unless goods are returned in accordance with your statutory rights (e.g. they are faulty or not as ordered).
 <ul>
@@ -6900,10 +6900,10 @@ Provided the conditions in our refund policy have been met, refunds will be proc
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="global"><![CDATA[global]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="global"><![CDATA[global]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_tab_disable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[no]]></wp:meta_value>
@@ -15513,7 +15513,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -15533,11 +15533,11 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -15545,11 +15545,11 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:43;s:4:"time";i:1751720171;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -15766,7 +15766,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -15786,11 +15786,11 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -15798,7 +15798,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:1;s:4:"time";i:1751719320;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -15814,7 +15814,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[a:1:{i:5;i:1;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16017,7 +16017,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16037,11 +16037,11 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16049,7 +16049,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:36;s:4:"time";i:1751718839;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16065,7 +16065,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[a:1:{i:5;i:1;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16272,7 +16272,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16292,11 +16292,11 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16304,7 +16304,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:33;s:4:"time";i:1751699201;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16312,7 +16312,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[165]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16505,7 +16505,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16537,15 +16537,15 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[a:3:{s:8:"pa_color";a:5:{s:4:"type";s:5:"image";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:3:{i:60;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2982";s:5:"label";s:0:"";}i:46;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2993";s:5:"label";s:0:"";}i:43;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2999";s:5:"label";s:0:"";}}}s:7:"pa_size";a:5:{s:4:"type";s:0:"";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:4:{i:145;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:146;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:147;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:148;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}}}s:8:"pa_style";a:5:{s:4:"type";s:0:"";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:1:{i:159;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:6;s:4:"time";i:1751659484;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16557,7 +16557,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[135]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16581,11 +16581,11 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[a:1:{s:8:"products";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_sale_discount_percent_min]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_sale_discount_percent_min]]></wp:meta_key>
 		<wp:meta_value><![CDATA[9]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_sale_discount_percent_max]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_sale_discount_percent_max]]></wp:meta_key>
 		<wp:meta_value><![CDATA[9]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
@@ -16770,7 +16770,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16790,11 +16790,11 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16802,11 +16802,11 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:41;s:4:"time";i:1751657273;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17032,7 +17032,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17052,11 +17052,11 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17064,11 +17064,11 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:50;s:4:"time";i:1751657995;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17076,11 +17076,11 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[a:1:{i:5;i:1;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_sale_discount_percent_min]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_sale_discount_percent_min]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_sale_discount_percent_max]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_sale_discount_percent_max]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17287,7 +17287,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17307,11 +17307,11 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17319,7 +17319,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:50;s:4:"time";i:1751873028;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17335,7 +17335,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[2025-04-29]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17547,7 +17547,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17567,11 +17567,11 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17579,7 +17579,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:43;s:4:"time";i:1751720569;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17591,7 +17591,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17792,7 +17792,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17816,7 +17816,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:13;s:4:"time";i:1751656482;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17832,15 +17832,15 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[a:2:{s:8:"pa_color";a:5:{s:4:"type";s:5:"image";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:3:{i:41;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"3059";s:5:"label";s:0:"";}i:54;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"3043";s:5:"label";s:0:"";}i:39;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"3048";s:5:"label";s:0:"";}}}s:7:"pa_size";a:5:{s:4:"type";s:0:"";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:4:{i:145;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:146;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:147;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:148;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17990,7 +17990,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -18110,7 +18110,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -18226,7 +18226,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -18342,7 +18342,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -18470,7 +18470,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -18594,7 +18594,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -18714,7 +18714,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -18838,7 +18838,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -18958,7 +18958,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -19074,7 +19074,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -19202,7 +19202,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -19326,7 +19326,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -19446,7 +19446,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -19566,7 +19566,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -19686,7 +19686,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -19806,7 +19806,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -19930,7 +19930,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20050,7 +20050,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20166,7 +20166,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20223,7 +20223,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 									#sale								</a>
 										<a href="#">
 							<svg aria-hidden="true" role="img" focusable="false" width="15" height="15" viewBox="0 0 15 15" fill="currentColor"><path fill="currentColor" d="M14.959 4.41c-.035-.797-.164-1.345-.349-1.82a3.66 3.66 0 0 0-.867-1.33 3.691 3.691 0 0 0-1.328-.864c-.477-.185-1.022-.314-1.82-.35C9.794.01 9.539 0 7.502 0 5.465 0 5.21.009 4.41.044c-.797.035-1.345.164-1.82.349a3.66 3.66 0 0 0-1.33.867c-.38.375-.677.83-.864 1.327-.185.478-.314 1.023-.35 1.82C.01 5.21 0 5.465 0 7.501c0 2.037.009 2.292.044 3.092.035.797.164 1.345.349 1.82a3.7 3.7 0 0 0 .867 1.33c.375.38.83.677 1.327.864.478.185 1.023.314 1.82.349.8.035 1.055.044 3.092.044 2.036 0 2.291-.009 3.091-.044.797-.035 1.345-.164 1.82-.349a3.837 3.837 0 0 0 2.194-2.194c.185-.478.314-1.023.35-1.82.034-.8.043-1.055.043-3.092 0-2.036-.003-2.291-.038-3.091Zm-1.35 6.124c-.033.733-.156 1.128-.259 1.392a2.489 2.489 0 0 1-1.424 1.424c-.264.103-.662.226-1.392.258-.79.035-1.028.044-3.03.044-2 0-2.241-.009-3.03-.044-.732-.032-1.128-.155-1.391-.258a2.308 2.308 0 0 1-.862-.56 2.331 2.331 0 0 1-.56-.86c-.102-.265-.225-.663-.257-1.393-.036-.79-.044-1.028-.044-3.03 0-2.001.008-2.241.044-3.03.032-.732.155-1.128.257-1.391.12-.326.311-.622.563-.862.243-.249.536-.44.862-.56.263-.102.662-.225 1.391-.257.792-.036 1.029-.044 3.03-.044 2.005 0 2.242.008 3.03.044.733.032 1.128.155 1.392.257.325.12.621.311.862.56.249.243.44.536.56.862.102.263.225.662.257 1.391.035.792.044 1.029.044 3.03 0 2.002-.009 2.236-.044 3.027Z"></path><path fill="currentColor" d="M7.506 3.648a3.854 3.854 0 0 0 0 7.707 3.854 3.854 0 0 0 0-7.707Zm0 6.353a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5ZM12.405 3.496a.9.9 0 1 1-1.8 0 .9.9 0 0 1 1.8 0Z"></path></svg>			
-			glozin_store		</a>]]></content:encoded>
+			foodforlife_store		</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1418</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-15 09:37:11]]></wp:post_date>
@@ -20257,7 +20257,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"7d1988b1","elType":"container","settings":[],"elements":[{"id":"7545a2cb","elType":"widget","settings":{"image":{"id":3086,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-1.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2934,"product_items_position_x":{"unit":"%","size":28,"sizes":[]},"product_items_position_y":{"unit":"%","size":34,"sizes":[]}},{"_id":"0a28a5b","product_ids":3061,"product_items_position_x":{"unit":"%","size":38,"sizes":[]},"product_items_position_y":{"unit":"%","size":70,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"glozin_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"7d1988b1","elType":"container","settings":[],"elements":[{"id":"7545a2cb","elType":"widget","settings":{"image":{"id":3086,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-1.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2934,"product_items_position_x":{"unit":"%","size":28,"sizes":[]},"product_items_position_y":{"unit":"%","size":34,"sizes":[]}},{"_id":"0a28a5b","product_ids":3061,"product_items_position_x":{"unit":"%","size":38,"sizes":[]},"product_items_position_y":{"unit":"%","size":70,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"foodforlife_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -20297,7 +20297,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"7d1988b1","elType":"container","settings":[],"elements":[{"id":"7545a2cb","elType":"widget","settings":{"image":{"id":3086,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-1.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2934,"product_items_position_x":{"unit":"%","size":28,"sizes":[]},"product_items_position_y":{"unit":"%","size":34,"sizes":[]}},{"_id":"0a28a5b","product_ids":3061,"product_items_position_x":{"unit":"%","size":38,"sizes":[]},"product_items_position_y":{"unit":"%","size":70,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"glozin_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"7d1988b1","elType":"container","settings":[],"elements":[{"id":"7545a2cb","elType":"widget","settings":{"image":{"id":3086,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-1.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2934,"product_items_position_x":{"unit":"%","size":28,"sizes":[]},"product_items_position_y":{"unit":"%","size":34,"sizes":[]}},{"_id":"0a28a5b","product_ids":3061,"product_items_position_x":{"unit":"%","size":38,"sizes":[]},"product_items_position_y":{"unit":"%","size":70,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"foodforlife_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -20353,7 +20353,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 									#sale								</a>
 										<a href="#">
 							<svg aria-hidden="true" role="img" focusable="false" width="15" height="15" viewBox="0 0 15 15" fill="currentColor"><path fill="currentColor" d="M14.959 4.41c-.035-.797-.164-1.345-.349-1.82a3.66 3.66 0 0 0-.867-1.33 3.691 3.691 0 0 0-1.328-.864c-.477-.185-1.022-.314-1.82-.35C9.794.01 9.539 0 7.502 0 5.465 0 5.21.009 4.41.044c-.797.035-1.345.164-1.82.349a3.66 3.66 0 0 0-1.33.867c-.38.375-.677.83-.864 1.327-.185.478-.314 1.023-.35 1.82C.01 5.21 0 5.465 0 7.501c0 2.037.009 2.292.044 3.092.035.797.164 1.345.349 1.82a3.7 3.7 0 0 0 .867 1.33c.375.38.83.677 1.327.864.478.185 1.023.314 1.82.349.8.035 1.055.044 3.092.044 2.036 0 2.291-.009 3.091-.044.797-.035 1.345-.164 1.82-.349a3.837 3.837 0 0 0 2.194-2.194c.185-.478.314-1.023.35-1.82.034-.8.043-1.055.043-3.092 0-2.036-.003-2.291-.038-3.091Zm-1.35 6.124c-.033.733-.156 1.128-.259 1.392a2.489 2.489 0 0 1-1.424 1.424c-.264.103-.662.226-1.392.258-.79.035-1.028.044-3.03.044-2 0-2.241-.009-3.03-.044-.732-.032-1.128-.155-1.391-.258a2.308 2.308 0 0 1-.862-.56 2.331 2.331 0 0 1-.56-.86c-.102-.265-.225-.663-.257-1.393-.036-.79-.044-1.028-.044-3.03 0-2.001.008-2.241.044-3.03.032-.732.155-1.128.257-1.391.12-.326.311-.622.563-.862.243-.249.536-.44.862-.56.263-.102.662-.225 1.391-.257.792-.036 1.029-.044 3.03-.044 2.005 0 2.242.008 3.03.044.733.032 1.128.155 1.392.257.325.12.621.311.862.56.249.243.44.536.56.862.102.263.225.662.257 1.391.035.792.044 1.029.044 3.03 0 2.002-.009 2.236-.044 3.027Z"></path><path fill="currentColor" d="M7.506 3.648a3.854 3.854 0 0 0 0 7.707 3.854 3.854 0 0 0 0-7.707Zm0 6.353a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5ZM12.405 3.496a.9.9 0 1 1-1.8 0 .9.9 0 0 1 1.8 0Z"></path></svg>			
-			glozin_store		</a>]]></content:encoded>
+			foodforlife_store		</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1502</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-15 10:30:05]]></wp:post_date>
@@ -20387,7 +20387,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"5805b495","elType":"container","settings":[],"elements":[{"id":"7ce07cfa","elType":"widget","settings":{"image":{"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-2.webp","id":3087,"size":"","alt":"","source":"library"},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2954,"product_items_position_x":{"unit":"%","size":29,"sizes":[]},"product_items_position_y":{"unit":"%","size":11,"sizes":[]}},{"_id":"0a28a5b","product_ids":3020,"product_items_position_x":{"unit":"%","size":74,"sizes":[]},"product_items_position_y":{"unit":"%","size":59,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"glozin_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","media_url":{"id":"","url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/placeholder.png"},"aspect_ratio_type":"square","video_source":"hosted","hosted_url":"https://glozin-demo.myshopify.com/cdn/shop/videos/c/vp/82a90e513f53460ebdac7d151883a049/82a90e513f53460ebdac7d151883a049.HD-1080p-4.8Mbps-29648857.mp4","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"5805b495","elType":"container","settings":[],"elements":[{"id":"7ce07cfa","elType":"widget","settings":{"image":{"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-2.webp","id":3087,"size":"","alt":"","source":"library"},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2954,"product_items_position_x":{"unit":"%","size":29,"sizes":[]},"product_items_position_y":{"unit":"%","size":11,"sizes":[]}},{"_id":"0a28a5b","product_ids":3020,"product_items_position_x":{"unit":"%","size":74,"sizes":[]},"product_items_position_y":{"unit":"%","size":59,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"foodforlife_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","media_url":{"id":"","url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/placeholder.png"},"aspect_ratio_type":"square","video_source":"hosted","hosted_url":"https://glozin-demo.myshopify.com/cdn/shop/videos/c/vp/82a90e513f53460ebdac7d151883a049/82a90e513f53460ebdac7d151883a049.HD-1080p-4.8Mbps-29648857.mp4","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -20423,7 +20423,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"5805b495","elType":"container","settings":[],"elements":[{"id":"7ce07cfa","elType":"widget","settings":{"image":{"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-2.webp","id":3087,"size":"","alt":"","source":"library"},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2954,"product_items_position_x":{"unit":"%","size":29,"sizes":[]},"product_items_position_y":{"unit":"%","size":11,"sizes":[]}},{"_id":"0a28a5b","product_ids":3020,"product_items_position_x":{"unit":"%","size":74,"sizes":[]},"product_items_position_y":{"unit":"%","size":59,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"glozin_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","media_url":{"id":"","url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/placeholder.png"},"aspect_ratio_type":"square","video_source":"hosted","hosted_url":"https://glozin-demo.myshopify.com/cdn/shop/videos/c/vp/82a90e513f53460ebdac7d151883a049/82a90e513f53460ebdac7d151883a049.HD-1080p-4.8Mbps-29648857.mp4","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"5805b495","elType":"container","settings":[],"elements":[{"id":"7ce07cfa","elType":"widget","settings":{"image":{"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-2.webp","id":3087,"size":"","alt":"","source":"library"},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2954,"product_items_position_x":{"unit":"%","size":29,"sizes":[]},"product_items_position_y":{"unit":"%","size":11,"sizes":[]}},{"_id":"0a28a5b","product_ids":3020,"product_items_position_x":{"unit":"%","size":74,"sizes":[]},"product_items_position_y":{"unit":"%","size":59,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"foodforlife_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","media_url":{"id":"","url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/placeholder.png"},"aspect_ratio_type":"square","video_source":"hosted","hosted_url":"https://glozin-demo.myshopify.com/cdn/shop/videos/c/vp/82a90e513f53460ebdac7d151883a049/82a90e513f53460ebdac7d151883a049.HD-1080p-4.8Mbps-29648857.mp4","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -20482,7 +20482,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 									#sale								</a>
 										<a href="#">
 							<svg aria-hidden="true" role="img" focusable="false" width="15" height="15" viewBox="0 0 15 15" fill="currentColor"><path fill="currentColor" d="M14.959 4.41c-.035-.797-.164-1.345-.349-1.82a3.66 3.66 0 0 0-.867-1.33 3.691 3.691 0 0 0-1.328-.864c-.477-.185-1.022-.314-1.82-.35C9.794.01 9.539 0 7.502 0 5.465 0 5.21.009 4.41.044c-.797.035-1.345.164-1.82.349a3.66 3.66 0 0 0-1.33.867c-.38.375-.677.83-.864 1.327-.185.478-.314 1.023-.35 1.82C.01 5.21 0 5.465 0 7.501c0 2.037.009 2.292.044 3.092.035.797.164 1.345.349 1.82a3.7 3.7 0 0 0 .867 1.33c.375.38.83.677 1.327.864.478.185 1.023.314 1.82.349.8.035 1.055.044 3.092.044 2.036 0 2.291-.009 3.091-.044.797-.035 1.345-.164 1.82-.349a3.837 3.837 0 0 0 2.194-2.194c.185-.478.314-1.023.35-1.82.034-.8.043-1.055.043-3.092 0-2.036-.003-2.291-.038-3.091Zm-1.35 6.124c-.033.733-.156 1.128-.259 1.392a2.489 2.489 0 0 1-1.424 1.424c-.264.103-.662.226-1.392.258-.79.035-1.028.044-3.03.044-2 0-2.241-.009-3.03-.044-.732-.032-1.128-.155-1.391-.258a2.308 2.308 0 0 1-.862-.56 2.331 2.331 0 0 1-.56-.86c-.102-.265-.225-.663-.257-1.393-.036-.79-.044-1.028-.044-3.03 0-2.001.008-2.241.044-3.03.032-.732.155-1.128.257-1.391.12-.326.311-.622.563-.862.243-.249.536-.44.862-.56.263-.102.662-.225 1.391-.257.792-.036 1.029-.044 3.03-.044 2.005 0 2.242.008 3.03.044.733.032 1.128.155 1.392.257.325.12.621.311.862.56.249.243.44.536.56.862.102.263.225.662.257 1.391.035.792.044 1.029.044 3.03 0 2.002-.009 2.236-.044 3.027Z"></path><path fill="currentColor" d="M7.506 3.648a3.854 3.854 0 0 0 0 7.707 3.854 3.854 0 0 0 0-7.707Zm0 6.353a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5ZM12.405 3.496a.9.9 0 1 1-1.8 0 .9.9 0 0 1 1.8 0Z"></path></svg>			
-			glozin_store		</a>]]></content:encoded>
+			foodforlife_store		</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1508</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-15 10:34:49]]></wp:post_date>
@@ -20520,7 +20520,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"456006f2","elType":"container","settings":[],"elements":[{"id":"5f51cf51","elType":"widget","settings":{"image":{"id":3088,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-3.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":3042,"product_items_position_x":{"unit":"%","size":65,"sizes":[]},"product_items_position_y":{"unit":"%","size":46,"sizes":[]}},{"_id":"0a28a5b","product_ids":2981,"product_items_position_x":{"unit":"%","size":40,"sizes":[]},"product_items_position_y":{"unit":"%","size":78,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"glozin_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"456006f2","elType":"container","settings":[],"elements":[{"id":"5f51cf51","elType":"widget","settings":{"image":{"id":3088,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-3.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":3042,"product_items_position_x":{"unit":"%","size":65,"sizes":[]},"product_items_position_y":{"unit":"%","size":46,"sizes":[]}},{"_id":"0a28a5b","product_ids":2981,"product_items_position_x":{"unit":"%","size":40,"sizes":[]},"product_items_position_y":{"unit":"%","size":78,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"foodforlife_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -20564,7 +20564,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"456006f2","elType":"container","settings":[],"elements":[{"id":"5f51cf51","elType":"widget","settings":{"image":{"id":3088,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-3.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":3042,"product_items_position_x":{"unit":"%","size":65,"sizes":[]},"product_items_position_y":{"unit":"%","size":46,"sizes":[]}},{"_id":"0a28a5b","product_ids":2981,"product_items_position_x":{"unit":"%","size":40,"sizes":[]},"product_items_position_y":{"unit":"%","size":78,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"glozin_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"456006f2","elType":"container","settings":[],"elements":[{"id":"5f51cf51","elType":"widget","settings":{"image":{"id":3088,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-3.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":3042,"product_items_position_x":{"unit":"%","size":65,"sizes":[]},"product_items_position_y":{"unit":"%","size":46,"sizes":[]}},{"_id":"0a28a5b","product_ids":2981,"product_items_position_x":{"unit":"%","size":40,"sizes":[]},"product_items_position_y":{"unit":"%","size":78,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"foodforlife_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -20620,7 +20620,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 									#sale								</a>
 										<a href="#">
 							<svg aria-hidden="true" role="img" focusable="false" width="15" height="15" viewBox="0 0 15 15" fill="currentColor"><path fill="currentColor" d="M14.959 4.41c-.035-.797-.164-1.345-.349-1.82a3.66 3.66 0 0 0-.867-1.33 3.691 3.691 0 0 0-1.328-.864c-.477-.185-1.022-.314-1.82-.35C9.794.01 9.539 0 7.502 0 5.465 0 5.21.009 4.41.044c-.797.035-1.345.164-1.82.349a3.66 3.66 0 0 0-1.33.867c-.38.375-.677.83-.864 1.327-.185.478-.314 1.023-.35 1.82C.01 5.21 0 5.465 0 7.501c0 2.037.009 2.292.044 3.092.035.797.164 1.345.349 1.82a3.7 3.7 0 0 0 .867 1.33c.375.38.83.677 1.327.864.478.185 1.023.314 1.82.349.8.035 1.055.044 3.092.044 2.036 0 2.291-.009 3.091-.044.797-.035 1.345-.164 1.82-.349a3.837 3.837 0 0 0 2.194-2.194c.185-.478.314-1.023.35-1.82.034-.8.043-1.055.043-3.092 0-2.036-.003-2.291-.038-3.091Zm-1.35 6.124c-.033.733-.156 1.128-.259 1.392a2.489 2.489 0 0 1-1.424 1.424c-.264.103-.662.226-1.392.258-.79.035-1.028.044-3.03.044-2 0-2.241-.009-3.03-.044-.732-.032-1.128-.155-1.391-.258a2.308 2.308 0 0 1-.862-.56 2.331 2.331 0 0 1-.56-.86c-.102-.265-.225-.663-.257-1.393-.036-.79-.044-1.028-.044-3.03 0-2.001.008-2.241.044-3.03.032-.732.155-1.128.257-1.391.12-.326.311-.622.563-.862.243-.249.536-.44.862-.56.263-.102.662-.225 1.391-.257.792-.036 1.029-.044 3.03-.044 2.005 0 2.242.008 3.03.044.733.032 1.128.155 1.392.257.325.12.621.311.862.56.249.243.44.536.56.862.102.263.225.662.257 1.391.035.792.044 1.029.044 3.03 0 2.002-.009 2.236-.044 3.027Z"></path><path fill="currentColor" d="M7.506 3.648a3.854 3.854 0 0 0 0 7.707 3.854 3.854 0 0 0 0-7.707Zm0 6.353a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5ZM12.405 3.496a.9.9 0 1 1-1.8 0 .9.9 0 0 1 1.8 0Z"></path></svg>			
-			glozin_store		</a>]]></content:encoded>
+			foodforlife_store		</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1516</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-15 10:36:56]]></wp:post_date>
@@ -20654,7 +20654,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"5efe4df9","elType":"container","settings":[],"elements":[{"id":"70c9f2a3","elType":"widget","settings":{"image":{"id":3089,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-4.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2981,"product_items_position_x":{"unit":"%","size":44,"sizes":[]},"product_items_position_y":{"unit":"%","size":76,"sizes":[]}},{"_id":"0a28a5b","product_ids":3061,"product_items_position_x":{"unit":"%","size":55,"sizes":[]},"product_items_position_y":{"unit":"%","size":40,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"glozin_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"5efe4df9","elType":"container","settings":[],"elements":[{"id":"70c9f2a3","elType":"widget","settings":{"image":{"id":3089,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-4.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2981,"product_items_position_x":{"unit":"%","size":44,"sizes":[]},"product_items_position_y":{"unit":"%","size":76,"sizes":[]}},{"_id":"0a28a5b","product_ids":3061,"product_items_position_x":{"unit":"%","size":55,"sizes":[]},"product_items_position_y":{"unit":"%","size":40,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"foodforlife_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -20694,7 +20694,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"5efe4df9","elType":"container","settings":[],"elements":[{"id":"70c9f2a3","elType":"widget","settings":{"image":{"id":3089,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-4.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2981,"product_items_position_x":{"unit":"%","size":44,"sizes":[]},"product_items_position_y":{"unit":"%","size":76,"sizes":[]}},{"_id":"0a28a5b","product_ids":3061,"product_items_position_x":{"unit":"%","size":55,"sizes":[]},"product_items_position_y":{"unit":"%","size":40,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"glozin_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"5efe4df9","elType":"container","settings":[],"elements":[{"id":"70c9f2a3","elType":"widget","settings":{"image":{"id":3089,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-4.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2981,"product_items_position_x":{"unit":"%","size":44,"sizes":[]},"product_items_position_y":{"unit":"%","size":76,"sizes":[]}},{"_id":"0a28a5b","product_ids":3061,"product_items_position_x":{"unit":"%","size":55,"sizes":[]},"product_items_position_y":{"unit":"%","size":40,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"foodforlife_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -20750,7 +20750,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 									#sale								</a>
 										<a href="#">
 							<svg aria-hidden="true" role="img" focusable="false" width="15" height="15" viewBox="0 0 15 15" fill="currentColor"><path fill="currentColor" d="M14.959 4.41c-.035-.797-.164-1.345-.349-1.82a3.66 3.66 0 0 0-.867-1.33 3.691 3.691 0 0 0-1.328-.864c-.477-.185-1.022-.314-1.82-.35C9.794.01 9.539 0 7.502 0 5.465 0 5.21.009 4.41.044c-.797.035-1.345.164-1.82.349a3.66 3.66 0 0 0-1.33.867c-.38.375-.677.83-.864 1.327-.185.478-.314 1.023-.35 1.82C.01 5.21 0 5.465 0 7.501c0 2.037.009 2.292.044 3.092.035.797.164 1.345.349 1.82a3.7 3.7 0 0 0 .867 1.33c.375.38.83.677 1.327.864.478.185 1.023.314 1.82.349.8.035 1.055.044 3.092.044 2.036 0 2.291-.009 3.091-.044.797-.035 1.345-.164 1.82-.349a3.837 3.837 0 0 0 2.194-2.194c.185-.478.314-1.023.35-1.82.034-.8.043-1.055.043-3.092 0-2.036-.003-2.291-.038-3.091Zm-1.35 6.124c-.033.733-.156 1.128-.259 1.392a2.489 2.489 0 0 1-1.424 1.424c-.264.103-.662.226-1.392.258-.79.035-1.028.044-3.03.044-2 0-2.241-.009-3.03-.044-.732-.032-1.128-.155-1.391-.258a2.308 2.308 0 0 1-.862-.56 2.331 2.331 0 0 1-.56-.86c-.102-.265-.225-.663-.257-1.393-.036-.79-.044-1.028-.044-3.03 0-2.001.008-2.241.044-3.03.032-.732.155-1.128.257-1.391.12-.326.311-.622.563-.862.243-.249.536-.44.862-.56.263-.102.662-.225 1.391-.257.792-.036 1.029-.044 3.03-.044 2.005 0 2.242.008 3.03.044.733.032 1.128.155 1.392.257.325.12.621.311.862.56.249.243.44.536.56.862.102.263.225.662.257 1.391.035.792.044 1.029.044 3.03 0 2.002-.009 2.236-.044 3.027Z"></path><path fill="currentColor" d="M7.506 3.648a3.854 3.854 0 0 0 0 7.707 3.854 3.854 0 0 0 0-7.707Zm0 6.353a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5ZM12.405 3.496a.9.9 0 1 1-1.8 0 .9.9 0 0 1 1.8 0Z"></path></svg>			
-			glozin_store		</a>]]></content:encoded>
+			foodforlife_store		</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1522</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-15 10:40:27]]></wp:post_date>
@@ -20784,7 +20784,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"2df4e1bc","elType":"container","settings":[],"elements":[{"id":"268971b9","elType":"widget","settings":{"image":{"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-5.webp","id":3090,"size":"","alt":"","source":"library"},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2934,"product_items_position_y":{"unit":"%","size":11,"sizes":[]}},{"_id":"0a28a5b","product_ids":3020,"product_items_position_x":{"unit":"%","size":58,"sizes":[]},"product_items_position_y":{"unit":"%","size":77,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"glozin_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","media_url":{"id":"","url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/placeholder.png"},"video_source":"hosted","hosted_url":"https://cdn.shopify.com/videos/c/o/v/88e5e837c5784d3ea7a700c02c76dba5.mp4","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"2df4e1bc","elType":"container","settings":[],"elements":[{"id":"268971b9","elType":"widget","settings":{"image":{"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-5.webp","id":3090,"size":"","alt":"","source":"library"},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2934,"product_items_position_y":{"unit":"%","size":11,"sizes":[]}},{"_id":"0a28a5b","product_ids":3020,"product_items_position_x":{"unit":"%","size":58,"sizes":[]},"product_items_position_y":{"unit":"%","size":77,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"foodforlife_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","media_url":{"id":"","url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/placeholder.png"},"video_source":"hosted","hosted_url":"https://cdn.shopify.com/videos/c/o/v/88e5e837c5784d3ea7a700c02c76dba5.mp4","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -20820,7 +20820,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"2df4e1bc","elType":"container","settings":[],"elements":[{"id":"268971b9","elType":"widget","settings":{"image":{"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-5.webp","id":3090,"size":"","alt":"","source":"library"},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2934,"product_items_position_y":{"unit":"%","size":11,"sizes":[]}},{"_id":"0a28a5b","product_ids":3020,"product_items_position_x":{"unit":"%","size":58,"sizes":[]},"product_items_position_y":{"unit":"%","size":77,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"glozin_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","media_url":{"id":"","url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/placeholder.png"},"video_source":"hosted","hosted_url":"https://cdn.shopify.com/videos/c/o/v/88e5e837c5784d3ea7a700c02c76dba5.mp4","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"2df4e1bc","elType":"container","settings":[],"elements":[{"id":"268971b9","elType":"widget","settings":{"image":{"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-5.webp","id":3090,"size":"","alt":"","source":"library"},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2934,"product_items_position_y":{"unit":"%","size":11,"sizes":[]}},{"_id":"0a28a5b","product_ids":3020,"product_items_position_x":{"unit":"%","size":58,"sizes":[]},"product_items_position_y":{"unit":"%","size":77,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"foodforlife_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","media_url":{"id":"","url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/placeholder.png"},"video_source":"hosted","hosted_url":"https://cdn.shopify.com/videos/c/o/v/88e5e837c5784d3ea7a700c02c76dba5.mp4","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -20876,7 +20876,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 									#sale								</a>
 										<a href="#">
 							<svg aria-hidden="true" role="img" focusable="false" width="15" height="15" viewBox="0 0 15 15" fill="currentColor"><path fill="currentColor" d="M14.959 4.41c-.035-.797-.164-1.345-.349-1.82a3.66 3.66 0 0 0-.867-1.33 3.691 3.691 0 0 0-1.328-.864c-.477-.185-1.022-.314-1.82-.35C9.794.01 9.539 0 7.502 0 5.465 0 5.21.009 4.41.044c-.797.035-1.345.164-1.82.349a3.66 3.66 0 0 0-1.33.867c-.38.375-.677.83-.864 1.327-.185.478-.314 1.023-.35 1.82C.01 5.21 0 5.465 0 7.501c0 2.037.009 2.292.044 3.092.035.797.164 1.345.349 1.82a3.7 3.7 0 0 0 .867 1.33c.375.38.83.677 1.327.864.478.185 1.023.314 1.82.349.8.035 1.055.044 3.092.044 2.036 0 2.291-.009 3.091-.044.797-.035 1.345-.164 1.82-.349a3.837 3.837 0 0 0 2.194-2.194c.185-.478.314-1.023.35-1.82.034-.8.043-1.055.043-3.092 0-2.036-.003-2.291-.038-3.091Zm-1.35 6.124c-.033.733-.156 1.128-.259 1.392a2.489 2.489 0 0 1-1.424 1.424c-.264.103-.662.226-1.392.258-.79.035-1.028.044-3.03.044-2 0-2.241-.009-3.03-.044-.732-.032-1.128-.155-1.391-.258a2.308 2.308 0 0 1-.862-.56 2.331 2.331 0 0 1-.56-.86c-.102-.265-.225-.663-.257-1.393-.036-.79-.044-1.028-.044-3.03 0-2.001.008-2.241.044-3.03.032-.732.155-1.128.257-1.391.12-.326.311-.622.563-.862.243-.249.536-.44.862-.56.263-.102.662-.225 1.391-.257.792-.036 1.029-.044 3.03-.044 2.005 0 2.242.008 3.03.044.733.032 1.128.155 1.392.257.325.12.621.311.862.56.249.243.44.536.56.862.102.263.225.662.257 1.391.035.792.044 1.029.044 3.03 0 2.002-.009 2.236-.044 3.027Z"></path><path fill="currentColor" d="M7.506 3.648a3.854 3.854 0 0 0 0 7.707 3.854 3.854 0 0 0 0-7.707Zm0 6.353a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5ZM12.405 3.496a.9.9 0 1 1-1.8 0 .9.9 0 0 1 1.8 0Z"></path></svg>			
-			glozin_store		</a>]]></content:encoded>
+			foodforlife_store		</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1527</wp:post_id>
 		<wp:post_date><![CDATA[2025-04-15 10:41:08]]></wp:post_date>
@@ -20910,7 +20910,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"9ea3c51","elType":"container","settings":[],"elements":[{"id":"2d93f214","elType":"widget","settings":{"image":{"id":3091,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-6.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2919,"product_items_position_y":{"unit":"%","size":72,"sizes":[]}},{"_id":"0a28a5b","product_ids":2981,"product_items_position_x":{"unit":"%","size":74,"sizes":[]},"product_items_position_y":{"unit":"%","size":88,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"glozin_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"9ea3c51","elType":"container","settings":[],"elements":[{"id":"2d93f214","elType":"widget","settings":{"image":{"id":3091,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-6.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2919,"product_items_position_y":{"unit":"%","size":72,"sizes":[]}},{"_id":"0a28a5b","product_ids":2981,"product_items_position_x":{"unit":"%","size":74,"sizes":[]},"product_items_position_y":{"unit":"%","size":88,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"foodforlife_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -20950,7 +20950,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"9ea3c51","elType":"container","settings":[],"elements":[{"id":"2d93f214","elType":"widget","settings":{"image":{"id":3091,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-6.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2919,"product_items_position_y":{"unit":"%","size":72,"sizes":[]}},{"_id":"0a28a5b","product_ids":2981,"product_items_position_x":{"unit":"%","size":74,"sizes":[]},"product_items_position_y":{"unit":"%","size":88,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"glozin_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"9ea3c51","elType":"container","settings":[],"elements":[{"id":"2d93f214","elType":"widget","settings":{"image":{"id":3091,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-activewear-ins-6.webp","alt":"","source":"library","size":""},"items":[{"_id":"d6e59e8"}],"youtube_url":"https://www.youtube.com/watch?v=XHOmBV4js_E","vimeo_url":"https://vimeo.com/235215203","hotspots":[{"_id":"af2b4da","product_ids":2919,"product_items_position_y":{"unit":"%","size":72,"sizes":[]}},{"_id":"0a28a5b","product_ids":2981,"product_items_position_x":{"unit":"%","size":74,"sizes":[]},"product_items_position_y":{"unit":"%","size":88,"sizes":[]}}],"tags":[{"_id":"7b55d24","tag":"#cotton"},{"_id":"d6fbecc","tag":"#glozin"},{"_id":"1213bd7","tag":"#trending"},{"_id":"60b5cf4","tag":"#sale"}],"button_text":"foodforlife_store","content":"&lt;p&gt;We're totally smitten over this look! will you be creating a red or pink makeup look for valentine's day?&lt;/p&gt;","_margin":{"unit":"px","top":"-1","right":"-1","bottom":"-1","left":"-1","isLinked":true}},"elements":[],"widgetType":"glozin-shoppable-images"}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -21085,7 +21085,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -21205,7 +21205,7 @@ We work with monitoring programmes to ensure compliance with our social, environ
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>

@@ -119,7 +119,7 @@
 	</wp:tag>
 			<wp:term>
 		<wp:term_id>22</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[404_page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[404_page]]></wp:term_name>
@@ -145,7 +145,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>19</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[archive]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[archive]]></wp:term_name>
@@ -332,7 +332,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>20</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[cart_page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[cart_page]]></wp:term_name>
@@ -358,7 +358,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>21</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[checkout_page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[checkout_page]]></wp:term_name>
@@ -380,21 +380,21 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>81</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_product_tab_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_product_tab_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[custom]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[custom]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>82</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_product_tab_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_product_tab_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[default]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[default]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>16</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[enable]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[enable]]></wp:term_name>
@@ -459,7 +459,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>17</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[footer]]></wp:term_name>
@@ -515,7 +515,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>79</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_product_tab_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_product_tab_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[global]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[global]]></wp:term_name>
@@ -773,7 +773,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>131</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[navigation_bar]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[navigation_bar]]></wp:term_name>
@@ -896,14 +896,14 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>18</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[product]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[product]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>80</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_product_tab_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_product_tab_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[product]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[product]]></wp:term_name>
@@ -8815,10 +8815,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Footer v1]]></title>
-		<link>https://wpglozin.com/decor/?glozin_builder=footer-v1</link>
+		<link>https://wpglozin.com/decor/?foodforlife_builder=footer-v1</link>
 		<pubDate>Wed, 19 Mar 2025 03:37:03 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?glozin_builder=footer-v1</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?foodforlife_builder=footer-v1</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>
 					Help Customers				</h2>
@@ -8901,11 +8901,11 @@ shopping easier. <a href="https://www.google.com/maps?ll=33.580077,-84.547829&z=
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_builder]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_builder]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_builder_type" nicename="enable"><![CDATA[enable]]></category>
-		<category domain="glozin_builder_type" nicename="footer"><![CDATA[footer]]></category>
+										<category domain="foodforlife_builder_type" nicename="enable"><![CDATA[enable]]></category>
+		<category domain="foodforlife_builder_type" nicename="footer"><![CDATA[footer]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
@@ -8924,7 +8924,7 @@ shopping easier. <a href="https://www.google.com/maps?ll=33.580077,-84.547829&z=
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"7ead77c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":50,"column":"50","row":"50","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"80","right":"0","bottom":"55","left":"0","isLinked":false},"flex_gap_tablet":{"column":"0","row":"35","isLinked":false,"unit":"px","size":0},"flex_gap_mobile":{"column":"0","row":"22","isLinked":false,"unit":"px","size":0},"flex_wrap_tablet":"wrap","padding_mobile":{"unit":"px","top":"65","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2fa76cf","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"24","left":"0","isLinked":false}},"elements":[{"id":"48c223c2","elType":"widget","settings":{"title":"Help Customers","_padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"18","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"glozin-heading"},{"id":"59f94afe","elType":"widget","settings":{"editor":"<span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">\ufeff<\/span>Find a location nearest you to reduce shipping costs and make\nshopping easier. <a class=\"fw-semibold\" href=\"https:\/\/www.google.com\/maps?ll=33.580077,-84.547829&z=12&t=m&hl=vi-VN&gl=US&mapclient=embed&q=Main+St+Union+City,+GA+30291+Hoa+K%E1%BB%B3\">Show on google maps.<\/a>","text_color":"#444444","typography_typography":"custom","typography_font_weight":"400","_padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"563fd34b","elType":"widget","settings":{"button_text":"+1 (973) 435-3638","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400"},"elements":[],"widgetType":"glozin-button"},{"id":"3d29c742","elType":"widget","settings":{"button_text":"info@glozinstore.com","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400","button_link":{"url":"mailto:info@glozinstore.com","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"glozin-button"},{"id":"2401799","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":{"id":3070,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/facebook.svg"},"library":"svg"},"_id":"45f9e5f","link":{"url":"https:\/\/www.facebook.com\/WordPress\/","is_external":"true","nofollow":"","custom_attributes":""},"name":"Facebook"},{"social_icon":{"value":{"id":3071,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/instagram.svg"},"library":"svg"},"_id":"17d8940","link":{"url":"https:\/\/www.instagram.com\/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Instagram"},{"social_icon":{"value":{"id":3072,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/tiktok.svg"},"library":"svg"},"link":{"url":"https:\/\/www.tiktok.com\/@wordpress","is_external":"true","nofollow":"","custom_attributes":""},"_id":"b92ca6d","name":"TikTok"},{"social_icon":{"value":{"id":3073,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/youtube.svg"},"library":"svg"},"_id":"e8f79d7","link":{"url":"https:\/\/www.youtube.com\/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"YouTube"},{"_id":"46b9a1f","social_icon":{"value":{"id":3074,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/snapchat.svg"},"library":"svg"},"link":{"url":"https:\/\/www.snapchat.com\/explore\/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Snapchat"}],"align":"left","icon_border_color":"#444444","_padding":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false},"icon_size":{"unit":"px","size":12,"sizes":[]},"_padding_mobile":{"unit":"px","top":"23","right":"0","bottom":"0","left":"0","isLinked":false},"icon_color":"#444444","icon_color_hover":"#111111"},"elements":[],"widgetType":"glozin-social-icons"}],"isInner":true},{"id":"5b49b6e4","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7532847d","elType":"widget","settings":{"title":"Our Company","menu_items":[{"title_menu":"Menu item 1","_id":"d23853d"},{"title_menu":"Menu item 2","_id":"608fbb4"},{"title_menu":"Menu item 3","_id":"80885c6"}],"list_menu":"our-company","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"7ddac173","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6984e30a","elType":"widget","settings":{"title":"Shop Categories","menu_items":[{"title_menu":"Hot Deals","_id":"d23853d"},{"title_menu":"Best Seller","_id":"608fbb4"},{"title_menu":"Sale & Special Offers","_id":"80885c6"},{"_id":"3ea237e","title_menu":"Activewear"},{"_id":"ea3a909","title_menu":"Popular Trends"},{"_id":"90ea128","title_menu":"Croptop"}],"list_menu":"shop-categories","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"1ead8f5f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":41},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4c8140b8","elType":"widget","settings":{"form":"721","title":"Sign Up to Newsletter","description":"Sign up for 10% off your first purchase and free shipping. Updates information on Sales and Offers.","after_description":"***By entering the e-mail you accept the <a href=\"https:\/\/wpglozin.com\/decor\/terms-of-use\/\">terms and conditions<\/a> and the <a href=\"https:\/\/wpglozin.com\/decor\/privacy-policy\/\">privacy policy.<\/a>","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-subscribe-group"}],"isInner":true}],"isInner":false},{"id":"750c0ea","elType":"container","settings":{"margin_mobile":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"5b70f9b","elType":"widget","settings":{"text":"Divider","color":"#EBEBEB"},"elements":[],"widgetType":"divider"}],"isInner":false},{"id":"21a97ac0","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"flex_justify_content":"space-between","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"17","right":"0","bottom":"32","left":"0","isLinked":false},"flex_justify_content_tablet":"space-between","flex_align_items_tablet":"center","flex_gap_mobile":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"15","right":"0","bottom":"30","left":"0","isLinked":false},"flex_direction_tablet":"column","flex_gap_tablet":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17}},"elements":[{"id":"68227182","elType":"container","settings":{"flex_direction":"row","content_width":"full","width":{"unit":"%","size":70},"flex_gap":{"column":"32","row":"10","isLinked":false,"unit":"px","size":32},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content_tablet":"center","flex_gap_tablet":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"flex_wrap_tablet":"wrap"},"elements":[{"id":"3b333ae","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-languages"},{"id":"75789a50","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-currencies"},{"id":"3189b83","elType":"widget","settings":{"title":"\u00a9 [glozin_year] Glozin store. All rights reserved.","title_size":"span"},"elements":[],"widgetType":"glozin-heading"}],"isInner":true},{"id":"17d76495","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":25},"width_tablet":{"unit":"%","size":45,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"7b719a80","elType":"widget","settings":{"image":{"id":853,"url":"https:\/\/raw.githubusercontent.com\/uixthemeswp\/glozin\/refs\/heads\/main\/demo-content\/payment.png","alt":"","source":"library","size":""},"image_size":"full","image_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"7ead77c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":50,"column":"50","row":"50","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"80","right":"0","bottom":"55","left":"0","isLinked":false},"flex_gap_tablet":{"column":"0","row":"35","isLinked":false,"unit":"px","size":0},"flex_gap_mobile":{"column":"0","row":"22","isLinked":false,"unit":"px","size":0},"flex_wrap_tablet":"wrap","padding_mobile":{"unit":"px","top":"65","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2fa76cf","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"24","left":"0","isLinked":false}},"elements":[{"id":"48c223c2","elType":"widget","settings":{"title":"Help Customers","_padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"18","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"glozin-heading"},{"id":"59f94afe","elType":"widget","settings":{"editor":"<span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">\ufeff<\/span>Find a location nearest you to reduce shipping costs and make\nshopping easier. <a class=\"fw-semibold\" href=\"https:\/\/www.google.com\/maps?ll=33.580077,-84.547829&z=12&t=m&hl=vi-VN&gl=US&mapclient=embed&q=Main+St+Union+City,+GA+30291+Hoa+K%E1%BB%B3\">Show on google maps.<\/a>","text_color":"#444444","typography_typography":"custom","typography_font_weight":"400","_padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"563fd34b","elType":"widget","settings":{"button_text":"+1 (973) 435-3638","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400"},"elements":[],"widgetType":"glozin-button"},{"id":"3d29c742","elType":"widget","settings":{"button_text":"info@glozinstore.com","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400","button_link":{"url":"mailto:info@glozinstore.com","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"glozin-button"},{"id":"2401799","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":{"id":3070,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/facebook.svg"},"library":"svg"},"_id":"45f9e5f","link":{"url":"https:\/\/www.facebook.com\/WordPress\/","is_external":"true","nofollow":"","custom_attributes":""},"name":"Facebook"},{"social_icon":{"value":{"id":3071,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/instagram.svg"},"library":"svg"},"_id":"17d8940","link":{"url":"https:\/\/www.instagram.com\/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Instagram"},{"social_icon":{"value":{"id":3072,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/tiktok.svg"},"library":"svg"},"link":{"url":"https:\/\/www.tiktok.com\/@wordpress","is_external":"true","nofollow":"","custom_attributes":""},"_id":"b92ca6d","name":"TikTok"},{"social_icon":{"value":{"id":3073,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/youtube.svg"},"library":"svg"},"_id":"e8f79d7","link":{"url":"https:\/\/www.youtube.com\/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"YouTube"},{"_id":"46b9a1f","social_icon":{"value":{"id":3074,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/snapchat.svg"},"library":"svg"},"link":{"url":"https:\/\/www.snapchat.com\/explore\/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Snapchat"}],"align":"left","icon_border_color":"#444444","_padding":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false},"icon_size":{"unit":"px","size":12,"sizes":[]},"_padding_mobile":{"unit":"px","top":"23","right":"0","bottom":"0","left":"0","isLinked":false},"icon_color":"#444444","icon_color_hover":"#111111"},"elements":[],"widgetType":"glozin-social-icons"}],"isInner":true},{"id":"5b49b6e4","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7532847d","elType":"widget","settings":{"title":"Our Company","menu_items":[{"title_menu":"Menu item 1","_id":"d23853d"},{"title_menu":"Menu item 2","_id":"608fbb4"},{"title_menu":"Menu item 3","_id":"80885c6"}],"list_menu":"our-company","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"7ddac173","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6984e30a","elType":"widget","settings":{"title":"Shop Categories","menu_items":[{"title_menu":"Hot Deals","_id":"d23853d"},{"title_menu":"Best Seller","_id":"608fbb4"},{"title_menu":"Sale & Special Offers","_id":"80885c6"},{"_id":"3ea237e","title_menu":"Activewear"},{"_id":"ea3a909","title_menu":"Popular Trends"},{"_id":"90ea128","title_menu":"Croptop"}],"list_menu":"shop-categories","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"1ead8f5f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":41},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4c8140b8","elType":"widget","settings":{"form":"721","title":"Sign Up to Newsletter","description":"Sign up for 10% off your first purchase and free shipping. Updates information on Sales and Offers.","after_description":"***By entering the e-mail you accept the <a href=\"https:\/\/wpglozin.com\/decor\/terms-of-use\/\">terms and conditions<\/a> and the <a href=\"https:\/\/wpglozin.com\/decor\/privacy-policy\/\">privacy policy.<\/a>","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-subscribe-group"}],"isInner":true}],"isInner":false},{"id":"750c0ea","elType":"container","settings":{"margin_mobile":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"5b70f9b","elType":"widget","settings":{"text":"Divider","color":"#EBEBEB"},"elements":[],"widgetType":"divider"}],"isInner":false},{"id":"21a97ac0","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"flex_justify_content":"space-between","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"17","right":"0","bottom":"32","left":"0","isLinked":false},"flex_justify_content_tablet":"space-between","flex_align_items_tablet":"center","flex_gap_mobile":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"15","right":"0","bottom":"30","left":"0","isLinked":false},"flex_direction_tablet":"column","flex_gap_tablet":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17}},"elements":[{"id":"68227182","elType":"container","settings":{"flex_direction":"row","content_width":"full","width":{"unit":"%","size":70},"flex_gap":{"column":"32","row":"10","isLinked":false,"unit":"px","size":32},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content_tablet":"center","flex_gap_tablet":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"flex_wrap_tablet":"wrap"},"elements":[{"id":"3b333ae","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-languages"},{"id":"75789a50","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-currencies"},{"id":"3189b83","elType":"widget","settings":{"title":"\u00a9 [foodforlife_year] Glozin store. All rights reserved.","title_size":"span"},"elements":[],"widgetType":"glozin-heading"}],"isInner":true},{"id":"17d76495","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":25},"width_tablet":{"unit":"%","size":45,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"7b719a80","elType":"widget","settings":{"image":{"id":853,"url":"https:\/\/raw.githubusercontent.com\/uixthemeswp\/glozin\/refs\/heads\/main\/demo-content\/payment.png","alt":"","source":"library","size":""},"image_size":"full","image_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -8972,7 +8972,7 @@ shopping easier. <a href="https://www.google.com/maps?ll=33.580077,-84.547829&z=
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"7ead77c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":50,"column":"50","row":"50","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"80","right":"0","bottom":"55","left":"0","isLinked":false},"flex_gap_tablet":{"column":"0","row":"35","isLinked":false,"unit":"px","size":0},"flex_gap_mobile":{"column":"0","row":"22","isLinked":false,"unit":"px","size":0},"flex_wrap_tablet":"wrap","padding_mobile":{"unit":"px","top":"65","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2fa76cf","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"24","left":"0","isLinked":false}},"elements":[{"id":"48c223c2","elType":"widget","settings":{"title":"Help Customers","_padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"18","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"glozin-heading"},{"id":"59f94afe","elType":"widget","settings":{"editor":"<span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">\ufeff<\/span>Find a location nearest you to reduce shipping costs and make\nshopping easier. <a class=\"fw-semibold\" href=\"https:\/\/www.google.com\/maps?ll=33.580077,-84.547829&z=12&t=m&hl=vi-VN&gl=US&mapclient=embed&q=Main+St+Union+City,+GA+30291+Hoa+K%E1%BB%B3\">Show on google maps.<\/a>","text_color":"#444444","typography_typography":"custom","typography_font_weight":"400","_padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"563fd34b","elType":"widget","settings":{"button_text":"+1 (973) 435-3638","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400"},"elements":[],"widgetType":"glozin-button"},{"id":"3d29c742","elType":"widget","settings":{"button_text":"info@glozinstore.com","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400","button_link":{"url":"mailto:info@glozinstore.com","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"glozin-button"},{"id":"2401799","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":{"id":3070,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/facebook.svg"},"library":"svg"},"_id":"45f9e5f","link":{"url":"https:\/\/www.facebook.com\/WordPress\/","is_external":"true","nofollow":"","custom_attributes":""},"name":"Facebook"},{"social_icon":{"value":{"id":3071,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/instagram.svg"},"library":"svg"},"_id":"17d8940","link":{"url":"https:\/\/www.instagram.com\/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Instagram"},{"social_icon":{"value":{"id":3072,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/tiktok.svg"},"library":"svg"},"link":{"url":"https:\/\/www.tiktok.com\/@wordpress","is_external":"true","nofollow":"","custom_attributes":""},"_id":"b92ca6d","name":"TikTok"},{"social_icon":{"value":{"id":3073,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/youtube.svg"},"library":"svg"},"_id":"e8f79d7","link":{"url":"https:\/\/www.youtube.com\/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"YouTube"},{"_id":"46b9a1f","social_icon":{"value":{"id":3074,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/snapchat.svg"},"library":"svg"},"link":{"url":"https:\/\/www.snapchat.com\/explore\/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Snapchat"}],"align":"left","icon_border_color":"#444444","_padding":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false},"icon_size":{"unit":"px","size":12,"sizes":[]},"_padding_mobile":{"unit":"px","top":"23","right":"0","bottom":"0","left":"0","isLinked":false},"icon_color":"#444444","icon_color_hover":"#111111"},"elements":[],"widgetType":"glozin-social-icons"}],"isInner":true},{"id":"5b49b6e4","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7532847d","elType":"widget","settings":{"title":"Our Company","menu_items":[{"title_menu":"Menu item 1","_id":"d23853d"},{"title_menu":"Menu item 2","_id":"608fbb4"},{"title_menu":"Menu item 3","_id":"80885c6"}],"list_menu":"our-company","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"7ddac173","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6984e30a","elType":"widget","settings":{"title":"Shop Categories","menu_items":[{"title_menu":"Hot Deals","_id":"d23853d"},{"title_menu":"Best Seller","_id":"608fbb4"},{"title_menu":"Sale & Special Offers","_id":"80885c6"},{"_id":"3ea237e","title_menu":"Activewear"},{"_id":"ea3a909","title_menu":"Popular Trends"},{"_id":"90ea128","title_menu":"Croptop"}],"list_menu":"shop-categories","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"1ead8f5f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":41},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4c8140b8","elType":"widget","settings":{"form":"721","title":"Sign Up to Newsletter","description":"Sign up for 10% off your first purchase and free shipping. Updates information on Sales and Offers.","after_description":"***By entering the e-mail you accept the <a href=\"https:\/\/wpglozin.com\/decor\/terms-of-use\/\">terms and conditions<\/a> and the <a href=\"https:\/\/wpglozin.com\/decor\/privacy-policy\/\">privacy policy.<\/a>","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-subscribe-group"}],"isInner":true}],"isInner":false},{"id":"750c0ea","elType":"container","settings":{"margin_mobile":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"5b70f9b","elType":"widget","settings":{"text":"Divider","color":"#EBEBEB"},"elements":[],"widgetType":"divider"}],"isInner":false},{"id":"21a97ac0","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"flex_justify_content":"space-between","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"17","right":"0","bottom":"32","left":"0","isLinked":false},"flex_justify_content_tablet":"space-between","flex_align_items_tablet":"center","flex_gap_mobile":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"15","right":"0","bottom":"30","left":"0","isLinked":false},"flex_direction_tablet":"column","flex_gap_tablet":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17}},"elements":[{"id":"68227182","elType":"container","settings":{"flex_direction":"row","content_width":"full","width":{"unit":"%","size":70},"flex_gap":{"column":"32","row":"10","isLinked":false,"unit":"px","size":32},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content_tablet":"center","flex_gap_tablet":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"flex_wrap_tablet":"wrap"},"elements":[{"id":"3b333ae","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-languages"},{"id":"75789a50","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-currencies"},{"id":"3189b83","elType":"widget","settings":{"title":"\u00a9 [glozin_year] Glozin store. All rights reserved.","title_size":"span"},"elements":[],"widgetType":"glozin-heading"}],"isInner":true},{"id":"17d76495","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":25},"width_tablet":{"unit":"%","size":45,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"7b719a80","elType":"widget","settings":{"image":{"id":853,"url":"https:\/\/raw.githubusercontent.com\/uixthemeswp\/glozin\/refs\/heads\/main\/demo-content\/payment.png","alt":"","source":"library","size":""},"image_size":"full","image_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"7ead77c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":50,"column":"50","row":"50","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"80","right":"0","bottom":"55","left":"0","isLinked":false},"flex_gap_tablet":{"column":"0","row":"35","isLinked":false,"unit":"px","size":0},"flex_gap_mobile":{"column":"0","row":"22","isLinked":false,"unit":"px","size":0},"flex_wrap_tablet":"wrap","padding_mobile":{"unit":"px","top":"65","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2fa76cf","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"24","left":"0","isLinked":false}},"elements":[{"id":"48c223c2","elType":"widget","settings":{"title":"Help Customers","_padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"18","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"glozin-heading"},{"id":"59f94afe","elType":"widget","settings":{"editor":"<span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\">\ufeff<\/span>Find a location nearest you to reduce shipping costs and make\nshopping easier. <a class=\"fw-semibold\" href=\"https:\/\/www.google.com\/maps?ll=33.580077,-84.547829&z=12&t=m&hl=vi-VN&gl=US&mapclient=embed&q=Main+St+Union+City,+GA+30291+Hoa+K%E1%BB%B3\">Show on google maps.<\/a>","text_color":"#444444","typography_typography":"custom","typography_font_weight":"400","_padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"563fd34b","elType":"widget","settings":{"button_text":"+1 (973) 435-3638","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400"},"elements":[],"widgetType":"glozin-button"},{"id":"3d29c742","elType":"widget","settings":{"button_text":"info@glozinstore.com","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400","button_link":{"url":"mailto:info@glozinstore.com","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"glozin-button"},{"id":"2401799","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":{"id":3070,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/facebook.svg"},"library":"svg"},"_id":"45f9e5f","link":{"url":"https:\/\/www.facebook.com\/WordPress\/","is_external":"true","nofollow":"","custom_attributes":""},"name":"Facebook"},{"social_icon":{"value":{"id":3071,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/instagram.svg"},"library":"svg"},"_id":"17d8940","link":{"url":"https:\/\/www.instagram.com\/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Instagram"},{"social_icon":{"value":{"id":3072,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/tiktok.svg"},"library":"svg"},"link":{"url":"https:\/\/www.tiktok.com\/@wordpress","is_external":"true","nofollow":"","custom_attributes":""},"_id":"b92ca6d","name":"TikTok"},{"social_icon":{"value":{"id":3073,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/youtube.svg"},"library":"svg"},"_id":"e8f79d7","link":{"url":"https:\/\/www.youtube.com\/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"YouTube"},{"_id":"46b9a1f","social_icon":{"value":{"id":3074,"url":"https:\/\/wpglozin.com\/decor\/wp-content\/uploads\/sites\/14\/2025\/05\/snapchat.svg"},"library":"svg"},"link":{"url":"https:\/\/www.snapchat.com\/explore\/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Snapchat"}],"align":"left","icon_border_color":"#444444","_padding":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false},"icon_size":{"unit":"px","size":12,"sizes":[]},"_padding_mobile":{"unit":"px","top":"23","right":"0","bottom":"0","left":"0","isLinked":false},"icon_color":"#444444","icon_color_hover":"#111111"},"elements":[],"widgetType":"glozin-social-icons"}],"isInner":true},{"id":"5b49b6e4","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7532847d","elType":"widget","settings":{"title":"Our Company","menu_items":[{"title_menu":"Menu item 1","_id":"d23853d"},{"title_menu":"Menu item 2","_id":"608fbb4"},{"title_menu":"Menu item 3","_id":"80885c6"}],"list_menu":"our-company","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"7ddac173","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6984e30a","elType":"widget","settings":{"title":"Shop Categories","menu_items":[{"title_menu":"Hot Deals","_id":"d23853d"},{"title_menu":"Best Seller","_id":"608fbb4"},{"title_menu":"Sale & Special Offers","_id":"80885c6"},{"_id":"3ea237e","title_menu":"Activewear"},{"_id":"ea3a909","title_menu":"Popular Trends"},{"_id":"90ea128","title_menu":"Croptop"}],"list_menu":"shop-categories","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"1ead8f5f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":41},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4c8140b8","elType":"widget","settings":{"form":"721","title":"Sign Up to Newsletter","description":"Sign up for 10% off your first purchase and free shipping. Updates information on Sales and Offers.","after_description":"***By entering the e-mail you accept the <a href=\"https:\/\/wpglozin.com\/decor\/terms-of-use\/\">terms and conditions<\/a> and the <a href=\"https:\/\/wpglozin.com\/decor\/privacy-policy\/\">privacy policy.<\/a>","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-subscribe-group"}],"isInner":true}],"isInner":false},{"id":"750c0ea","elType":"container","settings":{"margin_mobile":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"5b70f9b","elType":"widget","settings":{"text":"Divider","color":"#EBEBEB"},"elements":[],"widgetType":"divider"}],"isInner":false},{"id":"21a97ac0","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"flex_justify_content":"space-between","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"17","right":"0","bottom":"32","left":"0","isLinked":false},"flex_justify_content_tablet":"space-between","flex_align_items_tablet":"center","flex_gap_mobile":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"15","right":"0","bottom":"30","left":"0","isLinked":false},"flex_direction_tablet":"column","flex_gap_tablet":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17}},"elements":[{"id":"68227182","elType":"container","settings":{"flex_direction":"row","content_width":"full","width":{"unit":"%","size":70},"flex_gap":{"column":"32","row":"10","isLinked":false,"unit":"px","size":32},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content_tablet":"center","flex_gap_tablet":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"flex_wrap_tablet":"wrap"},"elements":[{"id":"3b333ae","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-languages"},{"id":"75789a50","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-currencies"},{"id":"3189b83","elType":"widget","settings":{"title":"\u00a9 [foodforlife_year] Glozin store. All rights reserved.","title_size":"span"},"elements":[],"widgetType":"glozin-heading"}],"isInner":true},{"id":"17d76495","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":25},"width_tablet":{"unit":"%","size":45,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"7b719a80","elType":"widget","settings":{"image":{"id":853,"url":"https:\/\/raw.githubusercontent.com\/uixthemeswp\/glozin\/refs\/heads\/main\/demo-content\/payment.png","alt":"","source":"library","size":""},"image_size":"full","image_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -9009,10 +9009,10 @@ shopping easier. <a href="https://www.google.com/maps?ll=33.580077,-84.547829&z=
 							</item>
 					<item>
 		<title><![CDATA[Newsletter]]></title>
-		<link>https://wpglozin.com/decor/?glozin_popup=newsletter</link>
+		<link>https://wpglozin.com/decor/?foodforlife_popup=newsletter</link>
 		<pubDate>Tue, 15 Apr 2025 06:36:45 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?post_type=glozin_popup&#038;p=1367</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?post_type=foodforlife_popup&#038;p=1367</guid>
 		<description></description>
 		<content:encoded><![CDATA[<img width="480" height="608" src="https://wpglozin.com/decor/wp-content/uploads/sites/14/2025/04/h-decor-test-2.webp" alt="" srcset="https://wpglozin.com/decor/wp-content/uploads/sites/14/2025/04/h-decor-test-2.webp 480w, https://wpglozin.com/decor/wp-content/uploads/sites/14/2025/04/h-decor-test-2-237x300.webp 237w, https://wpglozin.com/decor/wp-content/uploads/sites/14/2025/04/h-decor-test-2-130x165.webp 130w" sizes="(max-width: 480px) 100vw, 480px" />															
 				<h2>
@@ -9037,7 +9037,7 @@ shopping easier. <a href="https://www.google.com/maps?ll=33.580077,-84.547829&z=
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_popup]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_popup]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -9123,10 +9123,10 @@ shopping easier. <a href="https://www.google.com/maps?ll=33.580077,-84.547829&z=
 							</item>
 					<item>
 		<title><![CDATA[Promotion]]></title>
-		<link>https://wpglozin.com/decor/?glozin_popup=promotion</link>
+		<link>https://wpglozin.com/decor/?foodforlife_popup=promotion</link>
 		<pubDate>Tue, 15 Apr 2025 06:38:50 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?post_type=glozin_popup&#038;p=1374</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?post_type=foodforlife_popup&#038;p=1374</guid>
 		<description></description>
 		<content:encoded><![CDATA[<img width="250" height="387" src="https://wpglozin.com/decor/wp-content/uploads/sites/14/2025/04/banner-promotion.webp" alt="" srcset="https://wpglozin.com/decor/wp-content/uploads/sites/14/2025/04/banner-promotion.webp 250w, https://wpglozin.com/decor/wp-content/uploads/sites/14/2025/04/banner-promotion-194x300.jpg 194w, https://wpglozin.com/decor/wp-content/uploads/sites/14/2025/04/banner-promotion-130x201.webp 130w" sizes="(max-width: 250px) 100vw, 250px" />															
 				<h2>
@@ -9152,7 +9152,7 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_popup]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_popup]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -9238,10 +9238,10 @@ Big Promotion				</h2>
 							</item>
 					<item>
 		<title><![CDATA[Leave Popup]]></title>
-		<link>https://wpglozin.com/decor/?glozin_popup=leave-popup</link>
+		<link>https://wpglozin.com/decor/?foodforlife_popup=leave-popup</link>
 		<pubDate>Tue, 15 Apr 2025 07:15:12 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?post_type=glozin_popup&#038;p=1385</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?post_type=foodforlife_popup&#038;p=1385</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>
 					Big Save!<br />
@@ -9298,7 +9298,7 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_popup]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_popup]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -9689,10 +9689,10 @@ Big Promotion				</h2>
 														</item>
 					<item>
 		<title><![CDATA[Description]]></title>
-		<link>https://wpglozin.com/decor/?glozin_product_tab=description</link>
+		<link>https://wpglozin.com/decor/?foodforlife_product_tab=description</link>
 		<pubDate>Fri, 18 Apr 2025 07:06:55 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/decor/?glozin_product_tab=description</guid>
+		<guid isPermaLink="false">https://wpglozin.com/decor/?foodforlife_product_tab=description</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9707,17 +9707,17 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="default"><![CDATA[default]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="default"><![CDATA[default]]></category>
 						</item>
 					<item>
 		<title><![CDATA[Additional Information]]></title>
-		<link>https://wpglozin.com/decor/?glozin_product_tab=additional_information</link>
+		<link>https://wpglozin.com/decor/?foodforlife_product_tab=additional_information</link>
 		<pubDate>Fri, 18 Apr 2025 07:06:55 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/decor/?glozin_product_tab=additional_information</guid>
+		<guid isPermaLink="false">https://wpglozin.com/decor/?foodforlife_product_tab=additional_information</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9732,17 +9732,17 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="default"><![CDATA[default]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="default"><![CDATA[default]]></category>
 						</item>
 					<item>
 		<title><![CDATA[Reviews]]></title>
-		<link>https://wpglozin.com/decor/?glozin_product_tab=reviews</link>
+		<link>https://wpglozin.com/decor/?foodforlife_product_tab=reviews</link>
 		<pubDate>Fri, 18 Apr 2025 07:06:55 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/decor/?glozin_product_tab=reviews</guid>
+		<guid isPermaLink="false">https://wpglozin.com/decor/?foodforlife_product_tab=reviews</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9757,17 +9757,17 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="default"><![CDATA[default]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="default"><![CDATA[default]]></category>
 						</item>
 					<item>
 		<title><![CDATA[Shipping and Returns]]></title>
-		<link>https://wpglozin.com/decor/?glozin_product_tab=shipping-and-returns</link>
+		<link>https://wpglozin.com/decor/?foodforlife_product_tab=shipping-and-returns</link>
 		<pubDate>Mon, 21 Apr 2025 10:11:49 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/decor/?post_type=glozin_product_tab&#038;p=2195</guid>
+		<guid isPermaLink="false">https://wpglozin.com/decor/?post_type=foodforlife_product_tab&#038;p=2195</guid>
 		<description></description>
 		<content:encoded><![CDATA[We offer fast and reliable shipping for all our clothing items. Orders are processed within <strong style="color:#111111">1-2 business days </strong> and shipped via standard delivery, which typically takes 3-5 business days.
 
@@ -9784,10 +9784,10 @@ Express shipping options are also available at checkout for an additional fee, e
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="global"><![CDATA[global]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="global"><![CDATA[global]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_tab_disable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[no]]></wp:meta_value>
@@ -9799,10 +9799,10 @@ Express shipping options are also available at checkout for an additional fee, e
 							</item>
 					<item>
 		<title><![CDATA[Return Policies]]></title>
-		<link>https://wpglozin.com/decor/?glozin_product_tab=return-policies</link>
+		<link>https://wpglozin.com/decor/?foodforlife_product_tab=return-policies</link>
 		<pubDate>Mon, 21 Apr 2025 10:12:14 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/decor/?post_type=glozin_product_tab&#038;p=2196</guid>
+		<guid isPermaLink="false">https://wpglozin.com/decor/?post_type=foodforlife_product_tab&#038;p=2196</guid>
 		<description></description>
 		<content:encoded><![CDATA[Provided the conditions in our refund policy have been met, refunds will be processed using the original form of payment. You can return an item purchased online by posting it to us. Please contact customer service for return address. Please note that delivery costs will be excluded from the refund unless goods are returned in accordance with your statutory rights (e.g. they are faulty or not as ordered).
 <ul>
@@ -9822,10 +9822,10 @@ Provided the conditions in our refund policy have been met, refunds will be proc
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="global"><![CDATA[global]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="global"><![CDATA[global]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_tab_disable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[no]]></wp:meta_value>
@@ -10045,10 +10045,10 @@ solve for you immediately.
 							</item>
 					<item>
 		<title><![CDATA[Navigation Bar v1]]></title>
-		<link>https://wpglozin.com/decor/?glozin_builder=navigation-bar-v1</link>
+		<link>https://wpglozin.com/decor/?foodforlife_builder=navigation-bar-v1</link>
 		<pubDate>Wed, 14 May 2025 04:18:07 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/decor/?glozin_builder=navigation-bar-v1</guid>
+		<guid isPermaLink="false">https://wpglozin.com/decor/?foodforlife_builder=navigation-bar-v1</guid>
 		<description></description>
 		<content:encoded><![CDATA[<a href="https://wpglozin.com/decor/"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" style="fill: none;"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10 15.001v-2.5M8.392 2.353 2.617 6.977c-.65.517-1.066 1.609-.924 2.425L2.8 16.035c.2 1.183 1.333 2.141 2.533 2.141h9.332c1.192 0 2.333-.966 2.533-2.141l1.108-6.633c.134-.816-.283-1.908-.924-2.425l-5.775-4.616c-.891-.716-2.333-.716-3.216-.008Z"></path></svg>Home</a>				
 					<a data-toggle="off-canvas" data-target="account-panel" href="https://wpglozin.com/decor/my-account/"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none"><g fill="currentColor"><path d="M18.887 17.699a10.285 10.285 0 0 0-3.768-3.704 10.353 10.353 0 0 0-10.24 0 10.285 10.285 0 0 0-3.768 3.704.87.87 0 0 0 .075.962c.073.09.164.165.268.217a.881.881 0 0 0 .44.114.829.829 0 0 0 .754-.42 8.515 8.515 0 0 1 3.12-3.068 8.572 8.572 0 0 1 8.48 0 8.514 8.514 0 0 1 3.12 3.068.878.878 0 0 0 1.195.315.808.808 0 0 0 .404-.516.869.869 0 0 0-.08-.672ZM10 11.803c1.416 0 2.775-.56 3.784-1.56 1.01-1.001 1.59-2.362 1.617-3.79a5.476 5.476 0 0 0-1.582-3.854 5.375 5.375 0 0 0-3.818-1.596 5.375 5.375 0 0 0-3.819 1.596 5.476 5.476 0 0 0-1.581 3.854 5.474 5.474 0 0 0 1.616 3.79A5.374 5.374 0 0 0 10 11.802Zm-3.6-5.35c0-.964.38-1.888 1.055-2.57a3.583 3.583 0 0 1 2.546-1.063c.955 0 1.87.382 2.545 1.064a3.65 3.65 0 0 1 1.055 2.569 3.65 3.65 0 0 1-1.055 2.569 3.583 3.583 0 0 1-2.545 1.064c-.955 0-1.87-.383-2.546-1.064a3.65 3.65 0 0 1-1.054-2.57Z"></path></g></svg>Account</a>				
@@ -10067,11 +10067,11 @@ solve for you immediately.
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_builder]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_builder]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_builder_type" nicename="enable"><![CDATA[enable]]></category>
-		<category domain="glozin_builder_type" nicename="navigation_bar"><![CDATA[navigation_bar]]></category>
+										<category domain="foodforlife_builder_type" nicename="enable"><![CDATA[enable]]></category>
+		<category domain="foodforlife_builder_type" nicename="navigation_bar"><![CDATA[navigation_bar]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
@@ -20070,7 +20070,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[175.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:15;s:4:"time";i:1751616562;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20078,7 +20078,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[175.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_sale_discount_percent]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_sale_discount_percent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20094,7 +20094,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20281,7 +20281,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[85.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_sale_discount_percent]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_sale_discount_percent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[11]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20297,7 +20297,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20321,7 +20321,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:28;s:4:"time";i:1751605594;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20488,7 +20488,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[180.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:25;s:4:"time";i:1751805563;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20508,7 +20508,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20693,7 +20693,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[150.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:38;s:4:"time";i:1751625949;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20713,7 +20713,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20904,7 +20904,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[85.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:45;s:4:"time";i:1751595855;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20912,7 +20912,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[85.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_sale_discount_percent]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_sale_discount_percent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[11]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -20928,7 +20928,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -21131,7 +21131,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -21155,7 +21155,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:35;s:4:"time";i:1751625827;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -21323,7 +21323,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[150.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:32;s:4:"time";i:1751599373;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -21343,7 +21343,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -21558,7 +21558,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:37;s:4:"time";i:1751627670;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -21578,7 +21578,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -21788,7 +21788,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:35;s:4:"time";i:1751615964;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -21808,7 +21808,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -21991,7 +21991,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[120.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:42;s:4:"time";i:1751666174;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -22015,7 +22015,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -22200,7 +22200,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:13;s:4:"time";i:1751569309;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -22220,7 +22220,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -22401,7 +22401,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:47;s:4:"time";i:1751613871;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -22421,7 +22421,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -22599,7 +22599,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:14;s:4:"time";i:1751858502;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -22619,7 +22619,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -22647,15 +22647,15 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[a:1:{s:8:"pa_color";a:5:{s:4:"type";s:5:"image";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:3:{i:54;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2637";s:5:"label";s:0:"";}i:41;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2640";s:5:"label";s:0:"";}i:129;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2641";s:5:"label";s:0:"";}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -22843,7 +22843,7 @@ With its understated elegance and clean, modern form, the Glozin II Pendant Lamp
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:19;s:4:"time";i:1751670321;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -22863,7 +22863,7 @@ With its understated elegance and clean, modern form, the Glozin II Pendant Lamp
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -22895,11 +22895,11 @@ With its understated elegance and clean, modern form, the Glozin II Pendant Lamp
 		<wp:meta_value><![CDATA[a:3:{s:8:"pa_color";a:5:{s:4:"type";s:0:"";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:2:{i:87;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:88;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}}}s:10:"pa_pattern";a:5:{s:4:"type";s:0:"";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:2:{i:121;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:118;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}}}s:8:"pa_style";a:5:{s:4:"type";s:0:"";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:5:{i:116;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:117;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:113;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:114;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:115;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -22911,7 +22911,7 @@ With its understated elegance and clean, modern form, the Glozin II Pendant Lamp
 		<wp:meta_value><![CDATA[120]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -23082,7 +23082,7 @@ The Hammershoi Spice Mill Small is a practical yet elegant addition to any kitch
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:2;s:4:"time";i:1751639099;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -23102,7 +23102,7 @@ The Hammershoi Spice Mill Small is a practical yet elegant addition to any kitch
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -23294,7 +23294,7 @@ With its earthy tones and timeless design, the Brown Stoneware Platter Small add
 		<wp:meta_value><![CDATA[9.8.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:49;s:4:"time";i:1751631673;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -23318,7 +23318,7 @@ With its earthy tones and timeless design, the Brown Stoneware Platter Small add
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -23350,11 +23350,11 @@ With its earthy tones and timeless design, the Brown Stoneware Platter Small add
 		<wp:meta_value><![CDATA[a:2:{s:8:"pa_style";a:5:{s:4:"type";s:0:"";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:5:{i:116;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:117;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:113;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:114;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:115;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}}}s:8:"pa_color";a:5:{s:4:"type";s:0:"";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:2:{i:54;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}i:41;a:3:{s:5:"color";s:0:"";s:5:"image";s:0:"";s:5:"label";s:0:"";}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -23366,7 +23366,7 @@ With its earthy tones and timeless design, the Brown Stoneware Platter Small add
 		<wp:meta_value><![CDATA[120]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -23537,7 +23537,7 @@ Combining clean lines and a delicate glow, the Glozin II Table Lamp 14x29cm is a
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:14;s:4:"time";i:1751634141;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -23557,7 +23557,7 @@ Combining clean lines and a delicate glow, the Glozin II Table Lamp 14x29cm is a
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -23749,7 +23749,7 @@ Blending Scandinavian simplicity with practical innovation, the Glozin II Carrie
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:27;s:4:"time";i:1751858039;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -23769,7 +23769,7 @@ Blending Scandinavian simplicity with practical innovation, the Glozin II Carrie
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -23967,7 +23967,7 @@ With its refined aesthetics and highly functional design, the Glozin II Bottle G
 		<wp:meta_value><![CDATA[9.8.2]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:14;s:4:"time";i:1751848568;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -23991,7 +23991,7 @@ With its refined aesthetics and highly functional design, the Glozin II Bottle G
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -24019,15 +24019,15 @@ With its refined aesthetics and highly functional design, the Glozin II Bottle G
 		<wp:meta_value><![CDATA[a:1:{s:8:"pa_color";a:5:{s:4:"type";s:5:"image";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:2:{i:41;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2666";s:5:"label";s:0:"";}i:128;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2668";s:5:"label";s:0:"";}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -24204,7 +24204,7 @@ Balancing timeless craftsmanship with a sense of lightness and grace, the Copenh
 		<wp:meta_value><![CDATA[175.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:43;s:4:"time";i:1751848211;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -24216,7 +24216,7 @@ Balancing timeless craftsmanship with a sense of lightness and grace, the Copenh
 		<wp:meta_value><![CDATA[175.00]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_sale_discount_percent]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_sale_discount_percent]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -24232,7 +24232,7 @@ Balancing timeless craftsmanship with a sense of lightness and grace, the Copenh
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -24430,7 +24430,7 @@ Designed with a flowing, organic shape and a lustrous brass accent, the Glozin I
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:33;s:4:"time";i:1751848925;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -24450,7 +24450,7 @@ Designed with a flowing, organic shape and a lustrous brass accent, the Glozin I
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -24478,15 +24478,15 @@ Designed with a flowing, organic shape and a lustrous brass accent, the Glozin I
 		<wp:meta_value><![CDATA[a:1:{s:8:"pa_color";a:5:{s:4:"type";s:5:"image";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:4:{i:41;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2694";s:5:"label";s:0:"";}i:128;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2696";s:5:"label";s:0:"";}i:125;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2698";s:5:"label";s:0:"";}i:129;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2682";s:5:"label";s:0:"";}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -24666,7 +24666,7 @@ The Glozin II Tivoli Emperor Lamp stands as a statement piece, combining artisan
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:8;s:4:"time";i:1751849640;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -24686,7 +24686,7 @@ The Glozin II Tivoli Emperor Lamp stands as a statement piece, combining artisan
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -24885,7 +24885,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:39;s:4:"time";i:1751849302;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -24905,7 +24905,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -24933,15 +24933,15 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[a:1:{s:8:"pa_color";a:5:{s:4:"type";s:5:"image";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:4:{i:41;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2742";s:5:"label";s:0:"";}i:128;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2740";s:5:"label";s:0:"";}i:126;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2686";s:5:"label";s:0:"";}i:125;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2728";s:5:"label";s:0:"";}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -25103,7 +25103,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -25215,7 +25215,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -25327,7 +25327,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -25451,7 +25451,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -25567,7 +25567,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -25711,7 +25711,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:26;s:4:"time";i:1751604591;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -25727,7 +25727,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -25751,15 +25751,15 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[a:1:{s:8:"pa_color";a:5:{s:4:"type";s:5:"image";s:5:"shape";s:0:"";s:4:"size";s:0:"";s:11:"custom_size";a:2:{s:5:"width";i:0;s:6:"height";i:0;}s:8:"swatches";a:4:{i:41;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2710";s:5:"label";s:0:"";}i:128;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2714";s:5:"label";s:0:"";}i:126;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2716";s:5:"label";s:0:"";}i:125;a:3:{s:5:"color";s:0:"";s:5:"image";s:4:"2702";s:5:"label";s:0:"";}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_variation_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_variation_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -26095,7 +26095,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -26211,7 +26211,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -26327,7 +26327,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -26443,7 +26443,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -26559,7 +26559,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
@@ -26671,7 +26671,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -26787,7 +26787,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -26903,7 +26903,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -27019,7 +27019,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -27127,7 +27127,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -27247,7 +27247,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -27363,7 +27363,7 @@ The Glozin II Chair features a sleek, lightweight frame, subtle armrest contours
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_variable_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_variable_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>

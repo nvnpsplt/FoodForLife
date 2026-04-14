@@ -111,7 +111,7 @@
 	</wp:tag>
 			<wp:term>
 		<wp:term_id>22</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[404_page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[404_page]]></wp:term_name>
@@ -156,7 +156,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>19</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[archive]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[archive]]></wp:term_name>
@@ -279,7 +279,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>20</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[cart_page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[cart_page]]></wp:term_name>
@@ -305,7 +305,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>21</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[checkout_page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[checkout_page]]></wp:term_name>
@@ -350,7 +350,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>81</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_product_tab_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_product_tab_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[custom]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[custom]]></wp:term_name>
@@ -376,7 +376,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>82</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_product_tab_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_product_tab_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[default]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[default]]></wp:term_name>
@@ -425,7 +425,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>16</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[enable]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[enable]]></wp:term_name>
@@ -479,14 +479,14 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>17</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[footer]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>79</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_product_tab_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_product_tab_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[global]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[global]]></wp:term_name>
@@ -805,7 +805,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>158</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[navigation_bar]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[navigation_bar]]></wp:term_name>
@@ -876,14 +876,14 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>80</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_product_tab_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_product_tab_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[product]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[product]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>18</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[product]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[product]]></wp:term_name>
@@ -4692,10 +4692,10 @@
 					
 					<item>
 		<title><![CDATA[Footer v1]]></title>
-		<link>https://wpglozin.com/cosmetic/?glozin_builder=footer-v1</link>
+		<link>https://wpglozin.com/cosmetic/?foodforlife_builder=footer-v1</link>
 		<pubDate>Wed, 19 Mar 2025 03:37:03 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?glozin_builder=footer-v1</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?foodforlife_builder=footer-v1</guid>
 		<description/>
 		<content:encoded><![CDATA[<h2>
 					Help Customers				</h2>
@@ -4772,11 +4772,11 @@ shopping easier. <a href="#">Show on google maps.</a>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_builder]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_builder]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_builder_type" nicename="enable"><![CDATA[enable]]></category>
-		<category domain="glozin_builder_type" nicename="footer"><![CDATA[footer]]></category>
+										<category domain="foodforlife_builder_type" nicename="enable"><![CDATA[enable]]></category>
+		<category domain="foodforlife_builder_type" nicename="footer"><![CDATA[footer]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
@@ -4795,7 +4795,7 @@ shopping easier. <a href="#">Show on google maps.</a>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"7ead77c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":50,"column":"50","row":"50","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"80","right":"0","bottom":"55","left":"0","isLinked":false},"flex_gap_tablet":{"column":"0","row":"35","isLinked":false,"unit":"px","size":0},"flex_gap_mobile":{"column":"0","row":"22","isLinked":false,"unit":"px","size":0},"flex_wrap_tablet":"wrap","padding_mobile":{"unit":"px","top":"65","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2fa76cf","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"24","left":"0","isLinked":false}},"elements":[{"id":"48c223c2","elType":"widget","settings":{"title":"Help Customers","_padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"18","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"glozin-heading"},{"id":"59f94afe","elType":"widget","settings":{"editor":"&lt;span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\"&gt;﻿&lt;/span&gt;Find a location nearest you to reduce shipping costs and make\nshopping easier. &lt;a class=\"fw-semibold\" href=\"#\"&gt;Show on google maps.&lt;/a&gt; ","text_color":"#444444","typography_typography":"custom","typography_font_weight":"400","_padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"563fd34b","elType":"widget","settings":{"button_text":"+1 (973) 435-3638","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400"},"elements":[],"widgetType":"glozin-button"},{"id":"3d29c742","elType":"widget","settings":{"button_text":"info@glozinstore.com","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400","button_link":{"url":"mailto:info@glozinstore.com","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"glozin-button"},{"id":"ec2e03f","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":{"id":3089,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/facebook.svg"},"library":"svg"},"_id":"45f9e5f","link":{"url":"https://www.facebook.com/WordPress/","is_external":"true","nofollow":"","custom_attributes":""},"name":"Facebook"},{"social_icon":{"value":{"id":3090,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/instagram.svg"},"library":"svg"},"_id":"17d8940","link":{"url":"https://www.instagram.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Instagram"},{"social_icon":{"value":{"id":3091,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/tiktok.svg"},"library":"svg"},"link":{"url":"https://www.tiktok.com/@wordpress","is_external":"true","nofollow":"","custom_attributes":""},"_id":"b92ca6d","name":"TikTok"},{"social_icon":{"value":{"id":3092,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/youtube.svg"},"library":"svg"},"_id":"e8f79d7","link":{"url":"https://www.youtube.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"YouTube"},{"_id":"46b9a1f","social_icon":{"value":{"id":3093,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/snapchat.svg"},"library":"svg"},"link":{"url":"https://www.snapchat.com/explore/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Snapchat"}],"align":"left","icon_border_color":"#444444","_padding":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false},"icon_size":{"unit":"px","size":12,"sizes":[]},"_padding_mobile":{"unit":"px","top":"23","right":"0","bottom":"0","left":"0","isLinked":false},"icon_color":"#444444","icon_color_hover":"#111111"},"elements":[],"widgetType":"glozin-social-icons"}],"isInner":true},{"id":"5b49b6e4","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7532847d","elType":"widget","settings":{"title":"Our Company","menu_items":[{"title_menu":"Menu item 1","_id":"d23853d"},{"title_menu":"Menu item 2","_id":"608fbb4"},{"title_menu":"Menu item 3","_id":"80885c6"}],"list_menu":"our-company","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"7ddac173","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"308558e","elType":"widget","settings":{"title":"Shop Categories","menu_items":[{"title_menu":"Hot Deals","_id":"d23853d","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Best Seller","_id":"608fbb4","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Sale &amp; Special Offers","_id":"80885c6","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"3ea237e","title_menu":"Hair Care","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"ea3a909","title_menu":"Popular Trends","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"90ea128","title_menu":"Skin Care","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}}],"list_menu":"shop-categories","toggle_menu":"yes","menu_type":"custom","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"1ead8f5f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":41},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4c8140b8","elType":"widget","settings":{"form":"721","title":"Sign Up to Newsletter","description":"Sign up for 10% off your first purchase and free shipping. Updates information on Sales and Offers.","after_description":"***By entering the e-mail you accept the &lt;a href=\"https://wpglozin.com/cosmetic/terms-of-use/\"&gt;terms and conditions&lt;/a&gt; and the &lt;a href=\"https://wpglozin.com/cosmetic/privacy-policy/\"&gt;privacy policy.&lt;/a&gt;","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-subscribe-group"}],"isInner":true}],"isInner":false},{"id":"4a681b4","elType":"container","settings":{"margin_mobile":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"a700959","elType":"widget","settings":{"text":"Divider","color":"#EBEBEB"},"elements":[],"widgetType":"divider"}],"isInner":false},{"id":"21a97ac0","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"flex_justify_content":"space-between","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"17","right":"0","bottom":"32","left":"0","isLinked":false},"flex_justify_content_tablet":"space-between","flex_align_items_tablet":"center","flex_gap_mobile":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"15","right":"0","bottom":"30","left":"0","isLinked":false},"flex_direction_tablet":"column","flex_gap_tablet":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17}},"elements":[{"id":"68227182","elType":"container","settings":{"flex_direction":"row","content_width":"full","width":{"unit":"%","size":70},"flex_gap":{"column":"32","row":"10","isLinked":false,"unit":"px","size":32},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content_tablet":"center","flex_gap_tablet":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"flex_wrap_tablet":"wrap"},"elements":[{"id":"3b333ae","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-languages"},{"id":"75789a50","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-currencies"},{"id":"3189b83","elType":"widget","settings":{"title":"© [glozin_year] Glozin store. All rights reserved.","title_size":"span"},"elements":[],"widgetType":"glozin-heading"}],"isInner":true},{"id":"17d76495","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":25},"width_tablet":{"unit":"%","size":45,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"7b719a80","elType":"widget","settings":{"image":{"id":853,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/payment.png","alt":"","source":"library","size":""},"image_size":"full","image_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"7ead77c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":50,"column":"50","row":"50","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"80","right":"0","bottom":"55","left":"0","isLinked":false},"flex_gap_tablet":{"column":"0","row":"35","isLinked":false,"unit":"px","size":0},"flex_gap_mobile":{"column":"0","row":"22","isLinked":false,"unit":"px","size":0},"flex_wrap_tablet":"wrap","padding_mobile":{"unit":"px","top":"65","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2fa76cf","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"24","left":"0","isLinked":false}},"elements":[{"id":"48c223c2","elType":"widget","settings":{"title":"Help Customers","_padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"18","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"glozin-heading"},{"id":"59f94afe","elType":"widget","settings":{"editor":"&lt;span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\"&gt;﻿&lt;/span&gt;Find a location nearest you to reduce shipping costs and make\nshopping easier. &lt;a class=\"fw-semibold\" href=\"#\"&gt;Show on google maps.&lt;/a&gt; ","text_color":"#444444","typography_typography":"custom","typography_font_weight":"400","_padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"563fd34b","elType":"widget","settings":{"button_text":"+1 (973) 435-3638","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400"},"elements":[],"widgetType":"glozin-button"},{"id":"3d29c742","elType":"widget","settings":{"button_text":"info@glozinstore.com","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400","button_link":{"url":"mailto:info@glozinstore.com","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"glozin-button"},{"id":"ec2e03f","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":{"id":3089,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/facebook.svg"},"library":"svg"},"_id":"45f9e5f","link":{"url":"https://www.facebook.com/WordPress/","is_external":"true","nofollow":"","custom_attributes":""},"name":"Facebook"},{"social_icon":{"value":{"id":3090,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/instagram.svg"},"library":"svg"},"_id":"17d8940","link":{"url":"https://www.instagram.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Instagram"},{"social_icon":{"value":{"id":3091,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/tiktok.svg"},"library":"svg"},"link":{"url":"https://www.tiktok.com/@wordpress","is_external":"true","nofollow":"","custom_attributes":""},"_id":"b92ca6d","name":"TikTok"},{"social_icon":{"value":{"id":3092,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/youtube.svg"},"library":"svg"},"_id":"e8f79d7","link":{"url":"https://www.youtube.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"YouTube"},{"_id":"46b9a1f","social_icon":{"value":{"id":3093,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/snapchat.svg"},"library":"svg"},"link":{"url":"https://www.snapchat.com/explore/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Snapchat"}],"align":"left","icon_border_color":"#444444","_padding":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false},"icon_size":{"unit":"px","size":12,"sizes":[]},"_padding_mobile":{"unit":"px","top":"23","right":"0","bottom":"0","left":"0","isLinked":false},"icon_color":"#444444","icon_color_hover":"#111111"},"elements":[],"widgetType":"glozin-social-icons"}],"isInner":true},{"id":"5b49b6e4","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7532847d","elType":"widget","settings":{"title":"Our Company","menu_items":[{"title_menu":"Menu item 1","_id":"d23853d"},{"title_menu":"Menu item 2","_id":"608fbb4"},{"title_menu":"Menu item 3","_id":"80885c6"}],"list_menu":"our-company","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"7ddac173","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"308558e","elType":"widget","settings":{"title":"Shop Categories","menu_items":[{"title_menu":"Hot Deals","_id":"d23853d","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Best Seller","_id":"608fbb4","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Sale &amp; Special Offers","_id":"80885c6","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"3ea237e","title_menu":"Hair Care","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"ea3a909","title_menu":"Popular Trends","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"90ea128","title_menu":"Skin Care","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}}],"list_menu":"shop-categories","toggle_menu":"yes","menu_type":"custom","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"1ead8f5f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":41},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4c8140b8","elType":"widget","settings":{"form":"721","title":"Sign Up to Newsletter","description":"Sign up for 10% off your first purchase and free shipping. Updates information on Sales and Offers.","after_description":"***By entering the e-mail you accept the &lt;a href=\"https://wpglozin.com/cosmetic/terms-of-use/\"&gt;terms and conditions&lt;/a&gt; and the &lt;a href=\"https://wpglozin.com/cosmetic/privacy-policy/\"&gt;privacy policy.&lt;/a&gt;","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-subscribe-group"}],"isInner":true}],"isInner":false},{"id":"4a681b4","elType":"container","settings":{"margin_mobile":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"a700959","elType":"widget","settings":{"text":"Divider","color":"#EBEBEB"},"elements":[],"widgetType":"divider"}],"isInner":false},{"id":"21a97ac0","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"flex_justify_content":"space-between","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"17","right":"0","bottom":"32","left":"0","isLinked":false},"flex_justify_content_tablet":"space-between","flex_align_items_tablet":"center","flex_gap_mobile":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"15","right":"0","bottom":"30","left":"0","isLinked":false},"flex_direction_tablet":"column","flex_gap_tablet":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17}},"elements":[{"id":"68227182","elType":"container","settings":{"flex_direction":"row","content_width":"full","width":{"unit":"%","size":70},"flex_gap":{"column":"32","row":"10","isLinked":false,"unit":"px","size":32},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content_tablet":"center","flex_gap_tablet":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"flex_wrap_tablet":"wrap"},"elements":[{"id":"3b333ae","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-languages"},{"id":"75789a50","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-currencies"},{"id":"3189b83","elType":"widget","settings":{"title":"© [foodforlife_year] Glozin store. All rights reserved.","title_size":"span"},"elements":[],"widgetType":"glozin-heading"}],"isInner":true},{"id":"17d76495","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":25},"width_tablet":{"unit":"%","size":45,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"7b719a80","elType":"widget","settings":{"image":{"id":853,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/payment.png","alt":"","source":"library","size":""},"image_size":"full","image_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -4843,7 +4843,7 @@ shopping easier. <a href="#">Show on google maps.</a>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value>[{"id":"7ead77c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":50,"column":"50","row":"50","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"80","right":"0","bottom":"55","left":"0","isLinked":false},"flex_gap_tablet":{"column":"0","row":"35","isLinked":false,"unit":"px","size":0},"flex_gap_mobile":{"column":"0","row":"22","isLinked":false,"unit":"px","size":0},"flex_wrap_tablet":"wrap","padding_mobile":{"unit":"px","top":"65","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2fa76cf","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"24","left":"0","isLinked":false}},"elements":[{"id":"48c223c2","elType":"widget","settings":{"title":"Help Customers","_padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"18","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"glozin-heading"},{"id":"59f94afe","elType":"widget","settings":{"editor":"&lt;span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\"&gt;﻿&lt;/span&gt;Find a location nearest you to reduce shipping costs and make\nshopping easier. &lt;a class=\"fw-semibold\" href=\"#\"&gt;Show on google maps.&lt;/a&gt; ","text_color":"#444444","typography_typography":"custom","typography_font_weight":"400","_padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"563fd34b","elType":"widget","settings":{"button_text":"+1 (973) 435-3638","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400"},"elements":[],"widgetType":"glozin-button"},{"id":"3d29c742","elType":"widget","settings":{"button_text":"info@glozinstore.com","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400","button_link":{"url":"mailto:info@glozinstore.com","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"glozin-button"},{"id":"ec2e03f","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":{"id":3089,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/facebook.svg"},"library":"svg"},"_id":"45f9e5f","link":{"url":"https://www.facebook.com/WordPress/","is_external":"true","nofollow":"","custom_attributes":""},"name":"Facebook"},{"social_icon":{"value":{"id":3090,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/instagram.svg"},"library":"svg"},"_id":"17d8940","link":{"url":"https://www.instagram.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Instagram"},{"social_icon":{"value":{"id":3091,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/tiktok.svg"},"library":"svg"},"link":{"url":"https://www.tiktok.com/@wordpress","is_external":"true","nofollow":"","custom_attributes":""},"_id":"b92ca6d","name":"TikTok"},{"social_icon":{"value":{"id":3092,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/youtube.svg"},"library":"svg"},"_id":"e8f79d7","link":{"url":"https://www.youtube.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"YouTube"},{"_id":"46b9a1f","social_icon":{"value":{"id":3093,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/snapchat.svg"},"library":"svg"},"link":{"url":"https://www.snapchat.com/explore/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Snapchat"}],"align":"left","icon_border_color":"#444444","_padding":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false},"icon_size":{"unit":"px","size":12,"sizes":[]},"_padding_mobile":{"unit":"px","top":"23","right":"0","bottom":"0","left":"0","isLinked":false},"icon_color":"#444444","icon_color_hover":"#111111"},"elements":[],"widgetType":"glozin-social-icons"}],"isInner":true},{"id":"5b49b6e4","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7532847d","elType":"widget","settings":{"title":"Our Company","menu_items":[{"title_menu":"Menu item 1","_id":"d23853d"},{"title_menu":"Menu item 2","_id":"608fbb4"},{"title_menu":"Menu item 3","_id":"80885c6"}],"list_menu":"our-company","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"7ddac173","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"308558e","elType":"widget","settings":{"title":"Shop Categories","menu_items":[{"title_menu":"Hot Deals","_id":"d23853d","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Best Seller","_id":"608fbb4","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Sale &amp; Special Offers","_id":"80885c6","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"3ea237e","title_menu":"Hair Care","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"ea3a909","title_menu":"Popular Trends","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"90ea128","title_menu":"Skin Care","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}}],"list_menu":"shop-categories","toggle_menu":"yes","menu_type":"custom","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"1ead8f5f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":41},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4c8140b8","elType":"widget","settings":{"form":"721","title":"Sign Up to Newsletter","description":"Sign up for 10% off your first purchase and free shipping. Updates information on Sales and Offers.","after_description":"***By entering the e-mail you accept the &lt;a href=\"https://wpglozin.com/cosmetic/terms-of-use/\"&gt;terms and conditions&lt;/a&gt; and the &lt;a href=\"https://wpglozin.com/cosmetic/privacy-policy/\"&gt;privacy policy.&lt;/a&gt;","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-subscribe-group"}],"isInner":true}],"isInner":false},{"id":"4a681b4","elType":"container","settings":{"margin_mobile":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"a700959","elType":"widget","settings":{"text":"Divider","color":"#EBEBEB"},"elements":[],"widgetType":"divider"}],"isInner":false},{"id":"21a97ac0","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"flex_justify_content":"space-between","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"17","right":"0","bottom":"32","left":"0","isLinked":false},"flex_justify_content_tablet":"space-between","flex_align_items_tablet":"center","flex_gap_mobile":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"15","right":"0","bottom":"30","left":"0","isLinked":false},"flex_direction_tablet":"column","flex_gap_tablet":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17}},"elements":[{"id":"68227182","elType":"container","settings":{"flex_direction":"row","content_width":"full","width":{"unit":"%","size":70},"flex_gap":{"column":"32","row":"10","isLinked":false,"unit":"px","size":32},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content_tablet":"center","flex_gap_tablet":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"flex_wrap_tablet":"wrap"},"elements":[{"id":"3b333ae","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-languages"},{"id":"75789a50","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-currencies"},{"id":"3189b83","elType":"widget","settings":{"title":"© [glozin_year] Glozin store. All rights reserved.","title_size":"span"},"elements":[],"widgetType":"glozin-heading"}],"isInner":true},{"id":"17d76495","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":25},"width_tablet":{"unit":"%","size":45,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"7b719a80","elType":"widget","settings":{"image":{"id":853,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/payment.png","alt":"","source":"library","size":""},"image_size":"full","image_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]</wp:meta_value>
+		<wp:meta_value>[{"id":"7ead77c","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":50,"column":"50","row":"50","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"border_width":{"unit":"px","top":"1","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"80","right":"0","bottom":"55","left":"0","isLinked":false},"flex_gap_tablet":{"column":"0","row":"35","isLinked":false,"unit":"px","size":0},"flex_gap_mobile":{"column":"0","row":"22","isLinked":false,"unit":"px","size":0},"flex_wrap_tablet":"wrap","padding_mobile":{"unit":"px","top":"65","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2fa76cf","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":40},"flex_gap":{"column":"0","row":"0","isLinked":true,"unit":"px","size":0},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"24","left":"0","isLinked":false}},"elements":[{"id":"48c223c2","elType":"widget","settings":{"title":"Help Customers","_padding":{"unit":"px","top":"0","right":"0","bottom":"25","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"18","left":"0","isLinked":false},"typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]}},"elements":[],"widgetType":"glozin-heading"},{"id":"59f94afe","elType":"widget","settings":{"editor":"&lt;span data-mce-type=\"bookmark\" style=\"display: inline-block; width: 0px; overflow: hidden; line-height: 0;\" class=\"mce_SELRES_start\"&gt;﻿&lt;/span&gt;Find a location nearest you to reduce shipping costs and make\nshopping easier. &lt;a class=\"fw-semibold\" href=\"#\"&gt;Show on google maps.&lt;/a&gt; ","text_color":"#444444","typography_typography":"custom","typography_font_weight":"400","_padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"563fd34b","elType":"widget","settings":{"button_text":"+1 (973) 435-3638","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400"},"elements":[],"widgetType":"glozin-button"},{"id":"3d29c742","elType":"widget","settings":{"button_text":"info@glozinstore.com","button_style":"text","button_typography_typography":"custom","button_typography_font_weight":"400","button_link":{"url":"mailto:info@glozinstore.com","is_external":"","nofollow":"","custom_attributes":""}},"elements":[],"widgetType":"glozin-button"},{"id":"ec2e03f","elType":"widget","settings":{"social_icon_list":[{"social_icon":{"value":{"id":3089,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/facebook.svg"},"library":"svg"},"_id":"45f9e5f","link":{"url":"https://www.facebook.com/WordPress/","is_external":"true","nofollow":"","custom_attributes":""},"name":"Facebook"},{"social_icon":{"value":{"id":3090,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/instagram.svg"},"library":"svg"},"_id":"17d8940","link":{"url":"https://www.instagram.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Instagram"},{"social_icon":{"value":{"id":3091,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/tiktok.svg"},"library":"svg"},"link":{"url":"https://www.tiktok.com/@wordpress","is_external":"true","nofollow":"","custom_attributes":""},"_id":"b92ca6d","name":"TikTok"},{"social_icon":{"value":{"id":3092,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/youtube.svg"},"library":"svg"},"_id":"e8f79d7","link":{"url":"https://www.youtube.com/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"YouTube"},{"_id":"46b9a1f","social_icon":{"value":{"id":3093,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/snapchat.svg"},"library":"svg"},"link":{"url":"https://www.snapchat.com/explore/wordpress","is_external":"true","nofollow":"","custom_attributes":""},"name":"Snapchat"}],"align":"left","icon_border_color":"#444444","_padding":{"unit":"px","top":"25","right":"0","bottom":"0","left":"0","isLinked":false},"icon_size":{"unit":"px","size":12,"sizes":[]},"_padding_mobile":{"unit":"px","top":"23","right":"0","bottom":"0","left":"0","isLinked":false},"icon_color":"#444444","icon_color_hover":"#111111"},"elements":[],"widgetType":"glozin-social-icons"}],"isInner":true},{"id":"5b49b6e4","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"7532847d","elType":"widget","settings":{"title":"Our Company","menu_items":[{"title_menu":"Menu item 1","_id":"d23853d"},{"title_menu":"Menu item 2","_id":"608fbb4"},{"title_menu":"Menu item 3","_id":"80885c6"}],"list_menu":"our-company","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"7ddac173","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":17},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"308558e","elType":"widget","settings":{"title":"Shop Categories","menu_items":[{"title_menu":"Hot Deals","_id":"d23853d","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Best Seller","_id":"608fbb4","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"title_menu":"Sale &amp; Special Offers","_id":"80885c6","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"3ea237e","title_menu":"Hair Care","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"ea3a909","title_menu":"Popular Trends","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}},{"_id":"90ea128","title_menu":"Skin Care","link_menu":{"url":"#","is_external":false,"nofollow":false,"custom_attributes":""}}],"list_menu":"shop-categories","toggle_menu":"yes","menu_type":"custom","title_size":"h2"},"elements":[],"widgetType":"glozin-navigation-menu"}],"isInner":true},{"id":"1ead8f5f","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":41},"width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"15","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"4c8140b8","elType":"widget","settings":{"form":"721","title":"Sign Up to Newsletter","description":"Sign up for 10% off your first purchase and free shipping. Updates information on Sales and Offers.","after_description":"***By entering the e-mail you accept the &lt;a href=\"https://wpglozin.com/cosmetic/terms-of-use/\"&gt;terms and conditions&lt;/a&gt; and the &lt;a href=\"https://wpglozin.com/cosmetic/privacy-policy/\"&gt;privacy policy.&lt;/a&gt;","toggle_menu":"yes","title_size":"h2"},"elements":[],"widgetType":"glozin-subscribe-group"}],"isInner":true}],"isInner":false},{"id":"4a681b4","elType":"container","settings":{"margin_mobile":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"a700959","elType":"widget","settings":{"text":"Divider","color":"#EBEBEB"},"elements":[],"widgetType":"divider"}],"isInner":false},{"id":"21a97ac0","elType":"container","settings":{"flex_direction":"row","flex_gap":{"unit":"px","size":0,"column":"0","row":"0","isLinked":true},"boxed_width":{"unit":"px","size":1410,"sizes":[]},"flex_justify_content":"space-between","border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"17","right":"0","bottom":"32","left":"0","isLinked":false},"flex_justify_content_tablet":"space-between","flex_align_items_tablet":"center","flex_gap_mobile":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"15","right":"0","bottom":"30","left":"0","isLinked":false},"flex_direction_tablet":"column","flex_gap_tablet":{"column":"17","row":"17","isLinked":true,"unit":"px","size":17}},"elements":[{"id":"68227182","elType":"container","settings":{"flex_direction":"row","content_width":"full","width":{"unit":"%","size":70},"flex_gap":{"column":"32","row":"10","isLinked":false,"unit":"px","size":32},"width_tablet":{"unit":"%","size":100,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_justify_content_tablet":"center","flex_gap_tablet":{"column":"","row":"","isLinked":true,"unit":"px","size":null},"flex_wrap_tablet":"wrap"},"elements":[{"id":"3b333ae","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-languages"},{"id":"75789a50","elType":"widget","settings":[],"elements":[],"widgetType":"glozin-currencies"},{"id":"3189b83","elType":"widget","settings":{"title":"© [foodforlife_year] Glozin store. All rights reserved.","title_size":"span"},"elements":[],"widgetType":"glozin-heading"}],"isInner":true},{"id":"17d76495","elType":"container","settings":{"flex_direction":"column","content_width":"full","width":{"unit":"%","size":25},"width_tablet":{"unit":"%","size":45,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[{"id":"7b719a80","elType":"widget","settings":{"image":{"id":853,"url":"https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/demo-content/payment.png","alt":"","source":"library","size":""},"image_size":"full","image_border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":false}]</wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
@@ -5300,10 +5300,10 @@ shopping easier. <a href="#">Show on google maps.</a>
 							</item>
 					<item>
 		<title><![CDATA[Newsletter]]></title>
-		<link>https://wpglozin.com/cosmetic/?glozin_popup=newsletter</link>
+		<link>https://wpglozin.com/cosmetic/?foodforlife_popup=newsletter</link>
 		<pubDate>Tue, 15 Apr 2025 06:36:45 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?post_type=glozin_popup&amp;p=1367</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?post_type=foodforlife_popup&amp;p=1367</guid>
 		<description/>
 		<content:encoded><![CDATA[<img width="674" height="900" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-cosmetic-cats-2.webp" alt="" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-cosmetic-cats-2.webp 674w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-cosmetic-cats-2-225x300.webp 225w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-cosmetic-cats-2-600x801.webp 600w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/h-cosmetic-cats-2-130x174.webp 130w" sizes="(max-width: 674px) 100vw, 674px" />															
 				<h2>
@@ -5328,7 +5328,7 @@ shopping easier. <a href="#">Show on google maps.</a>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_popup]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_popup]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -5414,10 +5414,10 @@ shopping easier. <a href="#">Show on google maps.</a>
 							</item>
 					<item>
 		<title><![CDATA[Promotion]]></title>
-		<link>https://wpglozin.com/cosmetic/?glozin_popup=promotion</link>
+		<link>https://wpglozin.com/cosmetic/?foodforlife_popup=promotion</link>
 		<pubDate>Tue, 15 Apr 2025 06:38:50 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?post_type=glozin_popup&amp;p=1374</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?post_type=foodforlife_popup&amp;p=1374</guid>
 		<description/>
 		<content:encoded><![CDATA[<img width="250" height="387" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/banner-promotion.webp" alt="" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/banner-promotion.webp 250w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/banner-promotion-194x300.jpg 194w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/banner-promotion-130x201.webp 130w" sizes="(max-width: 250px) 100vw, 250px" />															
 				<h2>
@@ -5443,7 +5443,7 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_popup]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_popup]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -5529,10 +5529,10 @@ Big Promotion				</h2>
 							</item>
 					<item>
 		<title><![CDATA[Leave Popup]]></title>
-		<link>https://wpglozin.com/cosmetic/?glozin_popup=leave-popup</link>
+		<link>https://wpglozin.com/cosmetic/?foodforlife_popup=leave-popup</link>
 		<pubDate>Tue, 15 Apr 2025 07:15:12 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?post_type=glozin_popup&amp;p=1385</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?post_type=foodforlife_popup&amp;p=1385</guid>
 		<description/>
 		<content:encoded><![CDATA[<h2>
 					Big Save!<br />
@@ -5589,7 +5589,7 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_popup]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_popup]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -5671,10 +5671,10 @@ Big Promotion				</h2>
 							</item>
 					<item>
 		<title><![CDATA[Description]]></title>
-		<link>https://wpglozin.com/cosmetic/?glozin_product_tab=description</link>
+		<link>https://wpglozin.com/cosmetic/?foodforlife_product_tab=description</link>
 		<pubDate>Fri, 18 Apr 2025 07:06:55 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/cosmetic/?glozin_product_tab=description</guid>
+		<guid isPermaLink="false">https://wpglozin.com/cosmetic/?foodforlife_product_tab=description</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5689,17 +5689,17 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="default"><![CDATA[default]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="default"><![CDATA[default]]></category>
 						</item>
 					<item>
 		<title><![CDATA[Additional Information]]></title>
-		<link>https://wpglozin.com/cosmetic/?glozin_product_tab=additional_information</link>
+		<link>https://wpglozin.com/cosmetic/?foodforlife_product_tab=additional_information</link>
 		<pubDate>Fri, 18 Apr 2025 07:06:55 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/cosmetic/?glozin_product_tab=additional_information</guid>
+		<guid isPermaLink="false">https://wpglozin.com/cosmetic/?foodforlife_product_tab=additional_information</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5714,17 +5714,17 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="default"><![CDATA[default]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="default"><![CDATA[default]]></category>
 						</item>
 					<item>
 		<title><![CDATA[Reviews]]></title>
-		<link>https://wpglozin.com/cosmetic/?glozin_product_tab=reviews</link>
+		<link>https://wpglozin.com/cosmetic/?foodforlife_product_tab=reviews</link>
 		<pubDate>Fri, 18 Apr 2025 07:06:55 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/cosmetic/?glozin_product_tab=reviews</guid>
+		<guid isPermaLink="false">https://wpglozin.com/cosmetic/?foodforlife_product_tab=reviews</guid>
 		<description/>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -5739,17 +5739,17 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="default"><![CDATA[default]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="default"><![CDATA[default]]></category>
 						</item>
 					<item>
 		<title><![CDATA[Shipping and Returns]]></title>
-		<link>https://wpglozin.com/cosmetic/?glozin_product_tab=shipping-and-returns</link>
+		<link>https://wpglozin.com/cosmetic/?foodforlife_product_tab=shipping-and-returns</link>
 		<pubDate>Mon, 21 Apr 2025 10:11:49 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/cosmetic/?post_type=glozin_product_tab&amp;p=2195</guid>
+		<guid isPermaLink="false">https://wpglozin.com/cosmetic/?post_type=foodforlife_product_tab&amp;p=2195</guid>
 		<description/>
 		<content:encoded><![CDATA[We offer fast and reliable shipping for all our clothing items. Orders are processed within <strong style="color:#111111">1-2 business days </strong> and shipped via standard delivery, which typically takes 3-5 business days.
 
@@ -5766,10 +5766,10 @@ Express shipping options are also available at checkout for an additional fee, e
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="global"><![CDATA[global]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="global"><![CDATA[global]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_tab_disable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[no]]></wp:meta_value>
@@ -5781,10 +5781,10 @@ Express shipping options are also available at checkout for an additional fee, e
 							</item>
 					<item>
 		<title><![CDATA[Return Policies]]></title>
-		<link>https://wpglozin.com/cosmetic/?glozin_product_tab=return-policies</link>
+		<link>https://wpglozin.com/cosmetic/?foodforlife_product_tab=return-policies</link>
 		<pubDate>Mon, 21 Apr 2025 10:12:14 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/cosmetic/?post_type=glozin_product_tab&amp;p=2196</guid>
+		<guid isPermaLink="false">https://wpglozin.com/cosmetic/?post_type=foodforlife_product_tab&amp;p=2196</guid>
 		<description/>
 		<content:encoded><![CDATA[Provided the conditions in our refund policy have been met, refunds will be processed using the original form of payment. You can return an item purchased online by posting it to us. Please contact customer service for return address. Please note that delivery costs will be excluded from the refund unless goods are returned in accordance with your statutory rights (e.g. they are faulty or not as ordered).
 <ul>
@@ -5804,10 +5804,10 @@ Provided the conditions in our refund policy have been met, refunds will be proc
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_product_tab]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_product_tab]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_product_tab_type" nicename="global"><![CDATA[global]]></category>
+										<category domain="foodforlife_product_tab_type" nicename="global"><![CDATA[global]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_tab_disable]]></wp:meta_key>
 		<wp:meta_value><![CDATA[no]]></wp:meta_value>
@@ -5821,10 +5821,10 @@ Provided the conditions in our refund policy have been met, refunds will be proc
 					
 					<item>
 		<title><![CDATA[Navigation Bar v1]]></title>
-		<link>https://wpglozin.com/cosmetic/?glozin_builder=navigation-bar-v1</link>
+		<link>https://wpglozin.com/cosmetic/?foodforlife_builder=navigation-bar-v1</link>
 		<pubDate>Wed, 14 May 2025 07:54:28 +0000</pubDate>
 		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/cosmetic/?glozin_builder=navigation-bar-v1</guid>
+		<guid isPermaLink="false">https://wpglozin.com/cosmetic/?foodforlife_builder=navigation-bar-v1</guid>
 		<description/>
 		<content:encoded><![CDATA[<a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" style="fill: none;"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10 15.001v-2.5M8.392 2.353 2.617 6.977c-.65.517-1.066 1.609-.924 2.425L2.8 16.035c.2 1.183 1.333 2.141 2.533 2.141h9.332c1.192 0 2.333-.966 2.533-2.141l1.108-6.633c.134-.816-.283-1.908-.924-2.425l-5.775-4.616c-.891-.716-2.333-.716-3.216-.008Z"></path></svg>Home</a>				
 					<a data-toggle="off-canvas" data-target="account-panel" href="#"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none"><g fill="currentColor"><path d="M18.887 17.699a10.285 10.285 0 0 0-3.768-3.704 10.353 10.353 0 0 0-10.24 0 10.285 10.285 0 0 0-3.768 3.704.87.87 0 0 0 .075.962c.073.09.164.165.268.217a.881.881 0 0 0 .44.114.829.829 0 0 0 .754-.42 8.515 8.515 0 0 1 3.12-3.068 8.572 8.572 0 0 1 8.48 0 8.514 8.514 0 0 1 3.12 3.068.878.878 0 0 0 1.195.315.808.808 0 0 0 .404-.516.869.869 0 0 0-.08-.672ZM10 11.803c1.416 0 2.775-.56 3.784-1.56 1.01-1.001 1.59-2.362 1.617-3.79a5.476 5.476 0 0 0-1.582-3.854 5.375 5.375 0 0 0-3.818-1.596 5.375 5.375 0 0 0-3.819 1.596 5.476 5.476 0 0 0-1.581 3.854 5.474 5.474 0 0 0 1.616 3.79A5.374 5.374 0 0 0 10 11.802Zm-3.6-5.35c0-.964.38-1.888 1.055-2.57a3.583 3.583 0 0 1 2.546-1.063c.955 0 1.87.382 2.545 1.064a3.65 3.65 0 0 1 1.055 2.569 3.65 3.65 0 0 1-1.055 2.569 3.583 3.583 0 0 1-2.545 1.064c-.955 0-1.87-.383-2.546-1.064a3.65 3.65 0 0 1-1.054-2.57Z"></path></g></svg>Account</a>				
@@ -5843,11 +5843,11 @@ Provided the conditions in our refund policy have been met, refunds will be proc
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_builder]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_builder]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_builder_type" nicename="enable"><![CDATA[enable]]></category>
-		<category domain="glozin_builder_type" nicename="navigation_bar"><![CDATA[navigation_bar]]></category>
+										<category domain="foodforlife_builder_type" nicename="enable"><![CDATA[enable]]></category>
+		<category domain="foodforlife_builder_type" nicename="navigation_bar"><![CDATA[navigation_bar]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
@@ -15124,7 +15124,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -15152,7 +15152,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[a:3:{s:18:"pa_purpose-concern";a:6:{s:4:"name";s:18:"pa_purpose-concern";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:12:"pa_skin-tone";a:6:{s:4:"name";s:12:"pa_skin-tone";s:5:"value";s:0:"";s:8:"position";i:1;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:12:"pa_skin-type";a:6:{s:4:"name";s:12:"pa_skin-type";s:5:"value";s:0:"";s:8:"position";i:2;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:37;s:4:"time";i:1751672172;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -15349,7 +15349,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -15377,15 +15377,15 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[a:3:{s:18:"pa_purpose-concern";a:6:{s:4:"name";s:18:"pa_purpose-concern";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:12:"pa_skin-tone";a:6:{s:4:"name";s:12:"pa_skin-tone";s:5:"value";s:0:"";s:8:"position";i:1;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:12:"pa_skin-type";a:6:{s:4:"name";s:12:"pa_skin-type";s:5:"value";s:0:"";s:8:"position";i:2;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:19;s:4:"time";i:1751638573;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -15583,7 +15583,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -15611,15 +15611,15 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[a:3:{s:18:"pa_purpose-concern";a:6:{s:4:"name";s:18:"pa_purpose-concern";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:12:"pa_skin-tone";a:6:{s:4:"name";s:12:"pa_skin-tone";s:5:"value";s:0:"";s:8:"position";i:1;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:12:"pa_skin-type";a:6:{s:4:"name";s:12:"pa_skin-type";s:5:"value";s:0:"";s:8:"position";i:2;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:32;s:4:"time";i:1751629695;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -15817,7 +15817,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -15845,7 +15845,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[a:3:{s:18:"pa_purpose-concern";a:6:{s:4:"name";s:18:"pa_purpose-concern";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:12:"pa_skin-type";a:6:{s:4:"name";s:12:"pa_skin-type";s:5:"value";s:0:"";s:8:"position";i:1;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:12:"pa_skin-tone";a:6:{s:4:"name";s:12:"pa_skin-tone";s:5:"value";s:0:"";s:8:"position";i:2;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:15;s:4:"time";i:1751598811;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16041,7 +16041,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16069,15 +16069,15 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[a:3:{s:18:"pa_purpose-concern";a:6:{s:4:"name";s:18:"pa_purpose-concern";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:12:"pa_skin-tone";a:6:{s:4:"name";s:12:"pa_skin-tone";s:5:"value";s:0:"";s:8:"position";i:1;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:12:"pa_skin-type";a:6:{s:4:"name";s:12:"pa_skin-type";s:5:"value";s:0:"";s:8:"position";i:2;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:30;s:4:"time";i:1751590610;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16275,7 +16275,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16303,7 +16303,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[a:3:{s:18:"pa_purpose-concern";a:6:{s:4:"name";s:18:"pa_purpose-concern";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:12:"pa_skin-tone";a:6:{s:4:"name";s:12:"pa_skin-tone";s:5:"value";s:0:"";s:8:"position";i:1;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:12:"pa_skin-type";a:6:{s:4:"name";s:12:"pa_skin-type";s:5:"value";s:0:"";s:8:"position";i:2;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:9;s:4:"time";i:1751621483;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16500,7 +16500,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16528,15 +16528,15 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[a:2:{s:12:"pa_skin-type";a:6:{s:4:"name";s:12:"pa_skin-type";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:18:"pa_purpose-concern";a:6:{s:4:"name";s:18:"pa_purpose-concern";s:5:"value";s:0:"";s:8:"position";i:1;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:50;s:4:"time";i:1751921963;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16732,7 +16732,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16760,7 +16760,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[a:2:{s:18:"pa_purpose-concern";a:6:{s:4:"name";s:18:"pa_purpose-concern";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}s:12:"pa_skin-tone";a:6:{s:4:"name";s:12:"pa_skin-tone";s:5:"value";s:0:"";s:8:"position";i:1;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:24;s:4:"time";i:1751923242;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16954,7 +16954,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -16982,7 +16982,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[a:1:{s:12:"pa_skin-tone";a:6:{s:4:"name";s:12:"pa_skin-tone";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:4;s:4:"time";i:1751922655;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17176,7 +17176,7 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_total_stock]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_total_stock]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
@@ -17204,15 +17204,15 @@ perfect for enhancing every style on every special occasion and daily wear.]]></
 		<wp:meta_value><![CDATA[a:1:{s:12:"pa_skin-tone";a:6:{s:4:"name";s:12:"pa_skin-tone";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:0;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_product_attribute_number]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_product_attribute_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[glozin_recent_sales_count_expiration]]></wp:meta_key>
+		<wp:meta_key><![CDATA[foodforlife_recent_sales_count_expiration]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:6:"number";i:36;s:4:"time";i:1751909813;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
