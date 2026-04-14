@@ -92,9 +92,8 @@ class Module {
 	 * @return void
 	 */
 	public function actions() {
-		if( get_option('foodforlife_popup_enable', 'yes') == 'yes' ) {
-			\FoodForLife\Addons\Modules\Popup\Post_Type::instance();
-		}
+		// Always register the post type so demo imports work on fresh installs.
+		\FoodForLife\Addons\Modules\Popup\Post_Type::instance();
 	}
 
 	/**

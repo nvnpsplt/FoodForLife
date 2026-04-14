@@ -79,8 +79,10 @@ class Module {
 			\FoodForLife\Addons\Modules\Dynamic_Pricing_Discounts\Settings::instance();
 		}
 
+		// Always register the post type so demo imports work on fresh installs.
+		\FoodForLife\Addons\Modules\Dynamic_Pricing_Discounts\Post_Type::instance();
+
 		if ( get_option( 'foodforlife_dynamic_pricing_discounts', 'yes' ) == 'yes' ) {
-			\FoodForLife\Addons\Modules\Dynamic_Pricing_Discounts\Post_Type::instance();
 			\FoodForLife\Addons\Modules\Dynamic_Pricing_Discounts\Frontend::instance();
 
 			if ( is_admin() ) {

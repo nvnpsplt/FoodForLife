@@ -91,8 +91,10 @@ class Module {
 	 * @return void
 	 */
 	public function actions() {
+		// Always register the post type so demo imports work on fresh installs.
+		\FoodForLife\Addons\Modules\Linked_Variant\Post_Type::instance();
+
 		if ( get_option( 'foodforlife_linked_variant' ) == 'yes' ) {
-			\FoodForLife\Addons\Modules\Linked_Variant\Post_Type::instance();
 			\FoodForLife\Addons\Modules\Linked_Variant\Frontend::instance();
 		}
 

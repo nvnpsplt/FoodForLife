@@ -106,9 +106,8 @@ class Module {
 	 * @return void
 	 */
 	public function actions() {
-		if ( get_option( 'foodforlife_product_tab' ) == 'yes' ) {
-			\FoodForLife\Addons\Modules\Product_Tabs\Post_Type::instance();
-		}
+		// Always register the post type so demo imports work on fresh installs.
+		\FoodForLife\Addons\Modules\Product_Tabs\Post_Type::instance();
 	}
 
 }

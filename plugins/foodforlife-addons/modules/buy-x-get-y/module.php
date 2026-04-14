@@ -78,8 +78,10 @@ class Module {
 			\FoodForLife\Addons\Modules\Buy_X_Get_Y\Settings::instance();
 		}
 
+		// Always register the post type so demo imports work on fresh installs.
+		\FoodForLife\Addons\Modules\Buy_X_Get_Y\Post_Type::instance();
+
 		if ( get_option( 'foodforlife_buy_x_get_y' ) == 'yes' ) {
-			\FoodForLife\Addons\Modules\Buy_X_Get_Y\Post_Type::instance();
 			\FoodForLife\Addons\Modules\Buy_X_Get_Y\Frontend::instance();
 
 			if ( is_admin() ) {
