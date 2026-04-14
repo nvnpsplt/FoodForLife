@@ -62,6 +62,27 @@ class Modules {
 
 		add_action( 'init', [ $this, 'activate' ] );
 
+		// Register all custom post types early so they exist during demo import.
+		// Modules load at init:20, but the WXR importer needs post types before that.
+		$this->register_post_types_for_import();
+	}
+
+	/**
+	 * Register custom post types from all modules immediately.
+	 *
+	 * This ensures post types are available during demo import even before
+	 * modules fully initialize at init:20.
+	 *
+	 * @since 1.0.5
+	 * @return void
+	 */
+	private function register_post_types_for_import() {
+		\FoodForLife\Addons\Modules\Product_Tabs\Post_Type::instance();
+		\FoodForLife\Addons\Modules\Popup\Post_Type::instance();
+		\FoodForLife\Addons\Modules\Buy_X_Get_Y\Post_Type::instance();
+		\FoodForLife\Addons\Modules\Dynamic_Pricing_Discounts\Post_Type::instance();
+		\FoodForLife\Addons\Modules\Linked_Variant\Post_Type::instance();
+		\FoodForLife\Addons\Modules\Size_Guide\Settings::instance();
 	}
 
 	/**
