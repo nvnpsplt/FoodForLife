@@ -1,0 +1,192 @@
+:root {
+	--ffl-background-color-primary: var( --ffl-color-primary );
+	--ffl-background-color-gray: #ddd;
+}
+
+@keyframes fs-raise {
+	0% {
+		width: 30px;
+	}
+	100% {
+		width: var(--ffl-progress, 100%);
+	}
+}
+
+@keyframes fs-progress {
+	0% {
+		background-position: 0 0;
+	}
+	100% {
+		background-position: -60px -60px;
+	}
+}
+
+@keyframes fs-flash {
+	50%, 0%, 100% {
+		opacity: 1;
+	}
+	25%, 75% {
+		opacity: 0;
+	}
+}
+
+.foodforlife-free-shipping-bar {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	transition: var(--ffl-transition);
+}
+
+.foodforlife-free-shipping-bar.ffl-is-success {
+	--ffl-background-color-primary: #14854e;
+}
+
+.foodforlife-free-shipping-bar__message {
+	width: 100%;
+	margin-top: 29px;
+}
+
+.foodforlife-free-shipping-bar__message strong {
+	font-weight: 500;
+	color: var(--ffl-background-color-primary);
+}
+
+.foodforlife-free-shipping-bar__progress {
+    width: 100%;
+    background-color: var(--ffl-background-color-gray);
+	display: flex;
+	height: 5px;
+	border-radius: var( --ffl-rounded-xs );
+	position: relative;
+}
+
+.foodforlife-free-shipping-bar__progress-bar {
+	border-radius: var( --ffl-rounded-xs );
+	height: 100%;
+	position: relative;
+	min-width: 30px;
+	width: var(--ffl-progress);
+	transition: all .5s ease .2s;
+
+	display: block;
+    height: 100%;
+    animation: fs-progress 5s linear infinite;
+    background-color: var(--ffl-background-color-primary);
+    -webkit-background-image: linear-gradient(135deg, #ffffff26 0 25%, #fff0 25% 50%, #ffffff26 50% 75%, #fff0 75% 100%);
+    background-image: linear-gradient(135deg, #ffffff26 0 25%, #fff0 25% 50%, #ffffff26 50% 75%, #fff0 75% 100%);
+    background-size: 40px 40px;
+}
+
+.foodforlife-free-shipping-bar__icon {
+	position: absolute;
+	right: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 30px;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	transition: all .5s ease .2s;
+}
+
+.rtl .foodforlife-free-shipping-bar__icon {
+	right: auto;
+	left: 0;
+	transform: translateY(-50%) scaleX(-1);
+}
+
+.rtl .foodforlife-free-shipping-bar--preload .foodforlife-free-shipping-bar__icon {
+	right: auto;
+	left: 0;
+}
+
+.foodforlife-free-shipping-bar--preload .foodforlife-free-shipping-bar__progress-bar {
+	width: 30px;
+	min-width: 30px;
+	animation: fs-raise 0.8s forwards, fs-progress 5s linear infinite;
+	animation-delay: 1s;
+}
+
+.foodforlife-free-shipping-bar--preload.ffl-is-success .foodforlife-free-shipping-bar__progress-bar {
+	animation: fs-raise 0.8s forwards;
+}
+
+.ffl-is-success .foodforlife-free-shipping-bar__progress,
+.ffl-is-success .foodforlife-free-shipping-bar__message {
+	animation: fs-flash .8s linear .8s 2 both;
+	animation-delay: 2s;
+}
+
+.ffl-is-success .foodforlife-free-shipping-bar__progress-bar {
+	animation: none;
+}
+
+.foodforlife-free-shipping-bar__icon .foodforlife-svg-icon {
+	font-size: 30px;
+	color: var( --ffl-background-color-primary );
+	transition: all .5s ease .2s;
+}
+
+.foodforlife-free-shipping-bar__percent-value {
+	font-size: 13px;
+	font-weight: 500;
+	width: 50px;
+	text-align: right;
+	margin-top: -9px;
+	display: none;
+}
+
+.rtl .foodforlife-free-shipping-bar__percent-value {
+	text-align: left;
+}
+
+.woocommerce-cart .site-content .foodforlife-free-shipping-bar {
+	border-bottom: 1px solid var(--ffl-border-color);
+	padding: 12px 0 26px;
+	margin-bottom: 26px;
+}
+
+.woocommerce-checkout .site-content .foodforlife-free-shipping-bar {
+    color: var(--ffl-color-dark);
+    border: 1px solid var(--ffl-border-color);
+    background-color: #fbfbfc;
+	border-radius: var(--ffl-rounded-md);
+	padding: 33px 30px 17px;
+	margin-bottom: 30px;
+}
+
+.cart-panel .foodforlife-free-shipping-bar {
+	background-color: var(--ffl-color-light-grey);
+	padding: 30px 30px 15px;
+	margin-inline-start: -30px;
+	margin-inline-end: -30px;
+	position: relative;
+	display: none;
+}
+
+.cart-panel.offscreen-panel--open .foodforlife-free-shipping-bar { 
+	display: flex;
+}
+
+.cart-panel .foodforlife-free-shipping-bar__message {
+	margin-top: 17px;
+}
+
+.cart-panel .foodforlife-free-shipping-bar:after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	height: 1px;
+	width: 100%;
+	background-color: var(--ffl-border-color);
+}
+
+.foodforlife-popup-add-to-cart .foodforlife-free-shipping-bar  {
+	padding-top: 20px;
+}
+
+@media (max-width: 767px) {
+	.cart-panel .foodforlife-free-shipping-bar__message {
+		font-size: 13px;
+	}
+}

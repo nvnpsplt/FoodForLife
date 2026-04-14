@@ -1,0 +1,1 @@
+@keyframes progress{0%{width:100%}100%{width:var(--progress-bar-percentage)}}.foodforlife-progress-bar{height:5px}.foodforlife-progress-bar-inner{width:var(--progress-bar-percentage);animation:progress .6s cubic-bezier(.7,0,.3,1) .1s}

@@ -1,0 +1,5 @@
+.foodforlife-pre-orders__table th,
+.foodforlife-pre-orders__table td {
+    white-space: nowrap;
+    padding: 10px;
+}

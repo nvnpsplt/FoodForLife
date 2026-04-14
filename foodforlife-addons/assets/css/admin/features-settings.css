@@ -1,0 +1,107 @@
+.ffl-features-tabs {
+    display: flex;
+    gap: 30px;
+}
+
+.ffl-features-tabs .ffl-features-tabs-header {
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
+    width: 250px;
+}
+
+.ffl-features-tabs .ffl-features-tabs-search-wrapper {
+    background: #ffffff;
+    padding: 15px;
+    border: 1px solid #e1e1e1;
+}
+
+.ffl-features-tabs .ffl-features-tabs-header .ffl-features-tabs-search-wrapper input {
+    width: 100%;
+    border: 1px solid #e1e1e1;
+    height: 40px;
+}
+
+.ffl-features-tabs .nav-tab-wrapper {
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+    padding: 0;
+    border: 1px solid #e1e1e1;
+}
+
+.ffl-features-tabs .nav-tab-wrapper .nav-tab {
+    display: flex;
+    align-items: center;
+    padding: 10px 30px;
+    margin-inline-start: 0px;
+    text-decoration: none;
+    color: #333;
+    background-color: transparent;
+    border: none;
+    border-left: 2px solid transparent;
+    border-bottom: 1px solid #e1e1e1;
+    outline: none;
+}
+
+.ffl-features-tabs .nav-tab-wrapper .nav-tab:focus {
+    box-shadow: none;
+}
+
+.ffl-features-tabs .nav-tab-wrapper .nav-tab:last-child {
+    border-bottom: none;
+}
+
+.ffl-features-tabs .nav-tab-wrapper .nav-tab:hover {
+    color: #007cba;
+}
+
+.ffl-features-tabs .nav-tab-wrapper .nav-tab.nav-tab-active {
+    background-color: #e1e1e1;
+    font-weight: 600;
+    color: #000;
+    border-left-color: #000;
+}
+
+.ffl-features-tabs .nav-tab-wrapper .nav-tab.hidden {
+    display: none;
+}
+
+.ffl-features-tabs .tab-content {
+    flex: 1;
+    background: #ffffff;
+    padding: 20px 30px;
+    border: 1px solid #e1e1e1;
+}
+
+.ffl-features-tabs-description {
+    color: #333;
+    font-weight: 600;
+}
+
+.ffl-features-tabs-description p {
+    font-size: 14px;
+}
+
+@media (max-width: 768px) {
+    .ffl-features-tabs {
+        flex-direction: column;
+    }
+
+    .ffl-features-tabs .ffl-features-tabs-header {
+        width: 100%;
+    }
+
+    .ffl-features-tabs .nav-tab-wrapper {
+        width: 100%;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 5px;
+        padding: 15px;
+    }
+
+    .ffl-features-tabs .nav-tab-wrapper .nav-tab {
+        border: 1px solid #e1e1e1;
+
+    }
+}

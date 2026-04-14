@@ -1,0 +1,275 @@
+body {
+	padding-bottom: var(--ffl-atc-sticky-height, 0);
+}
+
+.foodforlife-sticky-add-to-cart {
+	transition: transform .3s;
+	opacity: 0;
+	transform: translate3d(0,100%,0);
+	box-shadow: 5px 0px 30px 0px rgba(0, 0, 0, 0.08);
+}
+
+.foodforlife-header-sidebar-categories-enable .foodforlife-sticky-add-to-cart {
+	inset-inline-start: 60px;
+}
+
+.foodforlife-sticky-add-to-cart .stock {
+	display: none;
+}
+
+.foodforlife-sticky-add-to-cart.open {
+	overflow: initial;
+	opacity: 1;
+	z-index: 800;
+    transform: translate3d(0,0,0);
+	pointer-events: auto;
+}
+
+.foodforlife-sticky-add-to-cart .single_add_to_cart_button {
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+	font-weight: 600;
+	height: 50px;
+	min-width: 190px;
+	margin-inline-start: 10px;
+}
+
+.foodforlife-sticky-add-to-cart .single_add_to_cart_button:not(.loading):after,
+.foodforlife-sticky-add-to-cart .single_add_to_cart_button:not(.loading):before {
+	content: '';
+	z-index: -1;
+	transition: transform 0.4s cubic-bezier(0.75, 0, 0.125, 1);
+	position: absolute;
+	top: -5px;
+	bottom: -5px;
+	left: -5px;
+	right: -5px;
+	transform: translate(-100%);
+}
+
+.foodforlife-sticky-add-to-cart .single_add_to_cart_button:not(.loading):before {
+	background-color: var(--ffl-button-eff-bg-color-hover);
+}
+
+.foodforlife-sticky-add-to-cart .single_add_to_cart_button:not(.loading):after {
+	background-color: var(--ffl-button-bg-color-hover);
+}
+
+.foodforlife-sticky-add-to-cart .single_add_to_cart_button:not(.loading):hover:before {
+	transform: translate(0);
+}
+
+.foodforlife-sticky-add-to-cart .single_add_to_cart_button:not(.loading):hover:after {
+	transform: translate(0);
+	transition-delay: 0.175s;
+}
+
+.foodforlife-sticky-add-to-cart.sold-individually form.cart .quantity,
+.foodforlife-sticky-add-to-cart .single_variation_wrap .woocommerce-variation-price,
+.foodforlife-sticky-add-to-cart .single_variation_wrap .ffl-product-item__data,
+.foodforlife-sticky-add-to-cart .single_variation_wrap .woocommerce-variation-availability {
+	display: none;
+}
+
+.foodforlife-sticky-atc__image {
+	width: 67px;
+	height: 67px;
+}
+
+.woocommerce .foodforlife-sticky-add-to-cart .quantity {
+	--ffl-quantity-height: 50px;
+}
+
+.foodforlife-sticky-add-to-cart .quantity {
+	margin-inline-start: 10px;
+}
+
+.foodforlife-sticky-add-to-cart .ffl-buy-now-button {
+	display: none;
+}
+
+
+.foodforlife-sticky-atc__actions .foodforlife-product-atc-group {
+	flex-wrap: nowrap;
+}
+
+.foodforlife-sticky-add-to-cart .foodforlife-sticky-atc__actions,
+.foodforlife-sticky-add-to-cart .foodforlife-sticky-atc__actions form {
+	display: flex;
+	align-items: center;
+	margin-inline-start: auto;
+}
+
+.foodforlife-sticky-add-to-cart.product-variable .ffl-add-to-cart-options {
+	display: none;
+}
+
+.foodforlife-sticky-atc__actions  .product-featured-icons,
+.foodforlife-sticky-atc__actions  .product-size-guide {
+	display: none;
+}
+
+.foodforlife-sticky-add-to-cart .variations_form.cart table.variations {
+	width: auto;
+	margin-bottom: 0;
+}
+
+.foodforlife-sticky-add-to-cart .variations_form.cart table.variations tbody {
+	display: inline-flex;
+	align-items: center;
+	gap: 20px;
+	max-width: 500px;
+	width: 100%;
+	overflow: hidden;
+	overflow-x: auto;
+	scrollbar-width: 1px;
+	scrollbar-color: var(--ffl-color-light-grey);
+}
+
+.foodforlife-sticky-add-to-cart .variations_form.cart table.variations tbody::-webkit-scrollbar {
+	height: 3px;
+}
+
+.foodforlife-sticky-add-to-cart .variations_form.cart table.variations tbody::-webkit-scrollbar-thumb {
+	background-color: transparent;
+	border-radius: 8px;
+}
+
+.foodforlife-sticky-add-to-cart .variations_form.cart table.variations tbody::-webkit-scrollbar-thumb {
+	background-color: rgba(0, 0, 0, 0.16);
+}
+
+.foodforlife-sticky-add-to-cart .variations_form.cart table.variations tbody::-webkit-scrollbar-track {
+	background-color: rgba(255, 255, 255, 0.05);
+}
+
+.foodforlife-sticky-add-to-cart .variations_form.cart table.variations tbody label {
+	margin-inline-end: 10px;
+}
+
+.foodforlife-sticky-add-to-cart .variations_form.cart table.variations tbody tr,
+.foodforlife-sticky-add-to-cart .variations_form.cart table.variations tbody td.value {
+	display: inline-flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.foodforlife-sticky-add-to-cart.quantity-and-buy-now .ffl-buy-now-button,
+.foodforlife-sticky-add-to-cart.buy-now-and-add-to-cart .ffl-buy-now-button {
+	display: block;
+	min-width: 190px;
+    margin-inline-start: 10px;
+}
+.foodforlife-sticky-add-to-cart.buy-now-and-add-to-cart .ffl-buy-now-button {
+	--ffl-button-bg-color: var(--ffl-color-primary);
+	--ffl-button-border-color: var(--ffl-color-primary);
+	--ffl-button-bg-color-hover: var(--ffl-color-primary);
+	--ffl-button-border-color-hover: var(--ffl-color-primary);
+}
+
+.foodforlife-sticky-add-to-cart.quantity-and-buy-now .single_add_to_cart_button {
+	display: none;
+}
+
+.foodforlife-sticky-add-to-cart.buy-now-and-add-to-cart .quantity {
+	display: none;
+}
+
+.foodforlife-sticky-add-to-cart .variations_form.cart table.variations tbody th,
+.foodforlife-sticky-add-to-cart .variations_form.cart table.variations tbody td {
+	border-bottom: none;
+}
+
+.foodforlife-sticky-add-to-cart .tc-extra-product-options,
+.foodforlife-sticky-add-to-cart .tc-totals-form {
+	display: none;
+}
+
+@media (max-width: 1200px) {
+	.foodforlife-sticky-add-to-cart.product-variable .foodforlife-sticky-atc__actions form.variations_form {
+		display: none;
+	}
+
+	.foodforlife-sticky-add-to-cart.product-variable .ffl-add-to-cart-options {
+		display: block;
+	}
+
+}
+
+@media (max-width: 991px) {
+	.foodforlife-sticky-add-to-cart.product-variable .foodforlife-sticky-atc__image {
+		display: none;
+	}
+}
+
+@media (max-width: 767px) {
+	.mobile-has-navigation-bar .foodforlife-sticky-add-to-cart {
+		bottom: var(--ffl-navigation-bar-height, 0);
+	}
+
+	.foodforlife-sticky-add-to-cart .foodforlife-sticky-atc__actions,
+	.foodforlife-sticky-add-to-cart .foodforlife-sticky-atc__actions form {
+		margin-inline-start: 0;
+		width: 100%;
+	}
+
+	.foodforlife-sticky-atc__actions .foodforlife-product-atc-group {
+		flex-wrap: nowrap;
+		width: 100%;
+	}
+
+	.foodforlife-sticky-add-to-cart.variations-custom .foodforlife-sticky-atc__actions form {
+		flex-direction: column;
+	}
+
+	.foodforlife-sticky-add-to-cart .foodforlife-sticky-atc__variations,
+	.foodforlife-sticky-add-to-cart .foodforlife-sticky-atc__variations select {
+		width: 100%;
+	}
+
+	.foodforlife-sticky-add-to-cart .quantity {
+		margin-inline-start: 0;
+		margin-inline-end: 10px;
+	}
+
+	.foodforlife-sticky-add-to-cart .single_add_to_cart_button {
+		width: 100%;
+		flex: 1;
+	}
+
+	.foodforlife-sticky-add-to-cart .foodforlife-sticky-atc__buttons {
+		gap: 10px;
+	}
+
+	.foodforlife-sticky-add-to-cart form.cart .quantity {
+		--ffl-quantity-button-padding: 15px;
+		width: 100%;
+		margin: 0;
+		justify-content: center;
+	}
+
+	.foodforlife-sticky-add-to-cart.buy-now-and-add-to-cart .foodforlife-sticky-atc__buttons,
+	.foodforlife-sticky-add-to-cart.quantity-and-buy-now .foodforlife-sticky-atc__buttons,
+	.foodforlife-sticky-add-to-cart.quantity-and-buy-now .ffl-buy-now-button,
+	.foodforlife-sticky-add-to-cart.buy-now-and-add-to-cart .ffl-buy-now-button,
+	.foodforlife-sticky-add-to-cart.quantity-and-buy-now .foodforlife-product-atc-group,
+	.foodforlife-sticky-add-to-cart.buy-now-and-add-to-cart .foodforlife-product-atc-group {
+		width: 48%;
+		margin: 0;
+		min-width: auto;
+	}
+
+	.foodforlife-sticky-add-to-cart.buy-now-and-add-to-cart .single_add_to_cart_button {
+		margin-inline-start: 0;
+		min-width: auto
+	}
+
+	.foodforlife-sticky-add-to-cart.buy-now-and-add-to-cart .foodforlife-sticky-atc__actions form,
+	.foodforlife-sticky-add-to-cart.quantity-and-buy-now .foodforlife-sticky-atc__actions form {
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		gap: 10px;
+	}
+}

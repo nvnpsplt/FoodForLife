@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Sass cache
+.sass-cache/
+*.css.map
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Composer
+vendor/
+
+# Build artifacts
+*.log
