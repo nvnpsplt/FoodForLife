@@ -972,8 +972,11 @@ class FoodForLife_Demo_Importer
 
 		// Old demo source URLs to replace (order matters — most specific first).
 		$old_urls = array(
+			'https://resilbyte.com/fashion',
+			'https://resilbyte.com',
 			'https://wpglozin.com/fashion',
 			'https://wpglozin.com',
+			'http://localhost/foodforlife',
 			'http://localhost/glozin',
 		);
 
