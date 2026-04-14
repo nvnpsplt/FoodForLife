@@ -344,14 +344,21 @@ class FoodForLife_Demo_Importer
 	 */
 	private function import_demo_page()
 	{
-		// S-DEMO: Verify nonce on form submission (CSRF protection).
-		if (!isset($_POST['_foodforlife_demo_nonce']) || !wp_verify_nonce(sanitize_text_field(wp_unslash($_POST['_foodforlife_demo_nonce'])), 'foodforlife_demo_select')) {
-			wp_die(esc_html__('Security check failed. Please try again.', 'foodforlife'), '', array('back_link' => true));
-		}
-
-		// S-DEMO: Capability check.
+		// S-DEMO: Capability check (always required).
 		if (!current_user_can('edit_theme_options')) {
 			wp_die(esc_html__('You do not have permission to import demo data.', 'foodforlife'), '', array('back_link' => true));
+		}
+
+		// S-DEMO: Verify nonce on form submission (CSRF protection).
+		// Only check on POST (initial form submission). GET requests
+		// (page reloads/refreshes after import) redirect back to demo selection.
+		if ('POST' !== $_SERVER['REQUEST_METHOD']) {
+			wp_safe_redirect(remove_query_arg('step'));
+			exit;
+		}
+
+		if (!isset($_POST['_foodforlife_demo_nonce']) || !wp_verify_nonce(sanitize_text_field(wp_unslash($_POST['_foodforlife_demo_nonce'])), 'foodforlife_demo_select')) {
+			wp_die(esc_html__('Security check failed. Please try again.', 'foodforlife'), '', array('back_link' => true));
 		}
 
 		$demo = isset($_POST['demo']) ? sanitize_text_field(wp_unslash($_POST['demo'])) : '';
