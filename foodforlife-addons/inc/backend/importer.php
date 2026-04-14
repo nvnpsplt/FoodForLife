@@ -64,10 +64,10 @@ class Importer {
 		return array(
 			array(
 				'name'       => 'Home - Main Demo',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-main-demo/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-main-demo/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-main-demo/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-main-demo/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-main-demo/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-main-demo/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-main-demo/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-main-demo/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Main Demo',
 					'blog'       => 'Blog',
@@ -100,10 +100,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Chic Boutique',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-chic-boutique/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-chic-boutique/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-chic-boutique/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-chic-boutique/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-chic-boutique/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-chic-boutique/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-chic-boutique/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-chic-boutique/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Chic Boutique',
 					'blog'       => 'Blog',
@@ -136,10 +136,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - EchoZone',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-echozone/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-echozone/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-echozone/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-echozone/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-echozone/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-echozone/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-echozone/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-echozone/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - EchoZone',
 					'blog'       => 'Blog',
@@ -172,10 +172,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Modern Wardrobe',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-modern-wardrobe/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-modern-wardrobe/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-modern-wardrobe/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-modern-wardrobe/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-modern-wardrobe/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-modern-wardrobe/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-modern-wardrobe/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-modern-wardrobe/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Modern Wardrobe',
 					'blog'       => 'Blog',
@@ -208,10 +208,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Urban Living',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-urban-living/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-urban-living/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-urban-living/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-urban-living/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-urban-living/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-urban-living/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-urban-living/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-urban-living/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Urban Living',
 					'blog'       => 'Blog',
@@ -244,10 +244,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Single Product',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-single-product/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-single-product/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-single-product/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-single-product/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-single-product/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-single-product/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-single-product/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-single-product/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Single Product',
 					'blog'       => 'Blog',
@@ -280,10 +280,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Cosmetic',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-cosmetic/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-cosmetic/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-cosmetic/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-cosmetic/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-cosmetic/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-cosmetic/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-cosmetic/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-cosmetic/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Cosmetic',
 					'blog'       => 'Blog',
@@ -316,10 +316,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Activewear',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-activewear/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-activewear/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-activewear/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-activewear/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-activewear/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-activewear/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-activewear/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-activewear/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Activewear',
 					'blog'       => 'Blog',
@@ -352,10 +352,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Decor',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-decor/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-decor/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-decor/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-decor/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-decor/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-decor/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-decor/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-decor/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Decor',
 					'blog'       => 'Blog',
@@ -388,10 +388,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Elegant Style',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-elegant-style/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-elegant-style/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-elegant-style/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-elegant-style/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-elegant-style/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-elegant-style/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-elegant-style/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-elegant-style/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Elegant Style',
 					'blog'       => 'Blog',
@@ -424,10 +424,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Gleam Luxe',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-gleam-luxe/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-gleam-luxe/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-gleam-luxe/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-gleam-luxe/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-gleam-luxe/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-gleam-luxe/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-gleam-luxe/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-gleam-luxe/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Gleam Luxe',
 					'blog'       => 'Blog',
@@ -460,10 +460,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Jewelry',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-jewelry/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-jewelry/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-jewelry/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-jewelry/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-jewelry/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-jewelry/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-jewelry/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-jewelry/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Jewelry',
 					'blog'       => 'Blog',
@@ -496,10 +496,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Tiny Outfits',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-tiny-outfits/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-tiny-outfits/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-tiny-outfits/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-tiny-outfits/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-tiny-outfits/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-tiny-outfits/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-tiny-outfits/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-tiny-outfits/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Tiny Outfits',
 					'blog'       => 'Blog',
@@ -532,10 +532,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Healthy Haven',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-healthy-haven/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-healthy-haven/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-healthy-haven/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-healthy-haven/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-healthy-haven/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-healthy-haven/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-healthy-haven/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-healthy-haven/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Organic',
 					'blog'       => 'Blog',
@@ -568,10 +568,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Paw Paradise',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-paw-paradise/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-paw-paradise/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-paw-paradise/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-paw-paradise/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-paw-paradise/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-paw-paradise/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-paw-paradise/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-paw-paradise/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Paw Paradise',
 					'blog'       => 'Blog',
@@ -604,10 +604,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Echelon Watches',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-echelon-watches/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-echelon-watches/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-echelon-watches/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-echelon-watches/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-echelon-watches/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-echelon-watches/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-echelon-watches/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-echelon-watches/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Echelon Watches',
 					'blog'       => 'Blog',
@@ -640,10 +640,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Wigs',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-wigs/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-wigs/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-wigs/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-wigs/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-wigs/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-wigs/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-wigs/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-wigs/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Wigs',
 					'blog'       => 'Blog',
@@ -676,10 +676,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Kids Toys',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-kids-toys/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-kids-toys/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-kids-toys/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-kids-toys/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-kids-toys/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-kids-toys/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-kids-toys/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-kids-toys/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Kid Toys',
 					'blog'       => 'Blog',
@@ -712,10 +712,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Underwear',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-underwear/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-underwear/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-underwear/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-underwear/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-underwear/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-underwear/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-underwear/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-underwear/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Underwear',
 					'blog'       => 'Blog',
@@ -748,10 +748,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Socks',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-socks/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-socks/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-socks/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-socks/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-socks/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-socks/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-socks/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-socks/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Socks',
 					'blog'       => 'Blog',
@@ -784,10 +784,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Celeste Charm',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-celeste-charm/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-celeste-charm/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-celeste-charm/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-celeste-charm/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-celeste-charm/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-celeste-charm/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-celeste-charm/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-celeste-charm/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Celeste Charm',
 					'blog'       => 'Blog',
@@ -820,10 +820,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Footwear',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-footwear/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-footwear/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-footwear/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-footwear/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-footwear/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-footwear/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-footwear/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-footwear/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Footwear',
 					'blog'       => 'Blog',
@@ -856,10 +856,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Electro Pulse',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-electro-pulse/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-electro-pulse/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-electro-pulse/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-electro-pulse/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-electro-pulse/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-electro-pulse/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-electro-pulse/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-electro-pulse/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'electro',
 					'blog'       => 'Blog',
@@ -893,10 +893,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Sari Couture',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-sari-couture/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-sari-couture/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-sari-couture/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-sari-couture/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-sari-couture/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-sari-couture/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-sari-couture/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-sari-couture/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Sari Couture',
 					'blog'       => 'Blog',
@@ -930,10 +930,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Campster',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-campster/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-campster/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-campster/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-campster/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-campster/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-campster/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-campster/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-campster/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Campster',
 					'blog'       => 'Blog',
@@ -967,10 +967,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Coffee',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-coffee/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-coffee/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-coffee/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-coffee/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-coffee/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-coffee/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-coffee/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-coffee/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Coffee',
 					'blog'       => 'Blog',
@@ -1004,10 +1004,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Loftora Living',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-loftora-living/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-loftora-living/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-loftora-living/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-loftora-living/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-loftora-living/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-loftora-living/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-loftora-living/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-loftora-living/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Loftora Living',
 					'blog'       => 'Blog',
@@ -1041,10 +1041,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Fresh Basket',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-fresh-basket/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-fresh-basket/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-fresh-basket/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-fresh-basket/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-fresh-basket/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-fresh-basket/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-fresh-basket/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-fresh-basket/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Fresh Basket',
 					'blog'       => 'Blog',
@@ -1078,10 +1078,10 @@ class Importer {
 			),
 			array(
 				'name'       => 'Home - Svelta Apparel',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-svelta-apparel/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-svelta-apparel/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-svelta-apparel/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-svelta-apparel/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-svelta-apparel/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-svelta-apparel/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-svelta-apparel/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-svelta-apparel/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Svelta Apparel',
 					'blog'       => 'Blog',
@@ -1115,10 +1115,10 @@ class Importer {
 			),
 			// array(
 			// 	'name'       => 'Home - Swimwear',
-			// 	'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-swimwear/demo-content.xml',
-			// 	'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-swimwear/widgets.wie',
-			// 	'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-swimwear/customizer.dat',
-			// 	'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-swimwear/preview.jpg',
+			// 	'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-swimwear/demo-content.xml',
+			// 	'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-swimwear/widgets.wie',
+			// 	'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-swimwear/customizer.dat',
+			// 	'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-swimwear/preview.jpg',
 			// 	'pages'      => array(
 			// 		'front_page' => 'Home Swimwear',
 			// 		'blog'       => 'Blog',
@@ -1152,10 +1152,10 @@ class Importer {
 			// ),
 			array(
 				'name'       => 'Home - Plants',
-				'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-plants/demo-content.xml',
-				'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-plants/widgets.wie',
-				'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-plants/customizer.dat',
-				'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-plants/preview.jpg',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-plants/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-plants/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-plants/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-plants/preview.jpg',
 				'pages'      => array(
 					'front_page' => 'Home - Plants',
 					'blog'       => 'Blog',
@@ -1189,10 +1189,10 @@ class Importer {
 			),
 			// array(
 			// 	'name'       => 'Home - Garden',
-			// 	'content'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-garden/demo-content.xml',
-			// 	'widgets'     => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-garden/widgets.wie',
-			// 	'customizer' => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-garden/customizer.dat',
-			// 	'preview'   => 'https://raw.githubusercontent.com/resilbytewp/foodforlife/refs/heads/main/importer/demo-content/home-garden/preview.jpg',
+			// 	'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-garden/demo-content.xml',
+			// 	'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-garden/widgets.wie',
+			// 	'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-garden/customizer.dat',
+			// 	'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-garden/preview.jpg',
 			// 	'pages'      => array(
 			// 		'front_page' => 'Home - Garden',
 			// 		'blog'       => 'Blog',
