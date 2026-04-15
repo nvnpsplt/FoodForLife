@@ -110,13 +110,7 @@ class Plugin_Install {
 				'force_activation'   => false,
 				'force_deactivation' => false,
 			),
-			array(
-				'name'               => esc_html__( 'WCBoost - Products Compare', 'foodforlife' ),
-				'slug'               => 'wcboost-products-compare',
-				'required'           => false,
-				'force_activation'   => false,
-				'force_deactivation' => false,
-			),
+
 			array(
 				'name'               => esc_html__( 'FoodForLife Demo Importer', 'foodforlife' ),
 				'slug'               => 'foodforlife-demo-importer',

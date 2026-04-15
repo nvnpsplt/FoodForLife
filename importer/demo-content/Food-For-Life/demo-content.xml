@@ -755,7 +755,7 @@
 	<generator>https://wordpress.org/?v=6.9.4</generator>
 
 <image>
-	<url>https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/cropped-Favicon_01-130x130.webp</url>
+	<url>https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/cropped-Favicon_01-130x130.webp</url>
 	<title>Food For Life</title>
 	<link>https://foodforlife.resilbyte.com</link>
 	<width>32</width>
@@ -785,7 +785,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/woocommerce-placeholder.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/woocommerce-placeholder.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/woocommerce-placeholder.webp]]></wp:meta_value>
@@ -804,7 +804,7 @@
 		<link>https://foodforlife.resilbyte.com/woocommerce-placeholder/</link>
 		<pubDate>Sat, 11 Apr 2026 08:10:12 +0000</pubDate>
 		<dc:creator><![CDATA[resilbyte]]></dc:creator>
-		<guid isPermaLink="false">https://foodforlife.resilbyte.com/wp-content/uploads/2026/04/woocommerce-placeholder.webp</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2026/04/woocommerce-placeholder.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -822,7 +822,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/woocommerce-placeholder.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/woocommerce-placeholder.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woocommerce-placeholder.webp]]></wp:meta_value>
@@ -855,7 +855,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/banner-pageheader-scaled-1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/banner-pageheader-scaled-1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/banner-pageheader-scaled-1.webp]]></wp:meta_value>
@@ -888,7 +888,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog_banner.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog_banner.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/blog_banner.webp]]></wp:meta_value>
@@ -921,7 +921,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/blog-1-1.webp]]></wp:meta_value>
@@ -954,7 +954,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/blog-1-2.webp]]></wp:meta_value>
@@ -987,7 +987,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/about_banner_1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/about_banner_1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/about_banner_1.webp]]></wp:meta_value>
@@ -1020,7 +1020,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/about_banner_2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/about_banner_2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/about_banner_2.webp]]></wp:meta_value>
@@ -1053,7 +1053,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/about_banner_3.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/about_banner_3.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/about_banner_3.webp]]></wp:meta_value>
@@ -1086,7 +1086,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/about_banner_4.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/about_banner_4.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/about_banner_4.webp]]></wp:meta_value>
@@ -1119,7 +1119,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/about_banner_5.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/about_banner_5.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/about_banner_5.webp]]></wp:meta_value>
@@ -1152,7 +1152,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/about_banner_6.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/about_banner_6.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/about_banner_6.webp]]></wp:meta_value>
@@ -1185,7 +1185,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/about_banner_7.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/about_banner_7.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/about_banner_7.webp]]></wp:meta_value>
@@ -1218,7 +1218,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/about_banner_8.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/about_banner_8.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/about_banner_8.webp]]></wp:meta_value>
@@ -1251,7 +1251,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/about-us-banner.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/about-us-banner.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/about-us-banner.webp]]></wp:meta_value>
@@ -1284,7 +1284,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/rating.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/rating.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/rating.svg]]></wp:meta_value>
@@ -1317,7 +1317,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/ours-stores-1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/ours-stores-1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/ours-stores-1.webp]]></wp:meta_value>
@@ -1350,7 +1350,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/ours-stores-2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/ours-stores-2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/ours-stores-2.webp]]></wp:meta_value>
@@ -1383,7 +1383,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/ours-stores-3.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/ours-stores-3.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/ours-stores-3.webp]]></wp:meta_value>
@@ -1416,7 +1416,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/ours-stores-4.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/ours-stores-4.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/ours-stores-4.webp]]></wp:meta_value>
@@ -1449,7 +1449,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/ours-stores-5.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/ours-stores-5.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/ours-stores-5.webp]]></wp:meta_value>
@@ -1482,7 +1482,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/ours-stores-6.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/ours-stores-6.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/ours-stores-6.webp]]></wp:meta_value>
@@ -1515,7 +1515,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/lock.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/lock.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/lock.svg]]></wp:meta_value>
@@ -1548,7 +1548,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/coming-soon-bg.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/coming-soon-bg.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/coming-soon-bg.webp]]></wp:meta_value>
@@ -1581,7 +1581,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/logo_dark.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/logo_dark.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/logo_dark.svg]]></wp:meta_value>
@@ -1614,7 +1614,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/payment.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/payment.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/payment.webp]]></wp:meta_value>
@@ -1647,7 +1647,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/facebook.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/facebook.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/facebook.svg]]></wp:meta_value>
@@ -1680,7 +1680,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/instagram.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/instagram.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/instagram.svg]]></wp:meta_value>
@@ -1713,7 +1713,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/snapchat.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/snapchat.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/snapchat.svg]]></wp:meta_value>
@@ -1746,7 +1746,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/tiktok.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/tiktok.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/tiktok.svg]]></wp:meta_value>
@@ -1779,7 +1779,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/youtube.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/youtube.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/youtube.svg]]></wp:meta_value>
@@ -1812,7 +1812,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/delivery.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/delivery.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/delivery.svg]]></wp:meta_value>
@@ -1853,7 +1853,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/discount.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/discount.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/discount.svg]]></wp:meta_value>
@@ -1894,7 +1894,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/free-ship.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/free-ship.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/free-ship.svg]]></wp:meta_value>
@@ -1935,7 +1935,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/star.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/star.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/star.svg]]></wp:meta_value>
@@ -1976,7 +1976,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/line.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/line.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/03/line.svg]]></wp:meta_value>
@@ -2017,7 +2017,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/Favicon_01.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/Favicon_01.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/Favicon_01.webp]]></wp:meta_value>
@@ -2054,7 +2054,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/cropped-Favicon_01.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/cropped-Favicon_01.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/cropped-Favicon_01.webp]]></wp:meta_value>
@@ -2095,7 +2095,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/md-bn-2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/md-bn-2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/md-bn-2.webp]]></wp:meta_value>
@@ -2128,7 +2128,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/banner-promotion.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/banner-promotion.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/banner-promotion.webp]]></wp:meta_value>
@@ -2161,7 +2161,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/icon_sale.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/icon_sale.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/icon_sale.webp]]></wp:meta_value>
@@ -2198,7 +2198,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/banner-menu1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/banner-menu1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/banner-menu1.webp]]></wp:meta_value>
@@ -2235,7 +2235,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/banner_sale.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/banner_sale.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/banner_sale.webp]]></wp:meta_value>
@@ -2268,7 +2268,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_17_1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_17_1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_17_1.webp]]></wp:meta_value>
@@ -2309,7 +2309,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_17_4.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_17_4.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_17_4.webp]]></wp:meta_value>
@@ -2350,7 +2350,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_14_1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_14_1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_14_1.webp]]></wp:meta_value>
@@ -2391,7 +2391,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_14_2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_14_2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_14_2.webp]]></wp:meta_value>
@@ -2432,7 +2432,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_12_1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_12_1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_12_1.webp]]></wp:meta_value>
@@ -2473,7 +2473,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_12_2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_12_2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_12_2.webp]]></wp:meta_value>
@@ -2514,7 +2514,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_9_1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_9_1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_9_1.webp]]></wp:meta_value>
@@ -2555,7 +2555,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_9_2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_9_2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_9_2.webp]]></wp:meta_value>
@@ -2596,7 +2596,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_8_1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_8_1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_8_1.webp]]></wp:meta_value>
@@ -2637,7 +2637,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_8_2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_8_2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_8_2.webp]]></wp:meta_value>
@@ -2678,7 +2678,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_7_2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_7_2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_7_2.webp]]></wp:meta_value>
@@ -2719,7 +2719,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_6_1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_6_1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_6_1.webp]]></wp:meta_value>
@@ -2760,7 +2760,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_6_4.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_6_4.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_6_4.webp]]></wp:meta_value>
@@ -2801,7 +2801,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_6_4-1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_6_4-1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_6_4-1.webp]]></wp:meta_value>
@@ -2842,7 +2842,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_3_1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_3_1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_3_1.webp]]></wp:meta_value>
@@ -2883,7 +2883,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_3_2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_3_2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic_products_3_2.webp]]></wp:meta_value>
@@ -2924,7 +2924,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/navigation-home.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/navigation-home.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/navigation-home.svg]]></wp:meta_value>
@@ -2969,7 +2969,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/placeholder.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/placeholder.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/placeholder.webp]]></wp:meta_value>
@@ -3010,7 +3010,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/navigation-account.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/navigation-account.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/navigation-account.svg]]></wp:meta_value>
@@ -3051,7 +3051,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/placeholder-1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/placeholder-1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/placeholder-1.webp]]></wp:meta_value>
@@ -3092,7 +3092,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/navigation-shop.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/navigation-shop.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/navigation-shop.svg]]></wp:meta_value>
@@ -3137,7 +3137,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/placeholder-2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/placeholder-2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/placeholder-2.webp]]></wp:meta_value>
@@ -3178,7 +3178,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/navigation-wishlist.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/navigation-wishlist.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/navigation-wishlist.svg]]></wp:meta_value>
@@ -3223,7 +3223,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/placeholder-3.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/placeholder-3.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/placeholder-3.webp]]></wp:meta_value>
@@ -3264,7 +3264,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/navigation-cart.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/navigation-cart.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/navigation-cart.svg]]></wp:meta_value>
@@ -3309,7 +3309,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/placeholder-4.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/placeholder-4.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/placeholder-4.webp]]></wp:meta_value>
@@ -3350,7 +3350,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/facebook.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/facebook.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/facebook.svg]]></wp:meta_value>
@@ -3395,7 +3395,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/instagram.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/instagram.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/instagram.svg]]></wp:meta_value>
@@ -3440,7 +3440,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/tiktok.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/tiktok.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/tiktok.svg]]></wp:meta_value>
@@ -3485,7 +3485,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/youtube.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/youtube.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/youtube.svg]]></wp:meta_value>
@@ -3530,7 +3530,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/snapchat.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/snapchat.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/snapchat.svg]]></wp:meta_value>
@@ -3571,7 +3571,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-bn-1.webp]]></wp:meta_value>
@@ -3604,7 +3604,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/shipping.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/shipping.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/shipping.svg]]></wp:meta_value>
@@ -3641,7 +3641,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/return.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/return.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/return.svg]]></wp:meta_value>
@@ -3678,7 +3678,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/payment.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/payment.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/payment.svg]]></wp:meta_value>
@@ -3715,7 +3715,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/support.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/support.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/support.svg]]></wp:meta_value>
@@ -3752,7 +3752,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-cat-1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-cat-1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-cat-1.webp]]></wp:meta_value>
@@ -3785,7 +3785,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-cat-2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-cat-2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-cat-2.webp]]></wp:meta_value>
@@ -3818,7 +3818,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-cat-3.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-cat-3.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-cat-3.webp]]></wp:meta_value>
@@ -3851,7 +3851,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-cat-4.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-cat-4.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-cat-4.webp]]></wp:meta_value>
@@ -3884,7 +3884,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-bn-2.webp]]></wp:meta_value>
@@ -3917,7 +3917,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-3.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-3.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-bn-3.webp]]></wp:meta_value>
@@ -3950,7 +3950,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-4.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-4.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-bn-4.webp]]></wp:meta_value>
@@ -3983,7 +3983,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-5.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-5.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-bn-5.webp]]></wp:meta_value>
@@ -4016,7 +4016,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-6.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-6.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-bn-6.webp]]></wp:meta_value>
@@ -4049,7 +4049,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-7.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-7.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-bn-7.webp]]></wp:meta_value>
@@ -4082,7 +4082,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-8.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-8.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-bn-8.webp]]></wp:meta_value>
@@ -4115,7 +4115,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-9.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-9.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-bn-9.webp]]></wp:meta_value>
@@ -4148,7 +4148,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-ins-1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-ins-1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-ins-1.webp]]></wp:meta_value>
@@ -4181,7 +4181,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-ins-2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-ins-2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-ins-2.webp]]></wp:meta_value>
@@ -4214,7 +4214,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-ins-3.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-ins-3.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-ins-3.webp]]></wp:meta_value>
@@ -4247,7 +4247,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-ins-4.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-ins-4.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-ins-4.webp]]></wp:meta_value>
@@ -4280,7 +4280,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-ins-5.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-ins-5.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-ins-5.webp]]></wp:meta_value>
@@ -4313,7 +4313,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-ins-6.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-ins-6.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-ins-6.webp]]></wp:meta_value>
@@ -4346,7 +4346,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-ins-7.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-ins-7.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/hh-ins-7.webp]]></wp:meta_value>
@@ -4379,7 +4379,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/organic_products_1_1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/organic_products_1_1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/organic_products_1_1.webp]]></wp:meta_value>
@@ -4412,7 +4412,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/organic_products_1_2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/organic_products_1_2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/organic_products_1_2.webp]]></wp:meta_value>
@@ -4710,7 +4710,7 @@
 	<input type="email" id="email" name="EMAIL" required>
 <input type="submit" value="Subcribe"><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1775899304" /><input type="hidden" name="_mc4wp_form_id" value="721" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-2" /></form><!-- / Mailchimp for WordPress Plugin -->									***By entering the e-mail you accept the <a href="https://wpglozin.com/organic/terms-of-use/">terms and conditions</a> and the <a href="https://foodforlife.resilbyte.com/privacy-policy-2/.</a>
 					© 2026 Glozin store. All rights reserved.				
-															<img width="676" height="44" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/payment.webp" alt="" srcset="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/payment.webp 676w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/payment-300x20.webp 300w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/payment-130x8.webp 130w" sizes="(max-width: 676px) 100vw, 676px" />]]></content:encoded>
+															<img width="676" height="44" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/payment.webp" alt="" srcset="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/payment.webp 676w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/payment-300x20.webp 300w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/payment-130x8.webp 130w" sizes="(max-width: 676px) 100vw, 676px" />]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>392</wp:post_id>
 		<wp:post_date><![CDATA[2025-03-19 03:37:03]]></wp:post_date>
@@ -4984,7 +4984,7 @@
 		<dc:creator><![CDATA[resilbyte]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/glozin/?post_type=glozin_popup&#038;p=1367</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img width="840" height="760" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic.webp" alt="" srcset="https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic.webp 840w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-300x271.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-768x695.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-600x543.webp 600w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-130x118.webp 130w" sizes="(max-width: 840px) 100vw, 840px" />															
+		<content:encoded><![CDATA[<img width="840" height="760" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic.webp" alt="" srcset="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic.webp 840w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-300x271.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-768x695.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-600x543.webp 600w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-130x118.webp 130w" sizes="(max-width: 840px) 100vw, 840px" />															
 				<h2>
 					Sign Up—Big Save!				</h2>
 					Sign up for 10% off your first purchase and free shipping. Updates information on Sales and Offers.				
@@ -5106,7 +5106,7 @@
 		<dc:creator><![CDATA[resilbyte]]></dc:creator>
 		<guid isPermaLink="false">http://localhost/glozin/?post_type=glozin_popup&#038;p=1374</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img width="840" height="760" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic.webp" alt="" srcset="https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic.webp 840w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-700x633.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-300x271.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-768x695.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-130x118.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-600x543.webp 600w" sizes="(max-width: 840px) 100vw, 840px" />															
+		<content:encoded><![CDATA[<img width="840" height="760" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic.webp" alt="" srcset="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic.webp 840w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-700x633.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-300x271.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-768x695.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-130x118.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-600x543.webp 600w" sizes="(max-width: 840px) 100vw, 840px" />															
 				<h2>
 					Super Save!<br />
 Big Promotion				</h2>
@@ -5504,7 +5504,7 @@ Big Promotion				</h2>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/organic_products_13_1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/organic_products_13_1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/organic_products_13_1.webp]]></wp:meta_value>
@@ -5537,7 +5537,7 @@ Big Promotion				</h2>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/organic_products_13_2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/organic_products_13_2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/organic_products_13_2.webp]]></wp:meta_value>
@@ -5570,7 +5570,7 @@ Big Promotion				</h2>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/organic_products_11_1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/organic_products_11_1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/organic_products_11_1.webp]]></wp:meta_value>
@@ -5603,7 +5603,7 @@ Big Promotion				</h2>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/organic_products_11_2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/organic_products_11_2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/organic_products_11_2.webp]]></wp:meta_value>
@@ -5636,7 +5636,7 @@ Big Promotion				</h2>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/04/organic.webp]]></wp:meta_value>
@@ -5669,7 +5669,7 @@ Big Promotion				</h2>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/organic_1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/organic_1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/organic_1.webp]]></wp:meta_value>
@@ -5706,7 +5706,7 @@ Big Promotion				</h2>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/shipping-1.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/shipping-1.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/shipping-1.svg]]></wp:meta_value>
@@ -5747,7 +5747,7 @@ Big Promotion				</h2>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/return-1.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/return-1.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/return-1.svg]]></wp:meta_value>
@@ -5788,7 +5788,7 @@ Big Promotion				</h2>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/support-1.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/support-1.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/05/support-1.svg]]></wp:meta_value>
@@ -5829,7 +5829,7 @@ Big Promotion				</h2>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://foodforlife.resilbyte.com/wp-content/uploads/2025/08/post_image.svg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/08/post_image.svg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/08/post_image.svg]]></wp:meta_value>
@@ -5841,10 +5841,10 @@ Big Promotion				</h2>
 							</item>
 					<item>
 		<title><![CDATA[glozin]]></title>
-		<link>https://foodforlife.resilbyte.com/glozin/</link>
+		<link>https://foodforlife.resilbyte.com/</link>
 		<pubDate>Sat, 11 Apr 2026 12:08:39 +0000</pubDate>
 		<dc:creator><![CDATA[resilbyte]]></dc:creator>
-		<guid isPermaLink="false">https://foodforlife.resilbyte.com/glozin/</guid>
+		<guid isPermaLink="false">https://foodforlife.resilbyte.com/</guid>
 		<description></description>
 		<content:encoded><![CDATA[div#glozin-toolbar-view {
     display: none !important;
@@ -9376,28 +9376,28 @@ Pure Organic—Vegan				</h2>
 									Support Online
 								Outstanding premium support.<svg aria-hidden="true" role="img" focusable="false" width="7" height="11" viewBox="0 0 7 11" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 11L0 5.5L5.5 0L6.47625 0.97625L1.9525 5.5L6.47625 10.0238L5.5 11Z" fill="currentColor"/></svg><svg aria-hidden="true" role="img" focusable="false" width="7" height="11" viewBox="0 0 7 11" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 11L7 5.5L1.5 0L0.52375 0.97625L5.0475 5.5L0.52375 10.0238L1.5 11Z" fill="currentColor"/></svg>				
 										<a aria-label="Link for Meat and Eggs" href="#">
-											<img width="676" height="720" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-cat-1.webp" alt="" />										</a>
+											<img width="676" height="720" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-cat-1.webp" alt="" />										</a>
 											<h3><a href="#">Meat and Eggs</a></h3>
 																						4 Products										
 												<a href="#" aria-label="Link for Meat and Eggs">
 							<svg aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8" fill="currentColor"><path d="M0.861539 8L0 7.13846L5.90769 1.23077H0.615385V0H8V7.38462H6.76923V2.09231L0.861539 8Z" fill="currentColor"></path></svg>			
 					</a>
 										<a aria-label="Link for Biscuits Snack" href="#">
-											<img width="674" height="720" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-cat-2.webp" alt="" />										</a>
+											<img width="674" height="720" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-cat-2.webp" alt="" />										</a>
 											<h3><a href="#">Biscuits Snack</a></h3>
 																						5 Products										
 												<a href="#" aria-label="Link for Biscuits Snack">
 							<svg aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8" fill="currentColor"><path d="M0.861539 8L0 7.13846L5.90769 1.23077H0.615385V0H8V7.38462H6.76923V2.09231L0.861539 8Z" fill="currentColor"></path></svg>			
 					</a>
 										<a aria-label="Link for Healthy Drinks" href="#">
-											<img width="674" height="720" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-cat-3.webp" alt="" />										</a>
+											<img width="674" height="720" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-cat-3.webp" alt="" />										</a>
 											<h3><a href="#">Healthy Drinks</a></h3>
 																						12 Products										
 												<a href="#" aria-label="Link for Healthy Drinks">
 							<svg aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8" fill="currentColor"><path d="M0.861539 8L0 7.13846L5.90769 1.23077H0.615385V0H8V7.38462H6.76923V2.09231L0.861539 8Z" fill="currentColor"></path></svg>			
 					</a>
 										<a aria-label="Link for Fresh Vegetables" href="#">
-											<img width="676" height="720" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-cat-4.webp" alt="" />										</a>
+											<img width="676" height="720" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-cat-4.webp" alt="" />										</a>
 											<h3><a href="#">Fresh Vegetables</a></h3>
 																						7 Products										
 												<a href="#" aria-label="Link for Fresh Vegetables">
@@ -9408,7 +9408,7 @@ Pure Organic—Vegan				</h2>
 					Today's Popular Picks				</h2>
 					Unmatched design—superior performance and customer satisfaction in one.				
 					<ul data-layout="2"><li>
-	<a href="#" aria-label="Mangosteen Organic From South Canada—1Kg"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-400x400.webp" alt="Mangosteen Organic From South Canada—1Kg" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/organic_products_1_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/organic_products_1_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
+	<a href="#" aria-label="Mangosteen Organic From South Canada—1Kg"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-400x400.webp" alt="Mangosteen Organic From South Canada—1Kg" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_1-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/organic_products_1_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_1_2-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/organic_products_1_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
 		</a>-10%<a href="#" data-quantity="1" data-product_id="3091" aria-label="Add &ldquo;Mangosteen Organic From South Canada—1Kg&rdquo; to the wishlist" rel="nofollow"><svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>Add to wishlist</a><a href="#" role="button" data-product_id="3091" aria-label="Compare &ldquo;Mangosteen Organic From South Canada—1Kg&rdquo;" rel="nofollow">
 			<svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M422.6 278.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L434.7 176H64c-17.7 0-32-14.3-32-32s14.3-32 32-32H434.7L377.4 54.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l112 112c12.5 12.5 12.5 32.8 0 45.3l-112 112zm-269.3 224l-112-112c-12.5-12.5-12.5-32.8 0-45.3l112-112c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L141.3 336H512c17.7 0 32 14.3 32 32s-14.3 32-32 32H141.3l57.4 57.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0z"/></svg>
 			Compare
@@ -9418,7 +9418,7 @@ Pure Organic—Vegan				</h2>
 	<del aria-hidden="true"><bdi>&#36;195.00</bdi></del> Original price was: &#036;195.00.<ins aria-hidden="true"><bdi>&#36;175.00</bdi></ins>Current price is: &#036;175.00.
 <a href="#" data-quantity="1" data-product_id="3091" data-product_sku="OG0003GL-1" aria-label="Add to cart: &ldquo;Mangosteen Organic From South Canada—1Kg&rdquo;" rel="nofollow" data-success_message="&ldquo;Mangosteen Organic From South Canada—1Kg&rdquo; has been added to your cart" data-tooltip="Add to Cart"><svg width="15" height="16" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to Cart</a></li>
 <li>
-	<a href="#" aria-label="VietNamese Specialty Fresh Litchi Plump Fruit"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-400x400.webp" alt="VietNamese Specialty Fresh Litchi Plump Fruit" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_12_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_12_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
+	<a href="#" aria-label="VietNamese Specialty Fresh Litchi Plump Fruit"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-400x400.webp" alt="VietNamese Specialty Fresh Litchi Plump Fruit" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_1-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_12_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_12_2-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_12_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
 		</a><a href="#" data-quantity="1" data-product_id="2935" aria-label="Add &ldquo;VietNamese Specialty Fresh Litchi Plump Fruit&rdquo; to the wishlist" rel="nofollow"><svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>Add to wishlist</a><a href="#" role="button" data-product_id="2935" aria-label="Compare &ldquo;VietNamese Specialty Fresh Litchi Plump Fruit&rdquo;" rel="nofollow">
 			<svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M422.6 278.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L434.7 176H64c-17.7 0-32-14.3-32-32s14.3-32 32-32H434.7L377.4 54.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l112 112c12.5 12.5 12.5 32.8 0 45.3l-112 112zm-269.3 224l-112-112c-12.5-12.5-12.5-32.8 0-45.3l112-112c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L141.3 336H512c17.7 0 32 14.3 32 32s-14.3 32-32 32H141.3l57.4 57.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0z"/></svg>
 			Compare
@@ -9428,7 +9428,7 @@ Pure Organic—Vegan				</h2>
 	<bdi>&#36;150.00</bdi>
 <a href="#" data-quantity="1" data-product_id="2935" data-product_sku="OG0013GL" aria-label="Add to cart: &ldquo;VietNamese Specialty Fresh Litchi Plump Fruit&rdquo;" rel="nofollow" data-success_message="&ldquo;VietNamese Specialty Fresh Litchi Plump Fruit&rdquo; has been added to your cart" data-tooltip="Add to Cart"><svg width="15" height="16" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to Cart</a></li>
 <li>
-	<a href="#" aria-label="Organic Fresh Oranges From South France—1Kg"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-400x400.webp" alt="Organic Fresh Oranges From South France—1Kg" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/organic_products_13_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/organic_products_13_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
+	<a href="#" aria-label="Organic Fresh Oranges From South France—1Kg"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-400x400.webp" alt="Organic Fresh Oranges From South France—1Kg" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_1-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/organic_products_13_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_13_2-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/organic_products_13_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
 		</a><a href="#" data-quantity="1" data-product_id="3094" aria-label="Add &ldquo;Organic Fresh Oranges From South France—1Kg&rdquo; to the wishlist" rel="nofollow"><svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>Add to wishlist</a><a href="#" role="button" data-product_id="3094" aria-label="Compare &ldquo;Organic Fresh Oranges From South France—1Kg&rdquo;" rel="nofollow">
 			<svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M422.6 278.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L434.7 176H64c-17.7 0-32-14.3-32-32s14.3-32 32-32H434.7L377.4 54.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l112 112c12.5 12.5 12.5 32.8 0 45.3l-112 112zm-269.3 224l-112-112c-12.5-12.5-12.5-32.8 0-45.3l112-112c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L141.3 336H512c17.7 0 32 14.3 32 32s-14.3 32-32 32H141.3l57.4 57.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0z"/></svg>
 			Compare
@@ -9438,7 +9438,7 @@ Pure Organic—Vegan				</h2>
 	<bdi>&#36;120.00</bdi>
 <a href="#" data-quantity="1" data-product_id="3094" data-product_sku="OG0002GL-1" aria-label="Add to cart: &ldquo;Organic Fresh Oranges From South France—1Kg&rdquo;" rel="nofollow" data-success_message="&ldquo;Organic Fresh Oranges From South France—1Kg&rdquo; has been added to your cart" data-tooltip="Add to Cart"><svg width="15" height="16" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to Cart</a></li>
 <li>
-	<a href="#" aria-label="Guava Ruby Red Flesh From South Canada—1Kg"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-400x400.webp" alt="Guava Ruby Red Flesh From South Canada—1Kg" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_9_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_9_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
+	<a href="#" aria-label="Guava Ruby Red Flesh From South Canada—1Kg"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-400x400.webp" alt="Guava Ruby Red Flesh From South Canada—1Kg" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_1-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_9_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_9_2-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_9_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
 		</a><a href="#" data-quantity="1" data-product_id="2947" aria-label="Add &ldquo;Guava Ruby Red Flesh From South Canada—1Kg&rdquo; to the wishlist" rel="nofollow"><svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>Add to wishlist</a><a href="#" role="button" data-product_id="2947" aria-label="Compare &ldquo;Guava Ruby Red Flesh From South Canada—1Kg&rdquo;" rel="nofollow">
 			<svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M422.6 278.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L434.7 176H64c-17.7 0-32-14.3-32-32s14.3-32 32-32H434.7L377.4 54.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l112 112c12.5 12.5 12.5 32.8 0 45.3l-112 112zm-269.3 224l-112-112c-12.5-12.5-12.5-32.8 0-45.3l112-112c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L141.3 336H512c17.7 0 32 14.3 32 32s-14.3 32-32 32H141.3l57.4 57.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0z"/></svg>
 			Compare
@@ -9448,7 +9448,7 @@ Pure Organic—Vegan				</h2>
 	<bdi>&#36;120.00</bdi>
 <a href="#" data-quantity="1" data-product_id="2947" data-product_sku="OG0004GL" aria-label="Add to cart: &ldquo;Guava Ruby Red Flesh From South Canada—1Kg&rdquo;" rel="nofollow" data-success_message="&ldquo;Guava Ruby Red Flesh From South Canada—1Kg&rdquo; has been added to your cart" data-tooltip="Add to Cart"><svg width="15" height="16" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to Cart</a></li>
 <li>
-	<a href="#" aria-label="Vegetable Chappan Kaddu Seeds 001 Packs—1Kg"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-400x400.webp" alt="Vegetable Chappan Kaddu Seeds 001 Packs—1Kg" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/organic_products_11_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/organic_products_11_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
+	<a href="#" aria-label="Vegetable Chappan Kaddu Seeds 001 Packs—1Kg"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-400x400.webp" alt="Vegetable Chappan Kaddu Seeds 001 Packs—1Kg" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_1-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/organic_products_11_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_11_2-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/organic_products_11_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
 		</a>-10%<a href="#" data-quantity="1" data-product_id="3097" aria-label="Add &ldquo;Vegetable Chappan Kaddu Seeds 001 Packs—1Kg&rdquo; to the wishlist" rel="nofollow"><svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>Add to wishlist</a><a href="#" role="button" data-product_id="3097" aria-label="Compare &ldquo;Vegetable Chappan Kaddu Seeds 001 Packs—1Kg&rdquo;" rel="nofollow">
 			<svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M422.6 278.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L434.7 176H64c-17.7 0-32-14.3-32-32s14.3-32 32-32H434.7L377.4 54.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l112 112c12.5 12.5 12.5 32.8 0 45.3l-112 112zm-269.3 224l-112-112c-12.5-12.5-12.5-32.8 0-45.3l112-112c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L141.3 336H512c17.7 0 32 14.3 32 32s-14.3 32-32 32H141.3l57.4 57.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0z"/></svg>
 			Compare
@@ -9467,21 +9467,21 @@ rich flavour to develop. Nature left to do what it does best. They’re then pee
 chopped and packed with tomato juice.				
 							<a href="#" aria-label="Link for Get at Only $58.00">
 			Get at Only $58.00		</a>
-															<img width="1410" height="900" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-2.webp" alt="" srcset="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-2.webp 1410w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-2-700x447.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-2-300x191.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-2-768x490.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-2-1024x654.webp 1024w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-2-130x83.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-2-600x383.webp 600w" sizes="(max-width: 1410px) 100vw, 1410px" />															
+															<img width="1410" height="900" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-2.webp" alt="" srcset="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-2.webp 1410w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-2-700x447.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-2-300x191.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-2-768x490.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-2-1024x654.webp 1024w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-2-130x83.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-2-600x383.webp 600w" sizes="(max-width: 1410px) 100vw, 1410px" />															
 								Unlimited delivery for only $7.59							
 								Specials up to 50% Off!							
-					<img width="914" height="500" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-3.webp" alt="" fetchpriority="high" loading="eager" decoding="async" srcset="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-3.webp 914w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-3-700x383.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-3-300x164.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-3-768x420.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-3-130x71.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-3-600x328.webp 600w" sizes="(max-width: 914px) 100vw, 914px" /><h3>Potato Snacks—Save $5.00</h3>Save 50% on order more than $5.00. Delivery in 1 days. Apply for the first 1k Customers.		<a href="#" aria-label="Link for Shop Save">
+					<img width="914" height="500" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-3.webp" alt="" fetchpriority="high" loading="eager" decoding="async" srcset="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-3.webp 914w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-3-700x383.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-3-300x164.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-3-768x420.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-3-130x71.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-3-600x328.webp 600w" sizes="(max-width: 914px) 100vw, 914px" /><h3>Potato Snacks—Save $5.00</h3>Save 50% on order more than $5.00. Delivery in 1 days. Apply for the first 1k Customers.		<a href="#" aria-label="Link for Shop Save">
 			Shop Save		</a>
-		<img width="914" height="500" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-4.webp" alt="" loading="lazy" decoding="async" srcset="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-4.webp 914w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-4-700x383.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-4-300x164.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-4-768x420.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-4-130x71.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-4-600x328.webp 600w" sizes="auto, (max-width: 914px) 100vw, 914px" /><h3>Butter Sauce—Save $3.99</h3>Save 50% on order more than $59. Delivery in 1 days. Apply for the first 1k Customers.		<a href="#" aria-label="Link for Shop Save">
+		<img width="914" height="500" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-4.webp" alt="" loading="lazy" decoding="async" srcset="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-4.webp 914w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-4-700x383.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-4-300x164.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-4-768x420.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-4-130x71.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-4-600x328.webp 600w" sizes="auto, (max-width: 914px) 100vw, 914px" /><h3>Butter Sauce—Save $3.99</h3>Save 50% on order more than $59. Delivery in 1 days. Apply for the first 1k Customers.		<a href="#" aria-label="Link for Shop Save">
 			Shop Save		</a>
-		<img width="914" height="500" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-5.webp" alt="" loading="lazy" decoding="async" srcset="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-5.webp 914w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-5-700x383.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-5-300x164.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-5-768x420.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-5-130x71.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-5-600x328.webp 600w" sizes="auto, (max-width: 914px) 100vw, 914px" /><h3>Fresh Pork—Only Each $5.00</h3>Save 10% on order more than $5.00. Delivery in 1 days. Apply for the first 1k Customers.		<a href="#" aria-label="Link for Shop Save">
+		<img width="914" height="500" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-5.webp" alt="" loading="lazy" decoding="async" srcset="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-5.webp 914w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-5-700x383.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-5-300x164.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-5-768x420.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-5-130x71.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-5-600x328.webp 600w" sizes="auto, (max-width: 914px) 100vw, 914px" /><h3>Fresh Pork—Only Each $5.00</h3>Save 10% on order more than $5.00. Delivery in 1 days. Apply for the first 1k Customers.		<a href="#" aria-label="Link for Shop Save">
 			Shop Save		</a>
 		<svg aria-hidden="true" role="img" focusable="false" width="7" height="11" viewBox="0 0 7 11" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 11L0 5.5L5.5 0L6.47625 0.97625L1.9525 5.5L6.47625 10.0238L5.5 11Z" fill="currentColor"/></svg><svg aria-hidden="true" role="img" focusable="false" width="7" height="11" viewBox="0 0 7 11" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 11L7 5.5L1.5 0L0.52375 0.97625L5.0475 5.5L0.52375 10.0238L1.5 11Z" fill="currentColor"/></svg>				
 				<h2>
 					Customer Favorites				</h2>
 					Unmatched design—superior performance and customer satisfaction in one.				
 					<ul data-layout="2"><li>
-	<a href="#" aria-label="Fresh Organic Strawberries From South France"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_1-400x400.webp" alt="Fresh Organic Strawberries From South France" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_1-130x130.webp 130w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_14_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_14_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
+	<a href="#" aria-label="Fresh Organic Strawberries From South France"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_1-400x400.webp" alt="Fresh Organic Strawberries From South France" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_1-130x130.webp 130w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_14_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_14_2-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_14_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
 		</a><p>Out of stock</p><a href="#" data-quantity="1" data-product_id="2929" aria-label="Add &ldquo;Fresh Organic Strawberries From South France&rdquo; to the wishlist" rel="nofollow"><svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>Add to wishlist</a><a href="#" role="button" data-product_id="2929" aria-label="Compare &ldquo;Fresh Organic Strawberries From South France&rdquo;" rel="nofollow">
 			<svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M422.6 278.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L434.7 176H64c-17.7 0-32-14.3-32-32s14.3-32 32-32H434.7L377.4 54.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l112 112c12.5 12.5 12.5 32.8 0 45.3l-112 112zm-269.3 224l-112-112c-12.5-12.5-12.5-32.8 0-45.3l112-112c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L141.3 336H512c17.7 0 32 14.3 32 32s-14.3 32-32 32H141.3l57.4 57.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0z"/></svg>
 			Compare
@@ -9491,7 +9491,7 @@ chopped and packed with tomato juice.
 	<del aria-hidden="true"><bdi>&#36;195.00</bdi></del> Original price was: &#036;195.00.<ins aria-hidden="true"><bdi>&#36;175.00</bdi></ins>Current price is: &#036;175.00.
 <a href="#" data-quantity="1" data-product_id="2929" data-product_sku="OG0003GL" aria-label="Read more about &ldquo;Fresh Organic Strawberries From South France&rdquo;" rel="nofollow" data-success_message="" data-tooltip="Out of Stock"><svg width="15" height="16" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Out of Stock</a></li>
 <li>
-	<a href="#" aria-label="Sour Cream and Onion Flavored Potato Chip Snacks"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_1-400x400.webp" alt="Sour Cream and Onion Flavored Potato Chip Snacks" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_1-130x130.webp 130w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_3_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_3_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
+	<a href="#" aria-label="Sour Cream and Onion Flavored Potato Chip Snacks"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_1-400x400.webp" alt="Sour Cream and Onion Flavored Potato Chip Snacks" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_1-130x130.webp 130w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_3_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_3_2-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_3_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
 		</a><a href="#" data-quantity="1" data-product_id="2990" aria-label="Add &ldquo;Sour Cream and Onion Flavored Potato Chip Snacks&rdquo; to the wishlist" rel="nofollow"><svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>Add to wishlist</a><a href="#" role="button" data-product_id="2990" aria-label="Compare &ldquo;Sour Cream and Onion Flavored Potato Chip Snacks&rdquo;" rel="nofollow">
 			<svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M422.6 278.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L434.7 176H64c-17.7 0-32-14.3-32-32s14.3-32 32-32H434.7L377.4 54.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l112 112c12.5 12.5 12.5 32.8 0 45.3l-112 112zm-269.3 224l-112-112c-12.5-12.5-12.5-32.8 0-45.3l112-112c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L141.3 336H512c17.7 0 32 14.3 32 32s-14.3 32-32 32H141.3l57.4 57.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0z"/></svg>
 			Compare
@@ -9501,7 +9501,7 @@ chopped and packed with tomato juice.
 	<bdi>&#36;175.00</bdi>
 <a href="#" data-quantity="1" data-product_id="2990" data-product_sku="OG0012GL" aria-label="Add to cart: &ldquo;Sour Cream and Onion Flavored Potato Chip Snacks&rdquo;" rel="nofollow" data-success_message="&ldquo;Sour Cream and Onion Flavored Potato Chip Snacks&rdquo; has been added to your cart" data-tooltip="Add to Cart"><svg width="15" height="16" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to Cart</a></li>
 <li>
-	<a href="#" aria-label="Mushroom and Pepper Sauce Ingredients From China"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-400x400.webp" alt="Mushroom and Pepper Sauce Ingredients From China" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_17_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_17_4.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
+	<a href="#" aria-label="Mushroom and Pepper Sauce Ingredients From China"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-400x400.webp" alt="Mushroom and Pepper Sauce Ingredients From China" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_1-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_17_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_17_4-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_17_4.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
 		</a><a href="#" data-quantity="1" data-product_id="2921" aria-label="Add &ldquo;Mushroom and Pepper Sauce Ingredients From China&rdquo; to the wishlist" rel="nofollow"><svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>Add to wishlist</a><a href="#" role="button" data-product_id="2921" aria-label="Compare &ldquo;Mushroom and Pepper Sauce Ingredients From China&rdquo;" rel="nofollow">
 			<svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M422.6 278.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L434.7 176H64c-17.7 0-32-14.3-32-32s14.3-32 32-32H434.7L377.4 54.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l112 112c12.5 12.5 12.5 32.8 0 45.3l-112 112zm-269.3 224l-112-112c-12.5-12.5-12.5-32.8 0-45.3l112-112c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L141.3 336H512c17.7 0 32 14.3 32 32s-14.3 32-32 32H141.3l57.4 57.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0z"/></svg>
 			Compare
@@ -9511,7 +9511,7 @@ chopped and packed with tomato juice.
 	<bdi>&#36;150.00</bdi>
 <a href="#" data-quantity="1" data-product_id="2921" data-product_sku="OG0008GL" aria-label="Add to cart: &ldquo;Mushroom and Pepper Sauce Ingredients From China&rdquo;" rel="nofollow" data-success_message="&ldquo;Mushroom and Pepper Sauce Ingredients From China&rdquo; has been added to your cart" data-tooltip="Add to Cart"><svg width="15" height="16" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to Cart</a></li>
 <li>
-	<a href="#" aria-label="Angie&#8217;s Boom Chicka Pop Sweet and Salty Corn 0.5Kg"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-400x400.webp" alt="Angie&#039;s Boom Chicka Pop Sweet and Salty Corn 0.5Kg" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_6_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_6_4.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
+	<a href="#" aria-label="Angie&#8217;s Boom Chicka Pop Sweet and Salty Corn 0.5Kg"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-400x400.webp" alt="Angie&#039;s Boom Chicka Pop Sweet and Salty Corn 0.5Kg" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_1-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_6_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_6_4-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_6_4.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
 		</a>-11%<p>Pre-Order</p><a href="#" data-quantity="1" data-product_id="2969" aria-label="Add &ldquo;Angie&#039;s Boom Chicka Pop Sweet and Salty Corn 0.5Kg&rdquo; to the wishlist" rel="nofollow"><svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>Add to wishlist</a><a href="#" role="button" data-product_id="2969" aria-label="Compare &ldquo;Angie&#039;s Boom Chicka Pop Sweet and Salty Corn 0.5Kg&rdquo;" rel="nofollow">
 			<svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M422.6 278.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L434.7 176H64c-17.7 0-32-14.3-32-32s14.3-32 32-32H434.7L377.4 54.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l112 112c12.5 12.5 12.5 32.8 0 45.3l-112 112zm-269.3 224l-112-112c-12.5-12.5-12.5-32.8 0-45.3l112-112c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L141.3 336H512c17.7 0 32 14.3 32 32s-14.3 32-32 32H141.3l57.4 57.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0z"/></svg>
 			Compare
@@ -9521,7 +9521,7 @@ chopped and packed with tomato juice.
 	<del aria-hidden="true"><bdi>&#36;175.00</bdi></del> Original price was: &#036;175.00.<ins aria-hidden="true"><bdi>&#36;155.00</bdi></ins>Current price is: &#036;155.00.
 <a href="#" data-quantity="1" data-product_id="2969" data-product_sku="OG0001GL" aria-label="Add to cart: &ldquo;Angie&#039;s Boom Chicka Pop Sweet and Salty Corn 0.5Kg&rdquo;" rel="nofollow" data-success_message="&ldquo;Angie&#039;s Boom Chicka Pop Sweet and Salty Corn 0.5Kg&rdquo; has been added to your cart" data-tooltip="Pre-Order"><svg width="15" height="16" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Pre-Order</a></li>
 <li>
-	<a href="#" aria-label="International Fresh Organic Ginger Premium Export"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-400x400.webp" alt="International Fresh Organic Ginger Premium Export" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_8_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-600x600.webp 600w, https://foodforlife.resilbyte.com/wp-content/uploads/2025/04/organic_products_8_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
+	<a href="#" aria-label="International Fresh Organic Ginger Premium Export"><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-400x400.webp" alt="International Fresh Organic Ginger Premium Export" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_1-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_8_1.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" /><img width="400" height="400" src="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-400x400.webp" alt="" decoding="async" srcset="https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-400x400.webp 400w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-300x300.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-150x150.webp 150w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-768x768.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-700x700.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-130x130.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic_products_8_2-600x600.webp 600w, https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic_products_8_2.webp 1000w" sizes="(max-width: 400px) 100vw, 400px" />			
 		</a><a href="#" data-quantity="1" data-product_id="2953" aria-label="Add &ldquo;International Fresh Organic Ginger Premium Export&rdquo; to the wishlist" rel="nofollow"><svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M244 84L255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84C243.1 84 244 84.01 244 84L244 84zM255.1 163.9L210.1 117.1C188.4 96.28 157.6 86.4 127.3 91.44C81.55 99.07 48 138.7 48 185.1V190.9C48 219.1 59.71 246.1 80.34 265.3L256 429.3L431.7 265.3C452.3 246.1 464 219.1 464 190.9V185.1C464 138.7 430.4 99.07 384.7 91.44C354.4 86.4 323.6 96.28 301.9 117.1L255.1 163.9z"/></svg>Add to wishlist</a><a href="#" role="button" data-product_id="2953" aria-label="Compare &ldquo;International Fresh Organic Ginger Premium Export&rdquo;" rel="nofollow">
 			<svg width="24" height="24" role="image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M422.6 278.6c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L434.7 176H64c-17.7 0-32-14.3-32-32s14.3-32 32-32H434.7L377.4 54.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l112 112c12.5 12.5 12.5 32.8 0 45.3l-112 112zm-269.3 224l-112-112c-12.5-12.5-12.5-32.8 0-45.3l112-112c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3L141.3 336H512c17.7 0 32 14.3 32 32s-14.3 32-32 32H141.3l57.4 57.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0z"/></svg>
 			Compare
@@ -9532,13 +9532,13 @@ chopped and packed with tomato juice.
 <a href="#" data-quantity="1" data-product_id="2953" data-product_sku="OG0005GL" aria-label="Add to cart: &ldquo;International Fresh Organic Ginger Premium Export&rdquo;" rel="nofollow" data-success_message="&ldquo;International Fresh Organic Ginger Premium Export&rdquo; has been added to your cart" data-tooltip="Add to Cart"><svg width="15" height="16" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to Cart</a></li>
 </ul>
 <svg aria-hidden="true" role="img" focusable="false" width="7" height="11" viewBox="0 0 7 11" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 11L0 5.5L5.5 0L6.47625 0.97625L1.9525 5.5L6.47625 10.0238L5.5 11Z" fill="currentColor"/></svg><svg aria-hidden="true" role="img" focusable="false" width="7" height="11" viewBox="0 0 7 11" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 11L7 5.5L1.5 0L0.52375 0.97625L5.0475 5.5L0.52375 10.0238L1.5 11Z" fill="currentColor"/></svg>				
-					<img width="676" height="1000" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-6.webp" alt="" loading="lazy" decoding="async" srcset="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-6.webp 676w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-6-203x300.webp 203w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-6-600x888.webp 600w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-6-130x192.webp 130w" sizes="auto, (max-width: 676px) 100vw, 676px" />Under $7.00<br> Pure Organic—Vegan		<a href="#" aria-label="Link for Shop Save">
+					<img width="676" height="1000" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-6.webp" alt="" loading="lazy" decoding="async" srcset="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-6.webp 676w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-6-203x300.webp 203w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-6-600x888.webp 600w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-6-130x192.webp 130w" sizes="auto, (max-width: 676px) 100vw, 676px" />Under $7.00<br> Pure Organic—Vegan		<a href="#" aria-label="Link for Shop Save">
 			Shop Save		</a>
-		<img width="676" height="1000" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-7.webp" alt="" loading="lazy" decoding="async" srcset="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-7.webp 676w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-7-203x300.webp 203w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-7-600x888.webp 600w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-7-130x192.webp 130w" sizes="auto, (max-width: 676px) 100vw, 676px" />Under $5.00<br> Super High—Protein		<a href="#" aria-label="Link for Shop Save">
+		<img width="676" height="1000" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-7.webp" alt="" loading="lazy" decoding="async" srcset="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-7.webp 676w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-7-203x300.webp 203w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-7-600x888.webp 600w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-7-130x192.webp 130w" sizes="auto, (max-width: 676px) 100vw, 676px" />Under $5.00<br> Super High—Protein		<a href="#" aria-label="Link for Shop Save">
 			Shop Save		</a>
-		<img width="676" height="1000" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-8.webp" alt="" loading="lazy" decoding="async" srcset="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-8.webp 676w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-8-203x300.webp 203w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-8-600x888.webp 600w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-8-130x192.webp 130w" sizes="auto, (max-width: 676px) 100vw, 676px" />Under $15.00<br> Pure Organic—Drinks		<a href="#" aria-label="Link for Shop Save">
+		<img width="676" height="1000" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-8.webp" alt="" loading="lazy" decoding="async" srcset="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-8.webp 676w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-8-203x300.webp 203w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-8-600x888.webp 600w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-8-130x192.webp 130w" sizes="auto, (max-width: 676px) 100vw, 676px" />Under $15.00<br> Pure Organic—Drinks		<a href="#" aria-label="Link for Shop Save">
 			Shop Save		</a>
-		<img width="676" height="1000" src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-9.webp" alt="" loading="lazy" decoding="async" srcset="https://foodforlife.resilbyte.com/wp-content/uploads/2025/05/hh-bn-9.webp 676w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-9-203x300.webp 203w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-9-600x888.webp 600w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-9-130x192.webp 130w" sizes="auto, (max-width: 676px) 100vw, 676px" />Under $55.00<br> Best Choice—Meat		<a href="#" aria-label="Link for Shop Save">
+		<img width="676" height="1000" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-9.webp" alt="" loading="lazy" decoding="async" srcset="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/05/hh-bn-9.webp 676w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-9-203x300.webp 203w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-9-600x888.webp 600w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/hh-bn-9-130x192.webp 130w" sizes="auto, (max-width: 676px) 100vw, 676px" />Under $55.00<br> Best Choice—Meat		<a href="#" aria-label="Link for Shop Save">
 			Shop Save		</a>
 		<svg aria-hidden="true" role="img" focusable="false" width="7" height="11" viewBox="0 0 7 11" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 11L0 5.5L5.5 0L6.47625 0.97625L1.9525 5.5L6.47625 10.0238L5.5 11Z" fill="currentColor"/></svg><svg aria-hidden="true" role="img" focusable="false" width="7" height="11" viewBox="0 0 7 11" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 11L7 5.5L1.5 0L0.52375 0.97625L5.0475 5.5L0.52375 10.0238L1.5 11Z" fill="currentColor"/></svg>				
 				<h2>
@@ -10861,13 +10861,13 @@ Saturday - Sunday: 10:00am - 5:00pm</p>
 <!-- wp:columns {"isStackedOnMobile":false} -->
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":339,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":340,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -10965,13 +10965,13 @@ Saturday - Sunday: 10:00am - 5:00pm</p>
 <!-- wp:columns {"isStackedOnMobile":false} -->
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":339,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":340,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -11069,13 +11069,13 @@ Saturday - Sunday: 10:00am - 5:00pm</p>
 <!-- wp:columns {"isStackedOnMobile":false} -->
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":339,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":340,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -11172,13 +11172,13 @@ Saturday - Sunday: 10:00am - 5:00pm</p>
 <!-- wp:columns {"isStackedOnMobile":false} -->
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":339,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":340,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -11275,13 +11275,13 @@ Saturday - Sunday: 10:00am - 5:00pm</p>
 <!-- wp:columns {"isStackedOnMobile":false} -->
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":339,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":340,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -11376,13 +11376,13 @@ Saturday - Sunday: 10:00am - 5:00pm</p>
 <!-- wp:columns {"isStackedOnMobile":false} -->
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":339,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":340,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -11485,13 +11485,13 @@ Saturday - Sunday: 10:00am - 5:00pm</p>
 <!-- wp:columns {"isStackedOnMobile":false} -->
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":339,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":340,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -13330,13 +13330,13 @@ This email is a receipt for your contact form submission on our website ([_site_
 <!-- wp:columns {"isStackedOnMobile":false} -->
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":339,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":340,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -13432,13 +13432,13 @@ This email is a receipt for your contact form submission on our website ([_site_
 <!-- wp:columns {"isStackedOnMobile":false} -->
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":339,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":340,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -13542,13 +13542,13 @@ This email is a receipt for your contact form submission on our website ([_site_
 <!-- wp:columns {"isStackedOnMobile":false} -->
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":339,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":340,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -13654,13 +13654,13 @@ This email is a receipt for your contact form submission on our website ([_site_
 <!-- wp:columns {"isStackedOnMobile":false} -->
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":339,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":340,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -16547,13 +16547,13 @@ Choose organic for a better tomorrow — safe for your family, good for the plan
 <!-- wp:columns {"isStackedOnMobile":false} -->
 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":339,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-1.webp" alt="" class="wp-image-339"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":340,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://foodforlife.resilbyte.com/wp-content/uploads/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/03/blog-1-2.webp" alt="" class="wp-image-340"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
