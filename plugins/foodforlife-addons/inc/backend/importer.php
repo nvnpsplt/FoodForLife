@@ -63,6 +63,42 @@ class Importer {
 	function importer() {
 		return array(
 			array(
+				'name'       => 'Home - Food For Life',
+				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/demo-content.xml',
+				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/widgets.wie',
+				'customizer' => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/customizer.dat',
+				'preview'   => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/preview.jpg',
+				'pages'      => array(
+					'front_page' => 'Home',
+					'blog'       => 'Blog',
+					'cart'		 => 'Shopping Cart',
+					'checkout'	 => 'Checkout',
+				),
+				'menus'      => array(
+					'primary-menu' 		=> 'primary-menu',
+				),
+				'options'    => array(
+					'woocommerce_thumbnail_cropping' => 'custom',
+					'woocommerce_thumbnail_cropping_custom_width' => 3,
+					'woocommerce_thumbnail_cropping_custom_height' => 4,
+					'shop_catalog_image_size'   => array(
+						'width'  => 780,
+						'height' => 1040,
+						'crop'   => 1,
+					),
+					'shop_single_image_size'    => array(
+						'width'  => 400,
+						'height' => 533,
+						'crop'   => 1,
+					),
+					'shop_thumbnail_image_size' => array(
+						'width'  => 130,
+						'height' => 173,
+						'crop'   => 1,
+					),
+				),
+			),
+			array(
 				'name'       => 'Home - Main Demo',
 				'content'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-main-demo/demo-content.xml',
 				'widgets'     => 'https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/home-main-demo/widgets.wie',
