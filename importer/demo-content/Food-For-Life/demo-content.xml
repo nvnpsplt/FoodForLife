@@ -176,7 +176,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>23</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[404_page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[404_page]]></wp:term_name>
@@ -202,7 +202,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>20</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[archive]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[archive]]></wp:term_name>
@@ -255,14 +255,14 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>21</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[cart_page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[cart_page]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>22</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[checkout_page]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[checkout_page]]></wp:term_name>
@@ -288,7 +288,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>16</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[enable]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[enable]]></wp:term_name>
@@ -350,7 +350,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>17</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[footer]]></wp:term_name>
@@ -552,7 +552,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>18</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[navigation_bar]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[navigation_bar]]></wp:term_name>
@@ -592,7 +592,7 @@
 	</wp:term>
 		<wp:term>
 		<wp:term_id>19</wp:term_id>
-		<wp:term_taxonomy><![CDATA[glozin_builder_type]]></wp:term_taxonomy>
+		<wp:term_taxonomy><![CDATA[foodforlife_builder_type]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[product]]></wp:term_slug>
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[product]]></wp:term_name>
@@ -4672,10 +4672,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Footer v1]]></title>
-		<link>https://foodforlife.resilbyte.com/?glozin_builder=footer-v1</link>
+		<link>https://foodforlife.resilbyte.com/?foodforlife_builder=footer-v1</link>
 		<pubDate>Wed, 19 Mar 2025 03:37:03 +0000</pubDate>
 		<dc:creator><![CDATA[resilbyte]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?glozin_builder=footer-v1</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?foodforlife_builder=footer-v1</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>
 					Help Customers				</h2>
@@ -4723,11 +4723,11 @@
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_builder]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_builder]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_builder_type" nicename="enable"><![CDATA[enable]]></category>
-		<category domain="glozin_builder_type" nicename="footer"><![CDATA[footer]]></category>
+										<category domain="foodforlife_builder_type" nicename="enable"><![CDATA[enable]]></category>
+		<category domain="foodforlife_builder_type" nicename="footer"><![CDATA[footer]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
@@ -4979,10 +4979,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Newsletter]]></title>
-		<link>https://foodforlife.resilbyte.com/?glozin_popup=newsletter</link>
+		<link>https://foodforlife.resilbyte.com/?foodforlife_popup=newsletter</link>
 		<pubDate>Tue, 15 Apr 2025 06:36:45 +0000</pubDate>
 		<dc:creator><![CDATA[resilbyte]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?post_type=glozin_popup&#038;p=1367</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?post_type=foodforlife_popup&#038;p=1367</guid>
 		<description></description>
 		<content:encoded><![CDATA[<img width="840" height="760" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic.webp" alt="" srcset="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic.webp 840w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-300x271.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-768x695.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-600x543.webp 600w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-130x118.webp 130w" sizes="(max-width: 840px) 100vw, 840px" />															
 				<h2>
@@ -5007,7 +5007,7 @@
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_popup]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_popup]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -5101,10 +5101,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Promotion]]></title>
-		<link>https://foodforlife.resilbyte.com/?glozin_popup=promotion</link>
+		<link>https://foodforlife.resilbyte.com/?foodforlife_popup=promotion</link>
 		<pubDate>Tue, 15 Apr 2025 06:38:50 +0000</pubDate>
 		<dc:creator><![CDATA[resilbyte]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?post_type=glozin_popup&#038;p=1374</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?post_type=foodforlife_popup&#038;p=1374</guid>
 		<description></description>
 		<content:encoded><![CDATA[<img width="840" height="760" src="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic.webp" alt="" srcset="https://raw.githubusercontent.com/nvnpsplt/FoodForLife/refs/heads/main/importer/demo-content/Food-For-Life/media/2025/04/organic.webp 840w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-700x633.webp 700w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-300x271.webp 300w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-768x695.webp 768w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-130x118.webp 130w, https://raw.githubusercontent.com/uixthemeswp/glozin/refs/heads/main/importer/demo-content/images/organic-600x543.webp 600w" sizes="(max-width: 840px) 100vw, 840px" />															
 				<h2>
@@ -5130,7 +5130,7 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_popup]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_popup]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -5216,10 +5216,10 @@ Big Promotion				</h2>
 							</item>
 					<item>
 		<title><![CDATA[Leave Popup]]></title>
-		<link>https://foodforlife.resilbyte.com/?glozin_popup=leave-popup</link>
+		<link>https://foodforlife.resilbyte.com/?foodforlife_popup=leave-popup</link>
 		<pubDate>Tue, 15 Apr 2025 07:15:12 +0000</pubDate>
 		<dc:creator><![CDATA[resilbyte]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/glozin/?post_type=glozin_popup&#038;p=1385</guid>
+		<guid isPermaLink="false">http://localhost/glozin/?post_type=foodforlife_popup&#038;p=1385</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>
 					Big Save!<br />
@@ -5276,7 +5276,7 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_popup]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_popup]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -5378,10 +5378,10 @@ Big Promotion				</h2>
 							</item>
 					<item>
 		<title><![CDATA[Navigation Bar v1]]></title>
-		<link>https://foodforlife.resilbyte.com/?glozin_builder=navigation-bar-v1</link>
+		<link>https://foodforlife.resilbyte.com/?foodforlife_builder=navigation-bar-v1</link>
 		<pubDate>Wed, 14 May 2025 04:15:53 +0000</pubDate>
 		<dc:creator><![CDATA[resilbyte]]></dc:creator>
-		<guid isPermaLink="false">https://wpglozin.com/organic/?glozin_builder=navigation-bar-v1</guid>
+		<guid isPermaLink="false">https://wpglozin.com/organic/?foodforlife_builder=navigation-bar-v1</guid>
 		<description></description>
 		<content:encoded><![CDATA[<a href="https://foodforlife.resilbyte.com"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" style="fill: none;"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10 15.001v-2.5M8.392 2.353 2.617 6.977c-.65.517-1.066 1.609-.924 2.425L2.8 16.035c.2 1.183 1.333 2.141 2.533 2.141h9.332c1.192 0 2.333-.966 2.533-2.141l1.108-6.633c.134-.816-.283-1.908-.924-2.425l-5.775-4.616c-.891-.716-2.333-.716-3.216-.008Z"></path></svg>Home</a>				
 					<a href="https://foodforlife.resilbyte.com/products/"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" style="fill: none;"><g stroke="CURRENTCOLOR" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><path d="M2.508 9.352v3.742c0 3.741 1.5 5.241 5.242 5.241h4.492c3.741 0 5.241-1.5 5.241-5.241V9.352"></path><path d="M10 10.002c1.525 0 2.65-1.242 2.5-2.767l-.55-5.566H8.058L7.5 7.235c-.15 1.525.975 2.767 2.5 2.767Z"></path><path d="M15.258 10.002c1.684 0 2.917-1.367 2.75-3.042l-.233-2.291c-.3-2.167-1.133-3-3.317-3h-2.541L12.5 7.51c.142 1.375 1.383 2.492 2.758 2.492ZM4.7 10.002c1.375 0 2.617-1.117 2.75-2.492l.183-1.841.4-4H5.492c-2.184 0-3.017.833-3.317 3L1.95 6.96c-.167 1.675 1.067 3.042 2.75 3.042ZM10 14.169c-1.392 0-2.083.691-2.083 2.083v2.083h4.166v-2.083c0-1.392-.691-2.083-2.083-2.083Z"></path></g></svg>Shop</a>				
@@ -5399,11 +5399,11 @@ Big Promotion				</h2>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[glozin_builder]]></wp:post_type>
+		<wp:post_type><![CDATA[foodforlife_builder]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="glozin_builder_type" nicename="enable"><![CDATA[enable]]></category>
-		<category domain="glozin_builder_type" nicename="navigation_bar"><![CDATA[navigation_bar]]></category>
+										<category domain="foodforlife_builder_type" nicename="enable"><![CDATA[enable]]></category>
+		<category domain="foodforlife_builder_type" nicename="navigation_bar"><![CDATA[navigation_bar]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
