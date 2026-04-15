@@ -2039,16 +2039,8 @@ class WXRImporter extends \WP_Importer {
 				if ( isset( $this->mapping['user_slug'][ $author_slug ] ) ) {
 					$data['post_author'] = $this->mapping['user_slug'][ $author_slug ];
 				} else {
-					$this->logger->warning( sprintf(
-						__( 'Could not find the author for "%s" (post #%d)', 'wordpress-importer' ),
-						get_the_title( $post_id ),
-						$post_id
-					) );
-					$this->logger->debug( sprintf(
-						__( 'Post %d was imported with author "%s", but could not be found', 'wordpress-importer' ),
-						$post_id,
-						$author_slug
-					) );
+					// Author not found — silently assign to current user (expected during demo import).
+					$data['post_author'] = get_current_user_id();
 				}
 			}
 
@@ -2171,15 +2163,8 @@ class WXRImporter extends \WP_Importer {
 				if ( isset( $this->mapping['user'][ $author_id ] ) ) {
 					$data['user_id'] = $this->mapping['user'][ $author_id ];
 				} else {
-					$this->logger->warning( sprintf(
-						__( 'Could not find the author for comment #%d', 'wordpress-importer' ),
-						$comment_id
-					) );
-					$this->logger->debug( sprintf(
-						__( 'Comment %d was imported with author %d, but could not be found', 'wordpress-importer' ),
-						$comment_id,
-						$author_id
-					) );
+					// Author not found — silently assign to current user (expected during demo import).
+					$data['user_id'] = get_current_user_id();
 				}
 			}
 
